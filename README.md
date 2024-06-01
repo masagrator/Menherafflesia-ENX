@@ -58,4 +58,4 @@ Assets are available only from Release page.
 # Thanks to
 
 - `ijedi1234` for making translation mod, this mod is mainly based on this translation (not directly involved with this project)
-- `Tico Translations` for translating openings and endings texts (not directly involved with this project)
+- `Tico Translations` for translating scenes that in Flowering Abyss version are stored as videos and were not translated in `ijedi1234`'s mod (not directly involved with this project)
