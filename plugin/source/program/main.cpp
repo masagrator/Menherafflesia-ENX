@@ -217,6 +217,26 @@ extern "C" void exl_main(void* x0, void* x1) {
 	patcher.WriteInst(exl::armv8::inst::Adrp(exl::armv8::reg::X1, save_text0 & ~0xFFF));
 	patcher.WriteInst(exl::armv8::inst::AddImmediate(exl::armv8::reg::X1, exl::armv8::reg::X1, save_text0 & 0xFFF));
 
+	patcher.Seek(0x65CC);
+	save_text_address = (uint64_t)exl::util::modules::GetTargetOffset(0x65CC) & ~0xFFF;
+	save_text0 = (uint64_t)ENG::CORRUPTED_SAVE[0] - save_text_address;
+	save_text1 = (uint64_t)ENG::CORRUPTED_SAVE[1] - save_text_address;
+	patcher.WriteInst(exl::armv8::inst::Adrp(exl::armv8::reg::X3, save_text0 & ~0xFFF));
+	patcher.WriteInst(exl::armv8::inst::AddImmediate(exl::armv8::reg::X3, exl::armv8::reg::X3, save_text0 & 0xFFF));
+	patcher.Seek(0x65D8);
+	patcher.WriteInst(exl::armv8::inst::Adrp(exl::armv8::reg::X4, save_text1 & ~0xFFF));
+	patcher.WriteInst(exl::armv8::inst::AddImmediate(exl::armv8::reg::X4, exl::armv8::reg::X4, save_text1 & 0xFFF));
+
+	patcher.Seek(0x48384);
+	save_text_address = (uint64_t)exl::util::modules::GetTargetOffset(0x48384) & ~0xFFF;
+	save_text0 = (uint64_t)ENG::CORRUPTED_SAVE[0] - save_text_address;
+	save_text1 = (uint64_t)ENG::CORRUPTED_SAVE[1] - save_text_address;
+	patcher.WriteInst(exl::armv8::inst::Adrp(exl::armv8::reg::X3, save_text0 & ~0xFFF));
+	patcher.WriteInst(exl::armv8::inst::AddImmediate(exl::armv8::reg::X3, exl::armv8::reg::X3, save_text0 & 0xFFF));
+	patcher.Seek(0x48390);
+	patcher.WriteInst(exl::armv8::inst::Adrp(exl::armv8::reg::X4, save_text1 & ~0xFFF));
+	patcher.WriteInst(exl::armv8::inst::AddImmediate(exl::armv8::reg::X4, exl::armv8::reg::X4, save_text1 & 0xFFF));
+
 	//Patch password auto-fill to copy translated password
 	patcher.Seek(0xF928);
 	save_text_address = (uint64_t)exl::util::modules::GetTargetOffset(0xF928) & ~0xFFF;

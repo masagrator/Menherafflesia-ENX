@@ -140,6 +140,13 @@ namespace ENG {
 
 	static_assert(NOTIFICATIONS.size() == 63);
 
+	std::array CORRUPTED_SAVE = {
+		"Save data is corrupted.",
+		"An error occurred while loading."
+	};
+
+	static_assert(CORRUPTED_SAVE.size() == 2);
+
 	std::array YES_NO = {
 		"YES",
 		"NO",
