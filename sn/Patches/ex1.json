@@ -1,0 +1,422 @@
+[
+	{
+		"LABEL": "0xCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this dream, or reality?"
+	},
+	{
+		"LABEL": "0x16A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x17A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The boundaries between the two are blurred, leading to one possibility."
+	},
+	{
+		"LABEL": "0x213",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Another future for these women may have bloomed somewhere else."
+	},
+	{
+		"LABEL": "0x2BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x2CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a fragment of Jasmine here. She wished for the end, and yet still sought a continuation."
+	},
+	{
+		"LABEL": "0x37F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x38F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's look into that fragment."
+	},
+	{
+		"LABEL": "0x5B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On a beautiful sunny day, I was at an amusement park with Matsuri."
+	},
+	{
+		"LABEL": "0x65F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x66F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou! Come on, this way, this way! Hurry up before the sun sets!"
+	},
+	{
+		"LABEL": "0x6DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It isn't even noon - it's dangerous to be in such a hurry."
+	},
+	{
+		"LABEL": "0x776",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x786",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmmm. You don't understand, Itarou! Time is limited, you know? So it's best to hurry!"
+	},
+	{
+		"LABEL": "0x81A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Matsuri pulls my arm."
+	},
+	{
+		"LABEL": "0x864",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah... Matsuri is always like this."
+	},
+	{
+		"LABEL": "0x8B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's always so full of energy."
+	},
+	{
+		"LABEL": "0x8F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What a bright, cheery girl."
+	},
+	{
+		"LABEL": "0x979",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x989",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, Itarou! Let's go on that roller coaster! Isn't that what people usually do in amusement parks?"
+	},
+	{
+		"LABEL": "0xA56",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xA66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey, what's with that face? You... are scared?"
+	},
+	{
+		"LABEL": "0xB0D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xB1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Come on, don't be mad, I was just teasing. You're so cute."
+	},
+	{
+		"LABEL": "0xBCA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xBDA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't worry! I'll hold your hand!"
+	},
+	{
+		"LABEL": "0xC5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Matsuri had a big smile."
+	},
+	{
+		"LABEL": "0xCAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I'm going to be tossed around all day anyway."
+	},
+	{
+		"LABEL": "0xCF7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the very least, I'll go along with this so Matsuri can be happy."
+	},
+	{
+		"LABEL": "0xE29",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sun is starting to set."
+	},
+	{
+		"LABEL": "0xE63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're about to head home after spending the day in the amusement park."
+	},
+	{
+		"LABEL": "0xF0F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xF1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had so much fun! That was so exciting!"
+	},
+	{
+		"LABEL": "0xFC4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xFD4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Especially the roller coaster! It was so good. I could ride that forever!"
+	},
+	{
+		"LABEL": "0x1091",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x10A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How was it, Itarou? Did you have fun?"
+	},
+	{
+		"LABEL": "0x10F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I told her I did."
+	},
+	{
+		"LABEL": "0x112D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Matsuri smiled when she heard my answer."
+	},
+	{
+		"LABEL": "0x117D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...She's a really happy girl."
+	},
+	{
+		"LABEL": "0x11BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Matsuri is always smiling."
+	},
+	{
+		"LABEL": "0x11FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is also so energetic."
+	},
+	{
+		"LABEL": "0x125F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But behind that cheerfulness, there's a sense of danger, as if it could break at any moment."
+	},
+	{
+		"LABEL": "0x12BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why I can't leave her by herself."
+	},
+	{
+		"LABEL": "0x134A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x135A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey, Itarou."
+	},
+	{
+		"LABEL": "0x1401",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x1411",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had a lot of fun today. I was really happy."
+	},
+	{
+		"LABEL": "0x146F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She tells me this in a small, low voice."
+	},
+	{
+		"LABEL": "0x14BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her red hair and the sunset blend together beautifully."
+	},
+	{
+		"LABEL": "0x1508",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x1518",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted the person I love to break me. That's all I ever wanted."
+	},
+	{
+		"LABEL": "0x1588",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Matsuri's cheerfulness is the flip side of her greatest weakness."
+	},
+	{
+		"LABEL": "0x15D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Somehow, I already knew this, so her confession was not a surprise."
+	},
+	{
+		"LABEL": "0x1640",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is because I am aware of this that I can't help but think one thing."
+	},
+	{
+		"LABEL": "0x1696",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if I can be the one who can satisfy this girl."
+	},
+	{
+		"LABEL": "0x16EF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x16FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... I've been having so much fun spending time with you. I thought it would be okay to put it off just a little bit longer."
+	},
+	{
+		"LABEL": "0x1799",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I can become such a person, then..."
+	},
+	{
+		"LABEL": "0x17DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For Matsuri and I, this could be our happiest possible future."
+	},
+	{
+		"LABEL": "0x1838",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x1848",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you. I love you, Itarou. I really... love you."
+	},
+	{
+		"LABEL": "0x189D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x18AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... will you break me? I mean, when I want it to end."
+	},
+	{
+		"LABEL": "0x1968",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x1978",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha! I knew you'd say that!"
+	},
+	{
+		"LABEL": "0x19D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the end of the sunny day."
+	},
+	{
+		"LABEL": "0x1A1C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will never forget the smile on her face."
+	}
+]

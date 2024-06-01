@@ -1,0 +1,554 @@
+[
+	{
+		"LABEL": "0xCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this dream, or reality?"
+	},
+	{
+		"LABEL": "0x16A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x17A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The boundaries between the two are blurred, leading to one possibility."
+	},
+	{
+		"LABEL": "0x213",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Another future for these women may have bloomed somewhere else."
+	},
+	{
+		"LABEL": "0x2BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x2CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a fragment of Anemone here. The caged girl, whose outstretched hand was caught."
+	},
+	{
+		"LABEL": "0x383",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x393",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's look into that fragment."
+	},
+	{
+		"LABEL": "0x5BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear the sough of the wind."
+	},
+	{
+		"LABEL": "0x5FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sitting on a park bench, I look up at the sky."
+	},
+	{
+		"LABEL": "0x648",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Surrounded by nature, the park looks both beautiful and surreal at the same time."
+	},
+	{
+		"LABEL": "0x6A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's like there's something wrong with me being here..."
+	},
+	{
+		"LABEL": "0x704",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, I understand that this is a certain reality."
+	},
+	{
+		"LABEL": "0x756",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is the future with the girlfriend I chose."
+	},
+	{
+		"LABEL": "0x7A1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you for waiting, Itarou."
+	},
+	{
+		"LABEL": "0x7F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear a voice calling me."
+	},
+	{
+		"LABEL": "0x831",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I look behind me, and..."
+	},
+	{
+		"LABEL": "0x8BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My dear Nenene is standing there, smiling."
+	},
+	{
+		"LABEL": "0x9E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That day, Nenene and I eloped."
+	},
+	{
+		"LABEL": "0xA30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I took her hand and escaped."
+	},
+	{
+		"LABEL": "0xA7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the time, she looked like she was lost in thought, but she held my hand regardless."
+	},
+	{
+		"LABEL": "0xAF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is why I decided to take Nenene with me."
+	},
+	{
+		"LABEL": "0xB48",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To a place far, far away where no one will find us."
+	},
+	{
+		"LABEL": "0xB96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then we reach the present day."
+	},
+	{
+		"LABEL": "0xC6D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene and I walk in the park together."
+	},
+	{
+		"LABEL": "0xCF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "These are such beautiful flowers... So strong in claiming their life."
+	},
+	{
+		"LABEL": "0xDAD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xDBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They're doing their best to live, and they try to be noble as long as they live... That's why they look so beautiful to me."
+	},
+	{
+		"LABEL": "0xE80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene says this while smiling."
+	},
+	{
+		"LABEL": "0xECC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Words become poteic when Nenene says them."
+	},
+	{
+		"LABEL": "0xF28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if this is a perk of noble birth..."
+	},
+	{
+		"LABEL": "0xF76",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't help but view my presence next to her as a mystery."
+	},
+	{
+		"LABEL": "0xFED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xFFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey, Itarou?"
+	},
+	{
+		"LABEL": "0x1090",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Suddenly, Nenene stopped and called out to me."
+	},
+	{
+		"LABEL": "0x10DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For some reason, Nenene was looking down with a dark expression."
+	},
+	{
+		"LABEL": "0x1132",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She open and closes her mouth. Her gaze goes over me over and over again."
+	},
+	{
+		"LABEL": "0x1190",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I just wait for her words."
+	},
+	{
+		"LABEL": "0x1225",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1235",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I wonder, is this really right?"
+	},
+	{
+		"LABEL": "0x12E4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x12F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "From that day until now, I am happy. I knew true freedom for the first time."
+	},
+	{
+		"LABEL": "0x13C5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x13D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And it is all because Itarou rescued me."
+	},
+	{
+		"LABEL": "0x147A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x148A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But now, I wonder if it was a good idea to get you involved."
+	},
+	{
+		"LABEL": "0x1504",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is what Nenene tells me, sounding truly regretful."
+	},
+	{
+		"LABEL": "0x159D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x15AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Taking advantage of your kindness to fuel your sympathy... and then giving priority to what I want."
+	},
+	{
+		"LABEL": "0x1674",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1684",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm telling you this, because I wish to be forgiven!"
+	},
+	{
+		"LABEL": "0x16FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Since she understands herself so well, she tells me her true feelings."
+	},
+	{
+		"LABEL": "0x1762",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why would Nenene say something like this so suddenly?"
+	},
+	{
+		"LABEL": "0x17BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She had always felt indebted to me."
+	},
+	{
+		"LABEL": "0x180C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is happy, but she suffers from regret."
+	},
+	{
+		"LABEL": "0x1860",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I know."
+	},
+	{
+		"LABEL": "0x1896",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I would have thought the same thing if the tables were turned."
+	},
+	{
+		"LABEL": "0x18F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene and I are similar at heart."
+	},
+	{
+		"LABEL": "0x1930",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Although we have different positions in life, we were both bound by something with no escape."
+	},
+	{
+		"LABEL": "0x198E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For so long, we wanted someone to rescue us. Maybe because we wished for this, this future became possible."
+	},
+	{
+		"LABEL": "0x1A22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A future where no one dies... where no one is killed... We just elope."
+	},
+	{
+		"LABEL": "0x1A88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can understand that."
+	},
+	{
+		"LABEL": "0x1AC6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have no regrets. This is my own choice."
+	},
+	{
+		"LABEL": "0x1B22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I said this to Nenene as I held her hand."
+	},
+	{
+		"LABEL": "0x1BB1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1BC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... Eh... Itarou?"
+	},
+	{
+		"LABEL": "0x1C07",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't regret the choice I made that day."
+	},
+	{
+		"LABEL": "0x1C4F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She may think she got me involved, but at the time, I could have pushed her away."
+	},
+	{
+		"LABEL": "0x1CD7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even after knowing her reasons, I could still refuse."
+	},
+	{
+		"LABEL": "0x1D2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I'm still here... It may be unfair, but I still want to be by her side."
+	},
+	{
+		"LABEL": "0x1DA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is that wrong?"
+	},
+	{
+		"LABEL": "0x1E26",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1E36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... No, no! If you make a troubled smile like that, then I..."
+	},
+	{
+		"LABEL": "0x1EF5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1F05",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I feel my love for you returning."
+	},
+	{
+		"LABEL": "0x1F61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In this moment..."
+	},
+	{
+		"LABEL": "0x1F91",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her white ribbon fell off, and her hair fluttered in the air."
+	},
+	{
+		"LABEL": "0x2056",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2066",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou... I am so happy... that you accepted me like this."
+	},
+	{
+		"LABEL": "0x20D9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x20E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I will continue to cause trouble for you. I am a very troublesome woman."
+	},
+	{
+		"LABEL": "0x2179",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There is nothing to fear. I am prepared for it."
+	},
+	{
+		"LABEL": "0x2218",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2228",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe. Then be prepared, Itarou."
+	},
+	{
+		"LABEL": "0x2281",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2291",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I really love you. Holding your hand, it makes me want to kill you."
+	},
+	{
+		"LABEL": "0x22FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The future where she and I eloped."
+	},
+	{
+		"LABEL": "0x234C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My heart knows I won't regret my choice that day... I held out my hand to Nenene."
+	}
+]

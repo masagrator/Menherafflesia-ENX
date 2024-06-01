@@ -1,0 +1,20 @@
+{
+	"HEADER": [],
+	"COMMANDS": [
+		{
+			"LABEL": "0x4",
+			"CMD": "JMP",
+			"ID": 2
+		},
+		{
+			"LABEL": "0x9",
+			"CMD": "RETURN"
+		}
+	],
+	"FOOTER": {
+		"STRING_COUNT": 0,
+		"CHOICES_COUNT": 0,
+		"JUMP_POINTS": 0,
+		"ID": -1
+	}
+}

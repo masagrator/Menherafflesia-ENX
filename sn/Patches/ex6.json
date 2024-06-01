@@ -1,0 +1,986 @@
+[
+	{
+		"LABEL": "0x99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear the sough of the wind."
+	},
+	{
+		"LABEL": "0xD3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Grass sways in the gentle breeze, carrying the smell of the flowers."
+	},
+	{
+		"LABEL": "0x118",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Under the starry sky, "
+	},
+	{
+		"LABEL": "0x147",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "in the center of a beautiful garden, I... We lay about in a circle."
+	},
+	{
+		"LABEL": "0x1AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With the girls who were never supposed to meet."
+	},
+	{
+		"LABEL": "0x247",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x257",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well then, let's get started!"
+	},
+	{
+		"LABEL": "0x315",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x325",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Kyahaha. Mihomi was looking forward to talking with the girls!"
+	},
+	{
+		"LABEL": "0x3FF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x40F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes. I wonder if you can tell your stories to a grown woman like me."
+	},
+	{
+		"LABEL": "0x4E1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um... I don't have anything interesting to say."
+	},
+	{
+		"LABEL": "0x5C5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x5D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ufufu, how are you all doing? There's plenty of time; we should talk to our heart's content."
+	},
+	{
+		"LABEL": "0x6DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Older Sister Nenene, you're so classy. You're like an adult! Mihomi wants to be like that too."
+	},
+	{
+		"LABEL": "0x7DF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's okay, Mihomi. You will acquire calmness naturally someday."
+	},
+	{
+		"LABEL": "0x8D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x8E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder... Mihomi can't imagine becoming an adult. No matter how much time passes, people still tell me I'm childish."
+	},
+	{
+		"LABEL": "0x9F3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xA03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's because you're not conscious of your age. If you were, it's easy to imagine it."
+	},
+	{
+		"LABEL": "0xAC6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xAD6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi, you don't want to be called childish by little girls, do you? If you learn it now, it will come in handy later."
+	},
+	{
+		"LABEL": "0xBDA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm, fine. I'll imitate Big Sister Ayume instead. Hmph! What do you think? Mihomi looks like an adult?"
+	},
+	{
+		"LABEL": "0xCF0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0xD00",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ha...puhahaha! You really seem to be overreaching yourself, Mihomi. Right, Moeko?"
+	},
+	{
+		"LABEL": "0xDEA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xDFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, yeah... ahaha..."
+	},
+	{
+		"LABEL": "0xEAE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xEBE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Come to think of it, Moeko, there was something I wanted to ask you. Are you really a Savior?"
+	},
+	{
+		"LABEL": "0xFB4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xFC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well... yeah... but it might not matter to everyone else. That's just how things were back in my world."
+	},
+	{
+		"LABEL": "0x10E4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x10F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What does a Savior do? Is it some kind of job?"
+	},
+	{
+		"LABEL": "0x11C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x11D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They save the world. They oppose the evil of the invisible 'something'."
+	},
+	{
+		"LABEL": "0x127B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x128B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In other words, I'm something of a magical girl. As a Savior, my name is Clara Moemori."
+	},
+	{
+		"LABEL": "0x1356",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1366",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or... maybe it's the other way around."
+	},
+	{
+		"LABEL": "0x1428",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1438",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I don't understand. Moeko, did you actually save the world, then?"
+	},
+	{
+		"LABEL": "0x1514",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1524",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course I did. I am here because the world was saved. I no longer have a mission. Now, I am the same as everyone else."
+	},
+	{
+		"LABEL": "0x15FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x160D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Finally... I feel like I can appreciate myself a little."
+	},
+	{
+		"LABEL": "0x16DF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x16EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh my, you've accomplished such a great feat! That's amazing...!"
+	},
+	{
+		"LABEL": "0x17CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x17DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, please, I'm not like you, Clara, just a regular working person!"
+	},
+	{
+		"LABEL": "0x189C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x18AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mmm! Don't just talk about me, I want to listen to everyone else's stories too! Uh, Ayume!"
+	},
+	{
+		"LABEL": "0x19A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x19B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi wants to hear too! Big Sister Ayume, you used to be an actress, right? Why did you become an actress?"
+	},
+	{
+		"LABEL": "0x1AB6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1AC6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Me? Well it's nothing special. I didn't have to be an actress."
+	},
+	{
+		"LABEL": "0x1B83",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1B93",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was an ordinary person with no talent. However, I had no intention to give up, so I worked hard. And somehow I became an actress."
+	},
+	{
+		"LABEL": "0x1C7C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1C8C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Normal life is boring, isn't it? That's why I worked hard to take control of my life."
+	},
+	{
+		"LABEL": "0x1D4D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1D5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A life where you can be somebody's special someone."
+	},
+	{
+		"LABEL": "0x1E27",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x1E37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... That's way cooler than I thought... So this is what a driven adult is like..."
+	},
+	{
+		"LABEL": "0x1F25",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1F35",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm the oldest here. We lived in different times, Matsuri."
+	},
+	{
+		"LABEL": "0x2011",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2021",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Sister Ayume is so cool!"
+	},
+	{
+		"LABEL": "0x20DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x20EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you, Mihomi. Well, that is enough about me. Nenene, I want to hear about you."
+	},
+	{
+		"LABEL": "0x21F3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2203",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is it my turn? I lived a life tied to my house."
+	},
+	{
+		"LABEL": "0x22B4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x22C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was going to be married. It was called a political marriage. I couldn't choose my husband."
+	},
+	{
+		"LABEL": "0x2399",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x23A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I told myself I shouldn't show my feelings..."
+	},
+	{
+		"LABEL": "0x2462",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2472",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the end, I guess I wanted someone to rescue me."
+	},
+	{
+		"LABEL": "0x2521",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2531",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What I was looking for was right by my side, and all that was left was for me to accept it."
+	},
+	{
+		"LABEL": "0x25FA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x260A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Apparently I'm harder to handle than I thought, haha."
+	},
+	{
+		"LABEL": "0x26E4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x26F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Older Sister Nenene..."
+	},
+	{
+		"LABEL": "0x2777",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2787",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know, Mihomi is the same. Mihomi wanted to be wanted by someone."
+	},
+	{
+		"LABEL": "0x2846",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2856",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Every day, I wanted to vanish, forever and ever. I thought no one wanted me. I thought my life had no meaning."
+	},
+	{
+		"LABEL": "0x293D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x294D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However! Mihomi was able to win the heart of a person she loved in the end."
+	},
+	{
+		"LABEL": "0x2A12",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2A22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's all. Mihomi was rewarded. She was needed."
+	},
+	{
+		"LABEL": "0x2ACF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2ADF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Older Sister Nenene, aren't we the same?"
+	},
+	{
+		"LABEL": "0x2BAF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2BBF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi... Yes, that's right. Certainly, it wasn't a lie."
+	},
+	{
+		"LABEL": "0x2C76",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x2C86",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you, Mihomi. Thank you for letting me realize."
+	},
+	{
+		"LABEL": "0x2D52",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2D62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mhm! The last one is Big Sister Matsuri! Let's hear what you have to say!"
+	},
+	{
+		"LABEL": "0x2E4E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x2E5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone has talked, so I suppose my turn would come eventually. Hmm, my story..."
+	},
+	{
+		"LABEL": "0x2EF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone's eyes were on me."
+	},
+	{
+		"LABEL": "0x2F40",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Blue, yellow, green, purple - they all looked at the Red Me."
+	},
+	{
+		"LABEL": "0x2FA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I quietly stared back at them."
+	},
+	{
+		"LABEL": "0x3038",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x3048",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Have you ever been forced into someone's image of you?"
+	},
+	{
+		"LABEL": "0x30F7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x3107",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've been forced to put on an act for others for so long."
+	},
+	{
+		"LABEL": "0x31AA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x31BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'You're so cheerful', 'You're so kind'; in the end, no one can know your true self except you."
+	},
+	{
+		"LABEL": "0x3237",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x3247",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is why I wanted to be broken. It was painful to live in that world."
+	},
+	{
+		"LABEL": "0x330A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x331A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to be broken by the person I love. That was my only wish."
+	},
+	{
+		"LABEL": "0x33D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x33E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And then I met him. Someone important, the one who broke me."
+	},
+	{
+		"LABEL": "0x346F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All of our flowers bloomed."
+	},
+	{
+		"LABEL": "0x34BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Although in a different way, it was done by the same hands."
+	},
+	{
+		"LABEL": "0x350F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone remembers \"him\"."
+	},
+	{
+		"LABEL": "0x354E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, none are allowed to say who it is. "
+	},
+	{
+		"LABEL": "0x35A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I try not to mention \"him\"."
+	},
+	{
+		"LABEL": "0x35EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I understand that the \"him\" they know is different from the \"he\" I know."
+	},
+	{
+		"LABEL": "0x36AD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x36BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We are all the same. I wanted someone to understand the real me by destroying the image propped up by others."
+	},
+	{
+		"LABEL": "0x376E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is why we entrusted it to \"him.\" "
+	},
+	{
+		"LABEL": "0x37B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The seed of the flower called myself."
+	},
+	{
+		"LABEL": "0x37EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The rafflesia that bloomed have gathered in the same place like this."
+	},
+	{
+		"LABEL": "0x3849",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It must be a miracle."
+	},
+	{
+		"LABEL": "0x38DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x38EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the future, children like us will appear. I am certain of it."
+	},
+	{
+		"LABEL": "0x397B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This world is intensely cruel and unreasonable."
+	},
+	{
+		"LABEL": "0x39CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Violence and harsh language will hurt people. "
+	},
+	{
+		"LABEL": "0x3A2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But by ignoring this, everyone lives."
+	},
+	{
+		"LABEL": "0x3A72",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even so, we can only live here. "
+	},
+	{
+		"LABEL": "0x3AB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are only allowed to live here."
+	},
+	{
+		"LABEL": "0x3B01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But due to this, children like these will appear again."
+	},
+	{
+		"LABEL": "0x3BAD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x3BBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is why we need to guide them. Give them a push in the right direction."
+	},
+	{
+		"LABEL": "0x3C5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Love, madness, and bizarre flowers will bloom again in the dream world."
+	},
+	{
+		"LABEL": "0x3CB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know what color those flowers will be, or how they will bloom, but what we can do - is guide."
+	},
+	{
+		"LABEL": "0x3D87",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3D97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Can Mihomi be someone's older sister? Can I give someone a push? I hope I can!"
+	},
+	{
+		"LABEL": "0x3E8F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x3E9F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A stupid child like me will no doubt appear again. A child with anguish appearing as an ordinary person."
+	},
+	{
+		"LABEL": "0x3F8F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x3F9F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... think I can finally appreciate myself now. That's why I want to help a child like me who lacks confidence."
+	},
+	{
+		"LABEL": "0x40AF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x40BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is your own happiness? There must be a child like me who is looking for it. I want to be the strength of that person."
+	},
+	{
+		"LABEL": "0x417D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone makes their own decisions."
+	},
+	{
+		"LABEL": "0x420F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x421F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm the same. I want to help a child who is like younger me! Their feelings shouldn't be denied."
+	},
+	{
+		"LABEL": "0x42A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "These thoughts are surely not shared by many."
+	},
+	{
+		"LABEL": "0x42F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why we, on the same side, want to confirm our common goal."
+	},
+	{
+		"LABEL": "0x4351",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But it is not yet time."
+	},
+	{
+		"LABEL": "0x4395",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Fate is unclear. The moment when the die is thrown is still far away."
+	},
+	{
+		"LABEL": "0x43E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Therefore..."
+	},
+	{
+		"LABEL": "0x445C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Matsuri"
+	},
+	{
+		"LABEL": "0x446C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... why don't we enjoy the tea party? I still want more! I want to listen to your stories more! I'll talk too!"
+	},
+	{
+		"LABEL": "0x452C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This dream must be like a miracle."
+	},
+	{
+		"LABEL": "0x4572",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The dreamy Rafflesias spent a short time together in this beautiful garden."
+	}
+]

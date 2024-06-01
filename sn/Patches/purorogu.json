@@ -1,0 +1,482 @@
+[
+	{
+		"LABEL": "0x483",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear the sough of the wind."
+	},
+	{
+		"LABEL": "0x4B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this outside? "
+	},
+	{
+		"LABEL": "0x4E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Am I finally out?"
+	},
+	{
+		"LABEL": "0x51C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x52C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Open your eyes."
+	},
+	{
+		"LABEL": "0x557",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x567",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Do you see? Isn't the sky beautiful?"
+	},
+	{
+		"LABEL": "0x5B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A blue sky overlooks the field of flowers beyond me."
+	},
+	{
+		"LABEL": "0x5F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x604",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey. Isn't this a wonderful world? This world is so beautiful."
+	},
+	{
+		"LABEL": "0x661",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x671",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This flower garden was planted for someone - it's a place where flowers that each person has made bloom for someone gather."
+	},
+	{
+		"LABEL": "0x6DE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x6EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They might be for you, or maybe they're for me."
+	},
+	{
+		"LABEL": "0x745",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x755",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or... perhaps they're for someone else. They may be for someone who isn't here."
+	},
+	{
+		"LABEL": "0x7B2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You, too, should try growing some flowers."
+	},
+	{
+		"LABEL": "0x803",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x813",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Flowers can bloom completely differently depending on who raised them."
+	},
+	{
+		"LABEL": "0x866",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x876",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder - what color will your flowers be?"
+	},
+	{
+		"LABEL": "0x8D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We are such selfish, heartless beings..."
+	},
+	{
+		"LABEL": "0x924",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We commit many sins, without even realizing what we've done."
+	},
+	{
+		"LABEL": "0x97A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We know that violence hurts others."
+	},
+	{
+		"LABEL": "0x9D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We know that cruel words hurt others."
+	},
+	{
+		"LABEL": "0xA2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone knows this, and yet, we pretend we do not."
+	},
+	{
+		"LABEL": "0xA84",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The more we sin and justify our actions, the more comfortable we are to continue."
+	},
+	{
+		"LABEL": "0xAE9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We feel we are the victims. "
+	},
+	{
+		"LABEL": "0xB22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No one realizes that they are no saints, either."
+	},
+	{
+		"LABEL": "0xB6A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We are such selfish, egotistical creatures."
+	},
+	{
+		"LABEL": "0xBB1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xBC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But you already know this, don't you?"
+	},
+	{
+		"LABEL": "0xC0B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We live in a world where even the saying of 'I love you' is both distorted and twisted."
+	},
+	{
+		"LABEL": "0xC73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...What a cruel and unreasonable world."
+	},
+	{
+		"LABEL": "0xD2A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There isn't much to say about me."
+	},
+	{
+		"LABEL": "0xD60",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No dreams, no hopes, no money, no power, no talent, no family, no friends, no lovers..."
+	},
+	{
+		"LABEL": "0xDC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's nothing much to say. I'm just a typical, boring guy."
+	},
+	{
+		"LABEL": "0xE17",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm taking the usual way home. "
+	},
+	{
+		"LABEL": "0xE50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What will I be thinking as I walk here tomorrow?"
+	},
+	{
+		"LABEL": "0xEA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Surely tomorrow will be better than today, but there's no real guarantee that things will improve."
+	},
+	{
+		"LABEL": "0xEF7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is just how my life is. "
+	},
+	{
+		"LABEL": "0xF32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nothing ever changes. I hope for something to break the monotony, but nothing ever does."
+	},
+	{
+		"LABEL": "0xF87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Every time there's... "
+	},
+	{
+		"LABEL": "0xFC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "nothing."
+	},
+	{
+		"LABEL": "0xFF6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I continue to walk in silence."
+	},
+	{
+		"LABEL": "0x1025",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Home isn't far now, and I'm starting to get sleepy. "
+	},
+	{
+		"LABEL": "0x1076",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I keep walking along, until I notice something."
+	},
+	{
+		"LABEL": "0x10AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I look down and see a flower by my feet."
+	},
+	{
+		"LABEL": "0x10F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is a young flower that has not fully bloomed."
+	},
+	{
+		"LABEL": "0x1139",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Much like myself. "
+	},
+	{
+		"LABEL": "0x1158",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm just a nobody, who hasn't even accomplished anything. "
+	},
+	{
+		"LABEL": "0x11AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just a life that floats back and forth along the same path."
+	},
+	{
+		"LABEL": "0x11FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As for the flower..."
+	},
+	{
+		"LABEL": "0x1234",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is much like myself, hesitant to bloom in full."
+	},
+	{
+		"LABEL": "0x128E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The flower appears to be......"
+	},
+	{
+		"LABEL": "0x12D9",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x133F",
+				"STRING": "Jasmine"
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1493",
+				"STRING": "Hydrangea"
+			},
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 3,
+				"JUMP_TO_LABEL": "0x161D",
+				"STRING": "Daffodil"
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x175B",
+				"STRING": "Ivy"
+			},
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x189D",
+				"STRING": "Anemone"
+			}
+		]
+	},
+	{
+		"LABEL": "0x135B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Jasmine."
+	},
+	{
+		"LABEL": "0x138B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "These flowers possess a sensual fragrence and beauty, easily charming those who see them."
+	},
+	{
+		"LABEL": "0x13F2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But at the end of its road of grace, eventually... "
+	},
+	{
+		"LABEL": "0x1431",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "it will bloom into a flower filled with true love."
+	},
+	{
+		"LABEL": "0x14AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hydrangea."
+	},
+	{
+		"LABEL": "0x14DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well suited to rain, this flower will change its color in various ways throughout its life..."
+	},
+	{
+		"LABEL": "0x154B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...much like the chaotic mind of an unstable person."
+	},
+	{
+		"LABEL": "0x159B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But at the end of its road of desire, eventually... it will bloom into a flower filled with poison."
+	},
+	{
+		"LABEL": "0x1639",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Daffodil."
+	},
+	{
+		"LABEL": "0x1669",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is a flower filled with confidence and ruthlessness. It uses its beauty to ensnare its prey."
+	},
+	{
+		"LABEL": "0x16D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But at the end of its road of bloodthirst, eventually... it will bloom into a flower filled with foolishness."
+	},
+	{
+		"LABEL": "0x1777",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ivy."
+	},
+	{
+		"LABEL": "0x17A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A fairly standoffish flower, it lives a quiet life in its search for eternal love."
+	},
+	{
+		"LABEL": "0x181B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the end of its road of gloom, eventually... it will bloom into a flower filled with happiness."
+	},
+	{
+		"LABEL": "0x18B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anemone."
+	},
+	{
+		"LABEL": "0x18E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This colorful and lovely flower taste the pain of love before meeting a fleeting end."
+	},
+	{
+		"LABEL": "0x1957",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the end of that road of hope, eventually... it will bloom into a flower filled with despair."
+	}
+]

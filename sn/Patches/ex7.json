@@ -1,0 +1,608 @@
+[
+	{
+		"LABEL": "0x99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear the sough of the wind."
+	},
+	{
+		"LABEL": "0xD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I slowly opened my eyes and looked around."
+	},
+	{
+		"LABEL": "0x16D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a boy in front of me."
+	},
+	{
+		"LABEL": "0x1B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "His name is Itarou. My best and worst friend."
+	},
+	{
+		"LABEL": "0x1FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I know."
+	},
+	{
+		"LABEL": "0x237",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know that this friend will grow flowers."
+	},
+	{
+		"LABEL": "0x287",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There is more than one flower. The flowers are different from each other, and yet still the same."
+	},
+	{
+		"LABEL": "0x2FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Does that make sense? Then I'll put it another way: These are alternate worlds."
+	},
+	{
+		"LABEL": "0x363",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A different Itarou comes in contact with each woman, and before long, they each bloom into a dream."
+	},
+	{
+		"LABEL": "0x3C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know how each world will end from the very beginning."
+	},
+	{
+		"LABEL": "0x40C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x41E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why I am Itarou's friend."
+	},
+	{
+		"LABEL": "0x465",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x477",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My presence provides color to these flowers..."
+	},
+	{
+		"LABEL": "0x4C4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x4D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...even if I die."
+	},
+	{
+		"LABEL": "0x576",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear the sough of the wind again."
+	},
+	{
+		"LABEL": "0x608",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My vision goes black."
+	},
+	{
+		"LABEL": "0x68C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There was a flicker of black and white, and when I opened my eyes, I was in a field of flowers."
+	},
+	{
+		"LABEL": "0x73A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Under the starry night sky, flowers blow and sway in the wind."
+	},
+	{
+		"LABEL": "0x7D6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though you know, you still do your part."
+	},
+	{
+		"LABEL": "0x846",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear a girl's voice behind me."
+	},
+	{
+		"LABEL": "0x888",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't look back, and wait for the voice to continue."
+	},
+	{
+		"LABEL": "0x8C7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x8D7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't you hate it? You've been treated so unfairly, sometimes you are even killed..."
+	},
+	{
+		"LABEL": "0x93C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x94C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are always being used as a stage prop, even though you yourself don't want to be."
+	},
+	{
+		"LABEL": "0x9C3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x9D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are okay with this?"
+	},
+	{
+		"LABEL": "0xA0C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xA1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if I refuse, it won't change anything."
+	},
+	{
+		"LABEL": "0xAB9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xACB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I could say the same about you. We're here to support someone."
+	},
+	{
+		"LABEL": "0xB86",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xB98",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're the guide, and I am a bystander. Both are out of the way, but they remain critical components for this world."
+	},
+	{
+		"LABEL": "0xC61",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xC73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I would think you of all people understand what I mean, Misato?"
+	},
+	{
+		"LABEL": "0xD09",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I then turn around and talk to the girl named Misato with a calm tone."
+	},
+	{
+		"LABEL": "0xDDA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Misato said nothing; she just stared at me."
+	},
+	{
+		"LABEL": "0xE30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I shrug my shoulders and smile just a little."
+	},
+	{
+		"LABEL": "0xE7D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xE8F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't think about it much. I just go through life, enjoying what I can."
+	},
+	{
+		"LABEL": "0xEF0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xF02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And I might even be able to meet a pretty girl. It's a nice perk."
+	},
+	{
+		"LABEL": "0xF9B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xFAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Even if it is directed by destiny?"
+	},
+	{
+		"LABEL": "0xFFE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1010",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes. It's because I'm me."
+	},
+	{
+		"LABEL": "0x1053",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1065",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Misato, do you know what a sidekick is?"
+	},
+	{
+		"LABEL": "0x110E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x111E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A... sidekick?"
+	},
+	{
+		"LABEL": "0x1153",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1165",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a great supporting role. It's not the main character, but it still leaves an impression on the audience. It's called a sidekick."
+	},
+	{
+		"LABEL": "0x1202",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1214",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Get it? Don't you think it's the perfect word to describe me?"
+	},
+	{
+		"LABEL": "0x12A9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x12B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But it binds you."
+	},
+	{
+		"LABEL": "0x12FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x130E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will continue to exist here... in a supporting role."
+	},
+	{
+		"LABEL": "0x1361",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1373",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's exactly why."
+	},
+	{
+		"LABEL": "0x13A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x13B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm a bystander. I can't interfere. That's why I have to carve my name into them as the best supporting actor."
+	},
+	{
+		"LABEL": "0x1429",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x143B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But even sidekicks have fans, right?"
+	},
+	{
+		"LABEL": "0x14D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x14E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes. In that case, do as you like."
+	},
+	{
+		"LABEL": "0x157B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x158B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That outlook is rather grounded. You're a very straightforward person."
+	},
+	{
+		"LABEL": "0x15F2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1604",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, what is this? Are you worried about me? How cute. I'm free now, what do you say?"
+	},
+	{
+		"LABEL": "0x16D3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x16E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't be silly. I'm not that easy."
+	},
+	{
+		"LABEL": "0x1734",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1746",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm joking. Well, let's both do our best."
+	},
+	{
+		"LABEL": "0x17E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hold my hand out to Misato in a sign of friendship."
+	},
+	{
+		"LABEL": "0x1840",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Misato was just about to grasp it, but pulled away at the last second."
+	},
+	{
+		"LABEL": "0x189D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x18AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eh... Why...? It's just a handshake..."
+	},
+	{
+		"LABEL": "0x1954",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x1964",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wouldn't it make more sense to treat you colder like this?"
+	},
+	{
+		"LABEL": "0x19B5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x19C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Haha. Yeah, you got me there."
+	},
+	{
+		"LABEL": "0x1A56",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x1A66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe. Goodbye, Yukimaru. If we meet again, I'll shake your hand."
+	},
+	{
+		"LABEL": "0x1AFE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With that, Misato vanished."
+	},
+	{
+		"LABEL": "0x1B50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The only one left is me."
+	},
+	{
+		"LABEL": "0x1BE0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1BF2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm Yukimaru. Itarou's best friend, worst friend, and good neighbor."
+	},
+	{
+		"LABEL": "0x1C98",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I muttered to myself as I looked at the field of flowers."
+	},
+	{
+		"LABEL": "0x1CE8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, I'm not going to change no matter what happens."
+	},
+	{
+		"LABEL": "0x1D3E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not now and not in the future."
+	},
+	{
+		"LABEL": "0x1D7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Character, appearance, behavior... even if the world is different."
+	},
+	{
+		"LABEL": "0x1DD8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All of will be the same \"Yukimaru.\""
+	},
+	{
+		"LABEL": "0x1E71",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1E83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And now... Well.."
+	},
+	{
+		"LABEL": "0x1F04",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1F16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a distant prison, where a die is thrown, we will meet again."
+	},
+	{
+		"LABEL": "0x1F9A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because at that time, I will appear as your best friend."
+	}
+]
