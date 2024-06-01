@@ -1,0 +1,212 @@
+[
+	{
+		"LABEL": "0x150",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear the sough of the wind."
+	},
+	{
+		"LABEL": "0x17F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this outside? "
+	},
+	{
+		"LABEL": "0x1AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Am I finally out?"
+	},
+	{
+		"LABEL": "0x23A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x24A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Open your eyes."
+	},
+	{
+		"LABEL": "0x2C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x2D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Do you see? Isn't the sky beautiful?"
+	},
+	{
+		"LABEL": "0x31B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A blue sky overlooks the field of flowers beyond me."
+	},
+	{
+		"LABEL": "0x3AA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x3BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey. Isn't this a wonderful world? This world is so beautiful."
+	},
+	{
+		"LABEL": "0x463",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x473",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This flower garden was planted for someone - it's a place where flowers that each person has made bloom for someone gather."
+	},
+	{
+		"LABEL": "0x4E0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x4F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They might be for you, or maybe they're for me."
+	},
+	{
+		"LABEL": "0x593",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x5A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or... perhaps they're for someone else. They may be for someone who isn't here."
+	},
+	{
+		"LABEL": "0x64C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x65C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You, too, should try growing some flowers."
+	},
+	{
+		"LABEL": "0x69D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x6AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Flowers can bloom completely differently depending on who raised them."
+	},
+	{
+		"LABEL": "0x74C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x75C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder - what color will your flowers be?"
+	},
+	{
+		"LABEL": "0x7B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We are such selfish, heartless beings..."
+	},
+	{
+		"LABEL": "0x80A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We commit many sins, without even realizing what we've done."
+	},
+	{
+		"LABEL": "0x860",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We know that violence hurts others."
+	},
+	{
+		"LABEL": "0x8BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We know that cruel words hurt others."
+	},
+	{
+		"LABEL": "0x912",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone knows this, and yet, we pretend we do not."
+	},
+	{
+		"LABEL": "0x96A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The more we sin and justify our actions, the more comfortable we are to continue."
+	},
+	{
+		"LABEL": "0x9CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We feel we are the victims. "
+	},
+	{
+		"LABEL": "0xA08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No one realizes that they are no saints, either."
+	},
+	{
+		"LABEL": "0xA50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We are such selfish, egotistical creatures."
+	},
+	{
+		"LABEL": "0xAE3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xAF3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But you already know this, don't you?"
+	},
+	{
+		"LABEL": "0xB65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We live in a world where even the saying of 'I love you' is both distorted and twisted."
+	},
+	{
+		"LABEL": "0xBCD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...What a cruel and unreasonable world."
+	}
+]

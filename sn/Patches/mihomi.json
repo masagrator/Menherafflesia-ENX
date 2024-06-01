@@ -1,0 +1,4097 @@
+[
+	{
+		"LABEL": "0x152",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Phew. Looks like a nice day outside."
+	},
+	{
+		"LABEL": "0x196",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "School's out for the day, and it's around dusk."
+	},
+	{
+		"LABEL": "0x1E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sky has a strong orange color."
+	},
+	{
+		"LABEL": "0x230",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What a day..."
+	},
+	{
+		"LABEL": "0x270",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love this peaceful, quiet time on my way home."
+	},
+	{
+		"LABEL": "0x2C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or at least, it would be, if it wasn't for her..."
+	},
+	{
+		"LABEL": "0x387",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Pyokko♪"
+	},
+	{
+		"LABEL": "0x3FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x40E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've found you! Hey, Big Brother Itarou, let's go home together!!"
+	},
+	{
+		"LABEL": "0x487",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, if it wasn't for this... ridiculously loud girl."
+	},
+	{
+		"LABEL": "0x4E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This girl's name is Mihomi."
+	},
+	{
+		"LABEL": "0x523",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's a junior going to the same high school as me. She's kind of a stalker."
+	},
+	{
+		"LABEL": "0x618",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x628",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, hey, Big Brother! Big Brother Itarou!! Are you listening to what Mihomi is talking about?"
+	},
+	{
+		"LABEL": "0x6F9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x709",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh...!! You bully, don't ignore me...!!!"
+	},
+	{
+		"LABEL": "0x7BC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi... Mihomi just wants to go home with Big Brother Itarou!"
+	},
+	{
+		"LABEL": "0x88F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x89F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just want to spend my days as a little girl with Big Brother! Okay!?"
+	},
+	{
+		"LABEL": "0x907",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x94E",
+				"STRING": "Shut up. Do whatever you want."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x94E",
+				"STRING": "Yeah, sure, whatever."
+			}
+		]
+	},
+	{
+		"LABEL": "0x9A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x9B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow...!!! Sank you so much, Big Brother!! I love you!"
+	},
+	{
+		"LABEL": "0xA6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA7B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, yeah! I'm on my way home with my Big Brother! Woohoo!"
+	},
+	{
+		"LABEL": "0xB48",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xB58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tehehe♪ Mihomi hasn't seen Big Brother in so long, so I got really excited!"
+	},
+	{
+		"LABEL": "0xC29",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because because! Mihomi wanted to meet her Big Brother♪"
+	},
+	{
+		"LABEL": "0xCFA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xD0A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know if you've been busy lately, but you haven't been giving Mihomi attention at all! I've missed you!"
+	},
+	{
+		"LABEL": "0xDCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xDDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why, I'm going to spoil you a lot today! You just watch, Big Brother☆!"
+	},
+	{
+		"LABEL": "0xE9C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xEAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, right! Hey, hey, Big Brother! Mihomi has a secret... want to hear!?"
+	},
+	{
+		"LABEL": "0xF67",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xF77",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Kya-ha-ha♪ I've got a big surprise in store for you, Big Brother! It's a really special secret!"
+	},
+	{
+		"LABEL": "0xFF5",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x102C",
+				"STRING": "Nah, I'm good."
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1119",
+				"STRING": "Let's hear it..."
+			}
+		]
+	},
+	{
+		"LABEL": "0x1082",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x1092",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... You brute! You have to listen to me, Big Brother! If you don't listen, Mihomi will cry!"
+	},
+	{
+		"LABEL": "0x116F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x117F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mmmmmm♪ I knew Big Brother was interested! Let's see, Mihomi has to say..."
+	},
+	{
+		"LABEL": "0x1244",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x1254",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi loves you very very much, Big Brother! So... do you know now?"
+	},
+	{
+		"LABEL": "0x12CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x12DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's right! Mihomi is crazy about Big Brother! In fact, I think I want to live with you after I graduate from school!"
+	},
+	{
+		"LABEL": "0x13B8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x13C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey... Big Brother, you like Mihomi too, right? Of course you do!"
+	},
+	{
+		"LABEL": "0x1432",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x146F",
+				"STRING": "I do like you..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x146F",
+				"STRING": "Yeah, I like you."
+			}
+		]
+	},
+	{
+		"LABEL": "0x14C5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x14D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, oh, Big Brother!!! Really!? Really, really!?"
+	},
+	{
+		"LABEL": "0x1598",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x15A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, Mihomi is so thrilled!! I'm so happy!! I think I'm going to cry! Oh, what should I do!?"
+	},
+	{
+		"LABEL": "0x1665",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x1675",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You do? You really do? Oh, Mihomi is going to cry...! So what are you going to do? Marry me?"
+	},
+	{
+		"LABEL": "0x16EF",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1730",
+				"STRING": "Maybe when you're older."
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1730",
+				"STRING": "I have to think about it."
+			}
+		]
+	},
+	{
+		"LABEL": "0x1786",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x1796",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know, I know. It was just a joke, of course!"
+	},
+	{
+		"LABEL": "0x1849",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x1859",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I'd be happy if that were true, like... that's what Mihomi thought, anyway. I'm looking forward to it!"
+	},
+	{
+		"LABEL": "0x1930",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since that rainy afternoon..."
+	},
+	{
+		"LABEL": "0x1970",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since I met Mihomi, I haven't been talking to her much."
+	},
+	{
+		"LABEL": "0x19D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But she's always like this. She's very noisy, very energetic, and she's always nearby."
+	},
+	{
+		"LABEL": "0x1A4A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Honestly, it's more depressing than adorable."
+	},
+	{
+		"LABEL": "0x1AAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So that's why I've been avoiding her lately."
+	},
+	{
+		"LABEL": "0x1B36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I can keep smiling if Mihomi is still smiling."
+	},
+	{
+		"LABEL": "0x1B98",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I suppose it's fine."
+	},
+	{
+		"LABEL": "0x1D4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Well."
+	},
+	{
+		"LABEL": "0x1D79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I got home."
+	},
+	{
+		"LABEL": "0x1DAD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I get out of the bathroom and have a smoke while watching some TV."
+	},
+	{
+		"LABEL": "0x1E03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I enjoy a show while slurping my favorite cup of ramen, which has become my most recent routine."
+	},
+	{
+		"LABEL": "0x1E75",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I feel very much at home while doing this."
+	},
+	{
+		"LABEL": "0x1ED5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was a very lively day today."
+	},
+	{
+		"LABEL": "0x1F1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ideally, I'd love to have a more chic, peaceful, romantic after-school life."
+	},
+	{
+		"LABEL": "0x1F9B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But it's all Mihomi's fault..."
+	},
+	{
+		"LABEL": "0x1FEF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh. When she's around, I feel like she just stirs everything up."
+	},
+	{
+		"LABEL": "0x205B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "*Ding dong*"
+	},
+	{
+		"LABEL": "0x208D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I heard the chime from the doorbell ring out."
+	},
+	{
+		"LABEL": "0x20CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I look at my watch - it's about 10 PM. What delivery guy shows up this late?"
+	},
+	{
+		"LABEL": "0x2133",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Who on earth could it be? Especially this late at night..."
+	},
+	{
+		"LABEL": "0x217F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I put down my cup of ramen and head to the front door."
+	},
+	{
+		"LABEL": "0x2279",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2289",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother Itarou, good evening! I want to play with you! May I come in?"
+	},
+	{
+		"LABEL": "0x2301",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 8,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x234A",
+				"STRING": "Running away again? Shoo."
+			},
+			{
+				"UNK0": 1,
+				"ID": 9,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x234A",
+				"STRING": "What about your parents?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x23A0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x23B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh no!!! Big Brother, you're so awful! Stupid, stupid, stupid!"
+	},
+	{
+		"LABEL": "0x2461",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2471",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't care, I'll let myself in! I don't need Big Brother's permission!"
+	},
+	{
+		"LABEL": "0x2505",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, this girl...!!"
+	},
+	{
+		"LABEL": "0x2545",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Enraged and upset, Mihomi forced her way in."
+	},
+	{
+		"LABEL": "0x2636",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2646",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow! Big Brother's room is so spacious! It's been so long!"
+	},
+	{
+		"LABEL": "0x26F5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2705",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By the way, Big Brother, I have a favor to ask..."
+	},
+	{
+		"LABEL": "0x27AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x27BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Can I stay here for today? You need to hide Mihomi! Just for a little bit... Please?"
+	},
+	{
+		"LABEL": "0x2889",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2899",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Actually, I'm Mihomi the Runaway Girl! I don't want to go home! No, I'm not a magical girl!"
+	},
+	{
+		"LABEL": "0x2970",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2980",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, hey! That's fine, right!? Your parents will be gone for a while! You told me that the other day!"
+	},
+	{
+		"LABEL": "0x2A06",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 10,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2A43",
+				"STRING": "Just for a little bit."
+			},
+			{
+				"UNK0": 1,
+				"ID": 11,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2A43",
+				"STRING": "I'll allow it just for today."
+			}
+		]
+	},
+	{
+		"LABEL": "0x2A99",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2AA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Really? Yay! I get to sleep with Big Brother today!"
+	},
+	{
+		"LABEL": "0x2B66",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2B76",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's been so long since I've had a sleepover at my Big Brother's house! Today is going to be a fun sleepover party♪"
+	},
+	{
+		"LABEL": "0x2BE8",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 12,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2C33",
+				"STRING": "Stay quiet; my neighbors are sleeping."
+			},
+			{
+				"UNK0": 1,
+				"ID": 13,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2C33",
+				"STRING": "Go get some sleep."
+			}
+		]
+	},
+	{
+		"LABEL": "0x2C89",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2C99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, I know that! Mihomi isn't a child anymore! Hmph!"
+	},
+	{
+		"LABEL": "0x2D52",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2D62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hoo... I'm getting kinda sleepy. Mihomi is going to sleep now."
+	},
+	{
+		"LABEL": "0x2E1B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2E2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, does Big Brother want to sleep with me? I'm sure it will be warm if we do."
+	},
+	{
+		"LABEL": "0x2EEA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x2EFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well then, good night, Big Brother..."
+	},
+	{
+		"LABEL": "0x2F8D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...How she fell asleep so fast!?"
+	},
+	{
+		"LABEL": "0x3015",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi was quite tired and looked sleepy."
+	},
+	{
+		"LABEL": "0x3069",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's a boisterous girl, always crying and laughing."
+	},
+	{
+		"LABEL": "0x30BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She must be in trouble with her parents or something. I'll let her stay here for today at least."
+	},
+	{
+		"LABEL": "0x3131",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My parents have been on vacation since yesterday."
+	},
+	{
+		"LABEL": "0x318F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, she won't be able to stay here forever."
+	},
+	{
+		"LABEL": "0x31CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not uncommon for Mihomi to run away from home."
+	},
+	{
+		"LABEL": "0x321F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She probably fought with her parents again."
+	},
+	{
+		"LABEL": "0x3275",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure she'll go back home soon."
+	},
+	{
+		"LABEL": "0x32BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She knows she's a scoundrel if she keeps doing this."
+	},
+	{
+		"LABEL": "0x3321",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi is asleep, so I went to sleep as well."
+	},
+	{
+		"LABEL": "0x3371",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We fell asleep on the futon next to each other."
+	},
+	{
+		"LABEL": "0x357F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear something."
+	},
+	{
+		"LABEL": "0x35B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a terrible sound, inviting me to the depths of hell."
+	},
+	{
+		"LABEL": "0x35F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sound is giving me such a headache..."
+	},
+	{
+		"LABEL": "0x363D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, this must be something called a 'word'. Someone must be talking."
+	},
+	{
+		"LABEL": "0x369D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Every one of these so-called words are eating away at my heart..."
+	},
+	{
+		"LABEL": "0x36F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's an air of disgust, as if I broke something really important."
+	},
+	{
+		"LABEL": "0x374B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He's... telling me something."
+	},
+	{
+		"LABEL": "0x3966",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3976",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Good morning!!! Big Brother, it's such a beautiful day outside♪"
+	},
+	{
+		"LABEL": "0x3A2B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3A3B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's school today! Let's go together! Like siblings!"
+	},
+	{
+		"LABEL": "0x3B00",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3B10",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, that's right! Mihomi put all her skill into making breakfast for Big Brother!"
+	},
+	{
+		"LABEL": "0x3BD7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3BE7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Make sure to leave no leftovers! Haha♪ Hey, we've got bento boxes too!"
+	},
+	{
+		"LABEL": "0x3C56",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3C66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, would you look at that! Ta-da! It's a bento personally made by Mihomi!"
+	},
+	{
+		"LABEL": "0x3CD4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi proudly opens her lunchbox for me to see."
+	},
+	{
+		"LABEL": "0x3D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, she's right. Octopus sausages, chicks made from the boiled eggs..."
+	},
+	{
+		"LABEL": "0x3D8E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And the best part of it is the incredibly cute rabbit decorated with seaweed and ham on top of the rice!"
+	},
+	{
+		"LABEL": "0x3E02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What should I do? I'm feeling kind of embarrassed... Do I need to eat this at school today?"
+	},
+	{
+		"LABEL": "0x3EAB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3EBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, did you notice? There's some cheese hidden inside the rabbit!"
+	},
+	{
+		"LABEL": "0x3F80",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x3F90",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure you'll be just as excited as Mihomi for the rest of the day when you eat it!! Take some of Mihomi's power into your life!"
+	},
+	{
+		"LABEL": "0x4053",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm with the noisy Mihomi today."
+	},
+	{
+		"LABEL": "0x4093",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And to think we would go to school together! Well, I suppose that makes sense for today."
+	},
+	{
+		"LABEL": "0x40E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She still has the same boisterousness as yesterday - I thought she would be more groggy to wake up this morning."
+	},
+	{
+		"LABEL": "0x41E1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x41F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi's class is over there! See you later, Big Brother♪"
+	},
+	{
+		"LABEL": "0x42AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x42BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll go home with you, okay? That's a promise! Work hard in class!!"
+	},
+	{
+		"LABEL": "0x441F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x442F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Aha♪ I'm so happy; Big Brother loves Mihomi♪ Kya♪"
+	},
+	{
+		"LABEL": "0x44F0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4500",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "H・a・p・p・y〜☆ Oh my, are we really going to get married in the future!?"
+	},
+	{
+		"LABEL": "0x45C9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x45D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What should I do...? If that happens, Mihomi will... I'm going to be his wife!?"
+	},
+	{
+		"LABEL": "0x4650",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4660",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Uu, haaa, my heart is beating so fast... Mihomi is not mentally prepared!"
+	},
+	{
+		"LABEL": "0x4719",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4729",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, I've got PE next. Hawaa... I can't exercise at all like this!"
+	},
+	{
+		"LABEL": "0x47F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4804",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi hates exercise! But since Big Brother loves me, I'll do my best!"
+	},
+	{
+		"LABEL": "0x48AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x4926",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4936",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh? Oh!? I can hear Big Brother's voice over there!!!"
+	},
+	{
+		"LABEL": "0x4A23",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4A33",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, who are you talking to, Big Brother...? I think he said you are... his friend?"
+	},
+	{
+		"LABEL": "0x4AB4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4AC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haah... Big Brother, you look so happy..."
+	},
+	{
+		"LABEL": "0x4B1D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4B2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is the first time I've seen Big Brother laughing so happily... Is talking with him more fun than with Mihomi?"
+	},
+	{
+		"LABEL": "0x4BBC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4BCC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't understand why. Big Brother, you're having fun. Big Brother looks happy."
+	},
+	{
+		"LABEL": "0x4C6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x4C7B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Are you really my friend? Are you? Or... are you just a friend...?"
+	},
+	{
+		"LABEL": "0x4D04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x4E95",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so, Mihomi continued to stay at my house."
+	},
+	{
+		"LABEL": "0x4EF3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't think she actually wants to stay with me... She just doesn't want to go home."
+	},
+	{
+		"LABEL": "0x4F5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmmm... This could be really difficult."
+	},
+	{
+		"LABEL": "0x4F9B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to help Mihomi, but I don't want to involve myself in her family problems."
+	},
+	{
+		"LABEL": "0x5013",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm just a child. There's only so much I can do."
+	},
+	{
+		"LABEL": "0x5077",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My parents will return soon, and then I won't even be able to house Mihomi anymore."
+	},
+	{
+		"LABEL": "0x50E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My only real option is to provide temporary housing for her."
+	},
+	{
+		"LABEL": "0x5191",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x51A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nuh... Big Brother... Mihomi can't eat anymore..."
+	},
+	{
+		"LABEL": "0x5250",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I stroke Mihomi's head, sleeping next to me."
+	},
+	{
+		"LABEL": "0x52A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I cannot possibly save her from her situation. Maybe I'm just being complacent."
+	},
+	{
+		"LABEL": "0x5306",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0x5334",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is the least I can do."
+	},
+	{
+		"LABEL": "0x537A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For tonight, while you're with me..."
+	},
+	{
+		"LABEL": "0x53D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Have a good night, Mihomi."
+	},
+	{
+		"LABEL": "0x55CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear something."
+	},
+	{
+		"LABEL": "0x5604",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sound is hurting my ears. It's such a loud sound."
+	},
+	{
+		"LABEL": "0x5642",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He's saying something... again."
+	},
+	{
+		"LABEL": "0x571C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x572C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother... Big Brother, wake up."
+	},
+	{
+		"LABEL": "0x57C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x57D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi wants to sleep soundly with Big Brother... in the futon together. Is that okay?"
+	},
+	{
+		"LABEL": "0x5894",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x58A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... Thank you. Big Brother... you're so warm, and you smell so good..."
+	},
+	{
+		"LABEL": "0x5929",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x5939",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's like you're really my Big Brother...oh, Mihomi is so happy..."
+	},
+	{
+		"LABEL": "0x59EA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x59FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Kyaha. Hug me tighter, so Mihomi can't escape..."
+	},
+	{
+		"LABEL": "0x5AAD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x5ABD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, can I live in Big Brother Itarou's house? I want to stay here forever... I don't want to go home."
+	},
+	{
+		"LABEL": "0x5B90",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x5BA0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Just kidding. I know I can't."
+	},
+	{
+		"LABEL": "0x5C4F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x5C5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to be with you all the time. I want you and Mihomi to be together forever..."
+	},
+	{
+		"LABEL": "0x5EA5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's time for lunch..."
+	},
+	{
+		"LABEL": "0x5EDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm eating my meal by myself, like always."
+	},
+	{
+		"LABEL": "0x5F1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru is my only real friend, though he likes to sit with a cute girl every day."
+	},
+	{
+		"LABEL": "0x5F8F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He asks me to join him sometimes, but I'm not interested."
+	},
+	{
+		"LABEL": "0x6007",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Speaking of which, he's taking a day off from school, isn't he? I wonder why."
+	},
+	{
+		"LABEL": "0x6077",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I suppose it doesn't matter."
+	},
+	{
+		"LABEL": "0x60A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll be alone again today, eating lunch in solitude."
+	},
+	{
+		"LABEL": "0x60FD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I open the lunch box, cute characters greet me."
+	},
+	{
+		"LABEL": "0x6159",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, that's right... Mihomi is making me lunch in return for me letting her stay."
+	},
+	{
+		"LABEL": "0x61CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If anyone saw this, they'd laugh. I need to eat this quickly."
+	},
+	{
+		"LABEL": "0x6231",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But suddenly - someone held their hands over my eyes."
+	},
+	{
+		"LABEL": "0x626A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x627A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Who's this♪"
+	},
+	{
+		"LABEL": "0x62A9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x62B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmmm, why don't you guess? I'm sure Big Brother will know right away!"
+	},
+	{
+		"LABEL": "0x631B",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 14,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6344",
+				"STRING": "Mihomi."
+			},
+			{
+				"UNK0": 1,
+				"ID": 15,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6499",
+				"STRING": "Poop."
+			}
+		]
+	},
+	{
+		"LABEL": "0x639F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x63AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, correct! Ding ding!! It's Mihomi, Big Brother!"
+	},
+	{
+		"LABEL": "0x641C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x642C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you so much, Big Brother!! Now, for your reward... huuug!!"
+	},
+	{
+		"LABEL": "0x64F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6504",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, Big Brother, that's not very nice! Mihomi will get angry!"
+	},
+	{
+		"LABEL": "0x65CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x65DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehehe. It's lunchtime for Mihomi too! Let's eat lunch together♪"
+	},
+	{
+		"LABEL": "0x664B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is she talking about? Doesn't Mihomi have people to eat with?"
+	},
+	{
+		"LABEL": "0x66A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's impossible. She is a very friendly girl."
+	},
+	{
+		"LABEL": "0x6707",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's insane to think a girl this wild has no friends at all."
+	},
+	{
+		"LABEL": "0x6777",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She came here with some kind of plan. Even I can figure that out."
+	},
+	{
+		"LABEL": "0x6822",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6832",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, hey, hey, Big Brother. I can stay over today too, right? That's okay, right?"
+	},
+	{
+		"LABEL": "0x68A5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x68B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to buy some snacks on the way home. We can eat them when we watch TV!"
+	},
+	{
+		"LABEL": "0x692F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see... Well, I figured she would ask this of me."
+	},
+	{
+		"LABEL": "0x697C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just because you want to buy me a snack doesn't mean I'll let you stay."
+	},
+	{
+		"LABEL": "0x69DB",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 16,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6A1E",
+				"STRING": "Don't come!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 17,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6A1E",
+				"STRING": "Hey, who said you could stay at..."
+			}
+		]
+	},
+	{
+		"LABEL": "0x6A74",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6A84",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh!? Can't I stay over? Your parents aren't back yet, right?"
+	},
+	{
+		"LABEL": "0x6B43",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6B53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...You're so... you're so terrible!! Big Brother is such an idiot!!"
+	},
+	{
+		"LABEL": "0x6C16",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6C26",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Selfish! Demon! Devil!! Yanderella!!!"
+	},
+	{
+		"LABEL": "0x6CC1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6CD1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi... Mihomi doesn't want to go home... I really don't want to..."
+	},
+	{
+		"LABEL": "0x6D3E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6D4E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'd rather die than go back there! I'll never go back!"
+	},
+	{
+		"LABEL": "0x6E17",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6E27",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Boooo! I didn't think Big Brother was so selfish! You're worse than a demon!"
+	},
+	{
+		"LABEL": "0x6EEC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6EFC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Just kidding. You know what Mihomi means, don't you?"
+	},
+	{
+		"LABEL": "0x6FB9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x6FC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know Big Brother is kind enough to let me stay over sometimes!"
+	},
+	{
+		"LABEL": "0x7042",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7052",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You wouldn't leave me on the street, would you? I believe in you, Big Brother!"
+	},
+	{
+		"LABEL": "0x710B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was having a really unpleasant conversation with Mihomi, when I overheard something nearby."
+	},
+	{
+		"LABEL": "0x7173",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'So I heard Yukimaru got hurt?'"
+	},
+	{
+		"LABEL": "0x71B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What?"
+	},
+	{
+		"LABEL": "0x71E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru got hurt?"
+	},
+	{
+		"LABEL": "0x721F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A little worried, I continued to listen."
+	},
+	{
+		"LABEL": "0x727B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'Yeah, that's right. Didn't he get sent to the hospital or something?'"
+	},
+	{
+		"LABEL": "0x72C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, don't tell me his ex-girlfriend took revenge on him!"
+	},
+	{
+		"LABEL": "0x7311",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He should've listened when I told him to keep his womanizing in check."
+	},
+	{
+		"LABEL": "0x7365",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh. I'll probably have to spend time alone for a while."
+	},
+	{
+		"LABEL": "0x73FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x740D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Huh. Everyone is talking about it, aren't they?"
+	},
+	{
+		"LABEL": "0x747C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi knew about Yukimaru's injury."
+	},
+	{
+		"LABEL": "0x74D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There must be a rumor going around in school."
+	},
+	{
+		"LABEL": "0x7524",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But why wouldn't my best friend contact me?"
+	},
+	{
+		"LABEL": "0x758A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the very least, I could go visit him..."
+	},
+	{
+		"LABEL": "0x7623",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7633",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey, Big Brother, did you hear? Here's the thing..."
+	},
+	{
+		"LABEL": "0x76E6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x76F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi heard it the other day! Big Brother's friend was saying awful things about you behind your back!"
+	},
+	{
+		"LABEL": "0x7775",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7785",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He wouldn't stop - he just kept saying such horrible things about you! Isn't that terrible!?"
+	},
+	{
+		"LABEL": "0x77FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x780E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He got what was coming to him! You shouldn't be sad about that piece of human trash!"
+	},
+	{
+		"LABEL": "0x788D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x789D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I would be really sad if something happened to Big Brother! But there's nothing to worry about! He's in the hospital, so it's all fine!"
+	},
+	{
+		"LABEL": "0x797C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x798C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, hey, Big Brother? Mihomi wants to give you some friendly advice!"
+	},
+	{
+		"LABEL": "0x79F1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7A01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are always surrounded by people that hate you. You need to be more alert with your environment, you know?"
+	},
+	{
+		"LABEL": "0x7ACC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7ADC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But, but, Big Brother... only Mihomi won't betray you."
+	},
+	{
+		"LABEL": "0x7B51",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7B61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will always be on Big Brother's side. Mihomi will protect you from all danger..."
+	},
+	{
+		"LABEL": "0x7C3C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7C4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha...haha! Hey, Big Brother?"
+	},
+	{
+		"LABEL": "0x7CE1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x7CF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother only has... Mihomi, okay?"
+	},
+	{
+		"LABEL": "0x7EE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x7F0E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x7F20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That Itarou... I wonder if he has a girlfriend?"
+	},
+	{
+		"LABEL": "0x7F75",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x7F87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so jealous! I've been getting rejected a lot lately, it hurts my image. And I'm not feeling well."
+	},
+	{
+		"LABEL": "0x8002",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8014",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But it's boring, isn't it? I guess you need to have a girl to have some real fun."
+	},
+	{
+		"LABEL": "0x8083",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8095",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't wait to get a new girlfriend. I wonder if I'll meet another cute girl soon..."
+	},
+	{
+		"LABEL": "0x80FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8110",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I can't help myself, picking up girls so easily! Ha ha ha!"
+	},
+	{
+		"LABEL": "0x81C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x81D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A beautiful girl appeared in front of me, just like that?! What is this? Is this a dream, or reality?"
+	},
+	{
+		"LABEL": "0x8255",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8267",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh? Ah right, you're Itarou's... Hey, don't spook me like that!"
+	},
+	{
+		"LABEL": "0x82DE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x82F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're as cute as ever. So how's it going lately? I hear you and Itarou are doing well..."
+	},
+	{
+		"LABEL": "0x83D6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x83E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... ...Yukimaru..."
+	},
+	{
+		"LABEL": "0x844B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x845D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's wrong? You look a bit unwell. Are you feeling sick, by any chance?"
+	},
+	{
+		"LABEL": "0x851E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x852E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Disappear."
+	},
+	{
+		"LABEL": "0x8651",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8663",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Gah...!!! Ahh...cah...gah...!?"
+	},
+	{
+		"LABEL": "0x86B8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x86CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why, what are... Wha...! Why, such...!!!"
+	},
+	{
+		"LABEL": "0x8730",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x87AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x87BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Could you please not be so friendly with Big Brother Itarou!? It's annoying!"
+	},
+	{
+		"LABEL": "0x8883",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x8893",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are such an eyesore! Really an eyesore! Now stay out of our way! Haha☆"
+	},
+	{
+		"LABEL": "0x8B05",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x8B15",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why were you even born? You worthless shit. You're a pest!"
+	},
+	{
+		"LABEL": "Custom1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you weren't here, I could start all over again with your mother!"
+	},
+	{
+		"LABEL": "0x8B87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Repeat, repeat, repeat..."
+	},
+	{
+		"LABEL": "0x8BC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This screwed up, everyday life, and all the nasty parts remain."
+	},
+	{
+		"LABEL": "0x8C1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How did it come to this?"
+	},
+	{
+		"LABEL": "0x8C5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What did I do wrong?"
+	},
+	{
+		"LABEL": "0x8C9B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why did Big Brother make me..."
+	},
+	{
+		"LABEL": "0x8CD6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x8CE6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're my stepdaughter and you still act all cocky. You're just a little kid! Listen here, you little brat!"
+	},
+	{
+		"LABEL": "Custom11",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom14",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know what to do with you... but I know I don't need you. Do you understand? You're nothing more than garbage!"
+	},
+	{
+		"LABEL": "Custom21",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom24",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Die. You should die right now. Die, die, die, die! Now!!!"
+	},
+	{
+		"LABEL": "0x8D7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Repeat, repeat..."
+	},
+	{
+		"LABEL": "0x8DBA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Like a broken tape recorder, the cracked sounds continue."
+	},
+	{
+		"LABEL": "0x8E1A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no way out. No salvation. No escape anywhere."
+	},
+	{
+		"LABEL": "0x8E6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to die, but I can't."
+	},
+	{
+		"LABEL": "Custom31",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, come on. Why are you so scared? End your life quickly."
+	},
+	{
+		"LABEL": "Custom41",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "Custom44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Can't... can't... no... no... no..."
+	},
+	{
+		"LABEL": "Custom51",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom54",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh? What did you just say to me?! You can't do it? You must be joking!"
+	},
+	{
+		"LABEL": "Custom61",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "Custom64",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Weren't you willing to do it before? I know you were, so do it now! Don't give me your excuses!"
+	},
+	{
+		"LABEL": "Custom71",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "Custom74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sorry, I'm sorry! I'll do it... I'll do it right now! So, please, don't hit me!"
+	},
+	{
+		"LABEL": "0x8EA3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x8EB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Shut up!! Don't yell so loud, you pile of shit! Now stop whining and get on with it!!"
+	},
+	{
+		"LABEL": "0x8F31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Repeat, repeat, repeat..."
+	},
+	{
+		"LABEL": "0x8F6D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah...ah..."
+	},
+	{
+		"LABEL": "0x8FA5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't want to deal with this anymore. I don't even want to live."
+	},
+	{
+		"LABEL": "0x8FEF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to forget who I am. All of it, everything."
+	},
+	{
+		"LABEL": "0x9043",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All of it, everything..."
+	},
+	{
+		"LABEL": "0x90CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x90DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "GYAAAAAAAAAAAAAAAAAAAAAA!!!"
+	},
+	{
+		"LABEL": "0x915C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x916C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah, hah...hah, kuh...hah, hah...hah."
+	},
+	{
+		"LABEL": "0x91C7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x91D7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, I'm sorry to wake you, Big Brother."
+	},
+	{
+		"LABEL": "0x9236",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x9246",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just had... a really scary dream..."
+	},
+	{
+		"LABEL": "0x92A3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x92B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, really... it's nothing... Oh, hahaha..."
+	},
+	{
+		"LABEL": "0x949B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's Saturday. School is out for the day."
+	},
+	{
+		"LABEL": "0x94DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... it's already past noon..."
+	},
+	{
+		"LABEL": "0x951D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I must have slept too much. Time to get up."
+	},
+	{
+		"LABEL": "0x9567",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi is probably awake already."
+	},
+	{
+		"LABEL": "0x95AB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a nice smell coming from the living room. She must have made breakfast."
+	},
+	{
+		"LABEL": "0x9613",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her cooking is the least she can do for being my housemate."
+	},
+	{
+		"LABEL": "0x9675",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The taste is alright, or rather, so very ordinary. Well, at least it's not bad."
+	},
+	{
+		"LABEL": "0x96E5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Leaving my futon, I check the table in the living room."
+	},
+	{
+		"LABEL": "0x9735",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As expected, breakfast is wrapped on the table."
+	},
+	{
+		"LABEL": "0x9783",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And next to it, a note from Mihomi."
+	},
+	{
+		"LABEL": "0x97CC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x97DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will no longer be a burden to you. Thank you for everything."
+	},
+	{
+		"LABEL": "0x9839",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0x9849",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sorry for the abruptness. Goodbye. Please do not search for me. -Mihomi"
+	},
+	{
+		"LABEL": "0x98B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...!!"
+	},
+	{
+		"LABEL": "0x98E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had a really bad feeling and ran out of the house."
+	},
+	{
+		"LABEL": "0x999A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I search for Mihomi."
+	},
+	{
+		"LABEL": "0x99CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I run until my legs feel like they are going to fall off. I thought I was going to throw up at one point."
+	},
+	{
+		"LABEL": "0x9A26",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I kept shouting Mihomi's name all over town."
+	},
+	{
+		"LABEL": "0x9A6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Schools, park, internet cafes... Where else could she be?"
+	},
+	{
+		"LABEL": "0x9AC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure I looked everywhere, but I couldn't find her."
+	},
+	{
+		"LABEL": "0x9B28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why? Why did you leave?"
+	},
+	{
+		"LABEL": "0x9B7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's still some time left for her to stay at my place."
+	},
+	{
+		"LABEL": "0x9BCA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's still time before my parents come back."
+	},
+	{
+		"LABEL": "0x9C20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can still shelter you."
+	},
+	{
+		"LABEL": "0x9C72",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if it's not a real solution, just a band-aid for the situation..."
+	},
+	{
+		"LABEL": "0x9CD4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you stayed with me... we could have found an answer together."
+	},
+	{
+		"LABEL": "0x9D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "........."
+	},
+	{
+		"LABEL": "0x9D60",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x9D8C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x9DB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sun is setting."
+	},
+	{
+		"LABEL": "0x9DE8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't find Mihomi."
+	},
+	{
+		"LABEL": "0x9E28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't think of anywhere else. What should I do?"
+	},
+	{
+		"LABEL": "0x9E6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I should..."
+	},
+	{
+		"LABEL": "0x9E8A",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 18,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x9EC9",
+				"STRING": "Give up and go home"
+			},
+			{
+				"UNK0": 1,
+				"ID": 19,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xB46B",
+				"STRING": "Not give up, and keep looking."
+			}
+		]
+	},
+	{
+		"LABEL": "0x9EDA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't find her after all this searching."
+	},
+	{
+		"LABEL": "0x9F28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seriously, where did she go...?"
+	},
+	{
+		"LABEL": "0x9F70",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm probably just wasting my time."
+	},
+	{
+		"LABEL": "0x9FBC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll just go home."
+	},
+	{
+		"LABEL": "0x9FFC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe that letter didn't mean anything, and Mihomi will come back on her own?"
+	},
+	{
+		"LABEL": "0xA068",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I sure hope so..."
+	},
+	{
+		"LABEL": "0xA0A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I went home, hoping for the best."
+	},
+	{
+		"LABEL": "0xA150",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm home."
+	},
+	{
+		"LABEL": "0xA184",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The room is so quiet and still."
+	},
+	{
+		"LABEL": "0xA1CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So it wasn't a prank after all..."
+	},
+	{
+		"LABEL": "0xA21C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She was serious..."
+	},
+	{
+		"LABEL": "0xA258",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I turn on the light in the living room and find a new note on the table."
+	},
+	{
+		"LABEL": "0xA2BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So did Mihomi come back?"
+	},
+	{
+		"LABEL": "0xA30A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A message from that girl... I'll have to read it."
+	},
+	{
+		"LABEL": "0xA353",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA363",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, you're right, Big Brother. You're right."
+	},
+	{
+		"LABEL": "0xA3BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA3CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know it was me who hurt Yukimaru, didn't you, Big Brother?"
+	},
+	{
+		"LABEL": "0xA43B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA44B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And that's why you stopped looking for Mihomi, right? You've run out of love for Mihomi."
+	},
+	{
+		"LABEL": "0xA4BC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA4CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because the only way you could see this note is if you... stopped looking and came back home!"
+	},
+	{
+		"LABEL": "0xA557",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA567",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Right? Big Brother Itarou is such a heartless person."
+	},
+	{
+		"LABEL": "0xA5C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA5D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Goodbye! Ahahaha! -Mihomi"
+	},
+	{
+		"LABEL": "0xA627",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I felt incredible guilt reading the letter."
+	},
+	{
+		"LABEL": "0xA681",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not like this... It's sad. Too sad."
+	},
+	{
+		"LABEL": "0xA6CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't want things to end this way..."
+	},
+	{
+		"LABEL": "0xA717",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what she's doing now."
+	},
+	{
+		"LABEL": "0xA75D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No matter what I do, I'm sure she'll never come back here again..."
+	},
+	{
+		"LABEL": "0xA837",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a sound."
+	},
+	{
+		"LABEL": "0xA86D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A sound like it came from the depths of hell."
+	},
+	{
+		"LABEL": "0xA8AB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Such a loud sound like that makes my head hurt."
+	},
+	{
+		"LABEL": "0xA98B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xA99B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ahah. I wonder if Big Brother Itarou is still awake? Has he gone to sleep already?"
+	},
+	{
+		"LABEL": "0xAA0C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAA1C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if he misses Mihomi?"
+	},
+	{
+		"LABEL": "0xAA71",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAA81",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't think so! Because Big Brother doesn't like Mihomi!"
+	},
+	{
+		"LABEL": "0xAB73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That one thing... It eats away at my heart."
+	},
+	{
+		"LABEL": "0xABCB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a feeling of disgust, like when you break something important."
+	},
+	{
+		"LABEL": "0xAC21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Someone... is talking."
+	},
+	{
+		"LABEL": "0xACA6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xACB6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother, there's no one else who cares for you but Mihomi."
+	},
+	{
+		"LABEL": "0xAD07",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAD17",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Only Mihomi believes in you, you know."
+	},
+	{
+		"LABEL": "0xAD64",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAD74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone other than Big Brother is an enemy."
+	},
+	{
+		"LABEL": "0xADBD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xADCD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi will be Big Brother's only ally forever and ever, you know?"
+	},
+	{
+		"LABEL": "0xAEC1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAED1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Come on, come on! If you're not in a hurry, come and watch!"
+	},
+	{
+		"LABEL": "0xAF3F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xAF4F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ladies and gentlemen! Starting now, showtime has started!!"
+	},
+	{
+		"LABEL": "0xB014",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xB024",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I set this house on fire, will Big Brother get out safely!?"
+	},
+	{
+		"LABEL": "0xB095",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xB0A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A miraculous escape... Just kidding! Die! Big Brother, just die!!!"
+	},
+	{
+		"LABEL": "0xB220",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xB230",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Kyahahahaha!!! Burn it! Burn it to the ground!!"
+	},
+	{
+		"LABEL": "0xB297",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xB2A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My Big Brother's house! It's fine if it all burns down! Ahahaha!!!!"
+	},
+	{
+		"LABEL": "Custom81",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999BAD END『Showtime』"
+	},
+	{
+		"LABEL": "0xB47C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't go home yet."
+	},
+	{
+		"LABEL": "0xB4B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's still time. I can't give up on the search just yet."
+	},
+	{
+		"LABEL": "0xB500",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She must be out there somewhere... She must be!"
+	},
+	{
+		"LABEL": "0xB5AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I got tired of running, and was forced to walk."
+	},
+	{
+		"LABEL": "0xB5F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It had started to rain."
+	},
+	{
+		"LABEL": "0xB638",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it, as if drawn by something, I..."
+	},
+	{
+		"LABEL": "0xB694",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had come to a bridge."
+	},
+	{
+		"LABEL": "0xB6DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And there is a girl."
+	},
+	{
+		"LABEL": "0xB785",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi is there."
+	},
+	{
+		"LABEL": "0xB7B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She stands in the middle of the bridge, as if in a trance."
+	},
+	{
+		"LABEL": "0xB80B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's just Mihomi and I... There's no one else in the world."
+	},
+	{
+		"LABEL": "0xB85B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She stood motionless, quietly staring below the bridge."
+	},
+	{
+		"LABEL": "0xB8AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, too, stare at Mihomi."
+	},
+	{
+		"LABEL": "0xB8F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what she's thinking right now."
+	},
+	{
+		"LABEL": "0xB93B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This bridge is pretty high up."
+	},
+	{
+		"LABEL": "0xB979",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If one were to fall from here, they won't get back up."
+	},
+	{
+		"LABEL": "0xBA1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xBA4E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBA5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother... You came?"
+	},
+	{
+		"LABEL": "0xBAFB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBB0B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... It's far too late. I doubt this means anything."
+	},
+	{
+		"LABEL": "0xBB69",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBB79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother... Mihomi can't take it anymore... It's too late for me."
+	},
+	{
+		"LABEL": "0xBBED",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 20,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xBC36",
+				"STRING": "Why aren't you coming home?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 21,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xBC36",
+				"STRING": "What happened?"
+			}
+		]
+	},
+	{
+		"LABEL": "0xBC40",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBC50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, Big Brother... If I tell you the truth, won't you hate Mihomi? WIll you still love me?"
+	},
+	{
+		"LABEL": "0xBCD8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi looks at me with tears in her eyes."
+	},
+	{
+		"LABEL": "0xBD22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I nodded, Mihomi gave a painful laugh."
+	},
+	{
+		"LABEL": "0xBDB3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBDC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Kyaha... I don't want you to hate me... It's a promise, okay? So..."
+	},
+	{
+		"LABEL": "0xBE2E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBE3E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because you see... Mihomi... Mihomi is..."
+	},
+	{
+		"LABEL": "0xBEE3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBEF3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have a baby in my belly!! I'm pregnant!!"
+	},
+	{
+		"LABEL": "0xBF5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What?"
+	},
+	{
+		"LABEL": "0xBF8A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why is she saying such weird things..."
+	},
+	{
+		"LABEL": "0xBFCF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xBFDF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not a lie!! It's true!!!"
+	},
+	{
+		"LABEL": "0xC030",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC040",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If it's a lie... If it's a lie... I wouldn't do this. I wouldn't give up on everything..."
+	},
+	{
+		"LABEL": "0xC0C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi yells at me, unable to hide how upset she is."
+	},
+	{
+		"LABEL": "0xC114",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She looks like the end of her world is coming..."
+	},
+	{
+		"LABEL": "0xC1B3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC1C3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...That's right. I don't need to explain anymore... You understand, right? I don't want you to tell what happened..."
+	},
+	{
+		"LABEL": "0xC242",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC252",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big Brother... It's your fault. All is your fault..."
+	},
+	{
+		"LABEL": "0xC2FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC30D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I mean... if Big Brother had only realized this sooner... this wouldn't have happened!"
+	},
+	{
+		"LABEL": "0xC38A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC39A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because Big Brother didn't come save me! All because Big Brother couldn't save me!"
+	},
+	{
+		"LABEL": "0xC41B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC42B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi is in so much pain... and it's all Big Brother's fault!!!"
+	},
+	{
+		"LABEL": "0xC4EA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC4FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What? That's wrong..."
+	},
+	{
+		"LABEL": "0xC53D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC54D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After all Mihomi didn't ask for help!!!"
+	},
+	{
+		"LABEL": "0xC5EC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC5FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah! Mihomi, a worthless child? An useless child? I am the worst..."
+	},
+	{
+		"LABEL": "0xC661",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC671",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha... Big Brother, do you hate Mihomi? Is life no longer worth living?"
+	},
+	{
+		"LABEL": "0xC73A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC74A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi... Such useless Mihomi should just die already!!"
+	},
+	{
+		"LABEL": "0xC7B3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC7C3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Who said I could have a baby? I don't want to live! Kill me! Someone please kill me!"
+	},
+	{
+		"LABEL": "0xC840",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xC850",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I never wanted to be born in such an intensely cruel and unreasonable world!"
+	},
+	{
+		"LABEL": "0xC8D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, don't say that, Mihomi."
+	},
+	{
+		"LABEL": "0xC911",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you don't die, if you stay alive, if you keep trying... then one day..."
+	},
+	{
+		"LABEL": "0xC97D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know, one day you'll be happy."
+	},
+	{
+		"LABEL": "0xC9D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm here for you, don't worry."
+	},
+	{
+		"LABEL": "0xCA0F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wish I could say..."
+	},
+	{
+		"LABEL": "0xCA43",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wish I could tell her that, but..."
+	},
+	{
+		"LABEL": "0xCA87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to say those words, but I can't seem to get them out."
+	},
+	{
+		"LABEL": "0xCAC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's like I don't have the right to say them."
+	},
+	{
+		"LABEL": "0xCB68",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCB78",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hahaha... So what is Mihomi's life all about?"
+	},
+	{
+		"LABEL": "0xCBDD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCBED",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... But there's one thing Mihomi's got!"
+	},
+	{
+		"LABEL": "0xCC9A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCCAA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Big Brother's heart. Mihomi has that."
+	},
+	{
+		"LABEL": "0xCD09",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi leans on the edge of the bridge."
+	},
+	{
+		"LABEL": "0xCD63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I run towards her, but..."
+	},
+	{
+		"LABEL": "0xCDFA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCE0A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Stay back!!"
+	},
+	{
+		"LABEL": "0xCE42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi..."
+	},
+	{
+		"LABEL": "0xCEBB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCECB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, just... leave me alone already. It's... none of your business."
+	},
+	{
+		"LABEL": "0xCF8A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xCF9A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And you know what? It was decided from the start Mihomi would jump from here."
+	},
+	{
+		"LABEL": "0xD005",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xD015",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure you understand, don't you, Big Brother? Because it all started right here..."
+	},
+	{
+		"LABEL": "0xD092",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xD0A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... Big Brother, goodbye."
+	},
+	{
+		"LABEL": "0xD123",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi!!!"
+	},
+	{
+		"LABEL": "0xD15D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My outstretched hand grips air."
+	},
+	{
+		"LABEL": "0xD1B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The silence clashed with the sound of the rain."
+	},
+	{
+		"LABEL": "0xD1F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi fell over the edge."
+	},
+	{
+		"LABEL": "0xD23F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And then, her body slammed onto the ground..."
+	},
+	{
+		"LABEL": "0xD29B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xD2C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi is dead...?"
+	},
+	{
+		"LABEL": "0xD307",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I look over the railing, to see where she fell, feeling nervous."
+	},
+	{
+		"LABEL": "0xD35B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xD38F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked to where she had fallen, and I saw her."
+	},
+	{
+		"LABEL": "0xD3C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I feel someone push me from behind, and I lose my balance."
+	},
+	{
+		"LABEL": "0xD4CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My body hits the ground."
+	},
+	{
+		"LABEL": "0xD50F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After feeling a pain I never thought possible, my body relaxes."
+	},
+	{
+		"LABEL": "0xD571",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I do the same as Mihomi and roll along the ground."
+	},
+	{
+		"LABEL": "0xD5C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see her face very close to mine."
+	},
+	{
+		"LABEL": "0xD613",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mihomi..."
+	},
+	{
+		"LABEL": "0xD645",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her still young, innocent, beautiful face."
+	},
+	{
+		"LABEL": "0xD689",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not smiling, not angry, or sad. Just eyes wide open, unmoving."
+	},
+	{
+		"LABEL": "0xD6FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to reach out to her and touch her, but my body is too weak."
+	},
+	{
+		"LABEL": "0xD753",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if I will become the same as you..."
+	},
+	{
+		"LABEL": "0xD809",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000It is still raining."
+	},
+	{
+		"LABEL": "0xD86C",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000Was it raining when I met Mihomi?"
+	},
+	{
+		"LABEL": "0xD8F1",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000Remembering what happened that day, "
+	},
+	{
+		"LABEL": "0xD960",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000I looked at Mihomi's face as I died..."
+	},
+	{
+		"LABEL": "Custom84",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999HAPPY END『A rainy day』"
+	},
+	{
+		"LABEL": "0xDB5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Rain is falling."
+	},
+	{
+		"LABEL": "0xDB9D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a downpour."
+	},
+	{
+		"LABEL": "0xDBCB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A girl is standing in such bad weather without an umbrella."
+	},
+	{
+		"LABEL": "0xDC21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She was standing in the middle of a bridge."
+	},
+	{
+		"LABEL": "0xDC65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The bridge is pretty high up."
+	},
+	{
+		"LABEL": "0xDCA3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If one were to fall from here, they won't get back up."
+	},
+	{
+		"LABEL": "0xDCFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's just me and a girl... there's no one else here."
+	},
+	{
+		"LABEL": "0xDD4D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just me with an umbrella and her soaking wet."
+	},
+	{
+		"LABEL": "0xDD95",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She didn't move an inch, just staring under the bridge."
+	},
+	{
+		"LABEL": "0xDDE9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, too, stare at the girl."
+	},
+	{
+		"LABEL": "0xDE2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what she is thinking."
+	},
+	{
+		"LABEL": "0xDEC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xDEF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0xDF6D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xDF7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...What are you looking at?"
+	},
+	{
+		"LABEL": "0xDFB4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xDFC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Who are you? Do you need something?"
+	},
+	{
+		"LABEL": "0xE010",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My sudden approach must have startled her."
+	},
+	{
+		"LABEL": "0xE056",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not that I had anything to do with her, but I was watching."
+	},
+	{
+		"LABEL": "0xE0B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Reason being, I was kind of curious."
+	},
+	{
+		"LABEL": "0xE0FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was worried... she might jump off or something."
+	},
+	{
+		"LABEL": "0xE164",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I told her what was on my mind, she sighed and said she didn't know what to do."
+	},
+	{
+		"LABEL": "0xE207",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE217",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's this about? Are you trying to preach to me?"
+	},
+	{
+		"LABEL": "0xE250",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE260",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It can't be helped. There's no place for me... anywhere."
+	},
+	{
+		"LABEL": "0xE2C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE2D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not everyone grew up in a happy home like you. Some people have nowhere to go and have a hard time every day."
+	},
+	{
+		"LABEL": "0xE354",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE364",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm going to stay in the park, stay in hotels with what little money I have, pass time in Internet cafes. Forever."
+	},
+	{
+		"LABEL": "0xE3D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE3E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... People with warm homes wouldn't understand."
+	},
+	{
+		"LABEL": "0xE442",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE452",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I go home... what is waiting for me is a false family."
+	},
+	{
+		"LABEL": "0xE4BB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE4CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm done trying. I'm sick of it... It would be so much easier if I could just die."
+	},
+	{
+		"LABEL": "0xE53A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE54A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I fall from here, I'll probably die... Torn to pieces."
+	},
+	{
+		"LABEL": "0xE5E0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xE660",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I silently pull the girl's hand away."
+	},
+	{
+		"LABEL": "0xE69F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mihomi"
+	},
+	{
+		"LABEL": "0xE6AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...!! ...Huh...?"
+	},
+	{
+		"LABEL": "0xE700",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is surprised, but not reluctant."
+	},
+	{
+		"LABEL": "0xE74E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If she stays here any longer, she might actually jump."
+	},
+	{
+		"LABEL": "0xE7AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I did. I had to."
+	},
+	{
+		"LABEL": "0xE7F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the pouring rain..."
+	},
+	{
+		"LABEL": "0xE834",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We walked hand in hand."
+	},
+	{
+		"LABEL": "0xE880",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xE900",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xE934",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She squeezed my hand as we walked."
+	},
+	{
+		"LABEL": "0xEA5C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "ＴＨＡＮＫ　ＹＯＵ　ＦＯＲ　ＰＬＡＹＩＮＧ！！"
+	},
+	{
+		"LABEL": "0xEA8E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 10,
+		"STRING": "Clear Password Part 2:『o』"
+	}
+]

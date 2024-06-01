@@ -1,0 +1,566 @@
+[
+	{
+		"LABEL": "0xCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this dream, or reality?"
+	},
+	{
+		"LABEL": "0x16A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x17A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The boundaries between the two are blurred, leading to one possibility."
+	},
+	{
+		"LABEL": "0x213",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Another future for these women may have bloomed somewhere else."
+	},
+	{
+		"LABEL": "0x2BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x2CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a fragment of Ivy here. It's what she, the savior, ended up with."
+	},
+	{
+		"LABEL": "0x379",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x389",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's look into that fragment."
+	},
+	{
+		"LABEL": "0x5AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She has the appearance of a fairy running about in the modern age."
+	},
+	{
+		"LABEL": "0x601",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She wears a gothic dress; her twin tails swing silently."
+	},
+	{
+		"LABEL": "0x659",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her red and blue eyes stare at the enemy she has cornered."
+	},
+	{
+		"LABEL": "0x6BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x6CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's enough, Darkness of the World!!"
+	},
+	{
+		"LABEL": "0x714",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She speaks in a high voice."
+	},
+	{
+		"LABEL": "0x752",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was her declaration as the Savior, which would precede the beginning of the end for the Darkness."
+	},
+	{
+		"LABEL": "0x7B7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This world has been poisoned by something invisible... It is our task to cleanse it."
+	},
+	{
+		"LABEL": "0x887",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x89B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am Il Salvatore%R(5,Savior), who will exorcise the darkness, Clara Moemori! In order to destroy injustice, disappear, Darkness of the World...!"
+	},
+	{
+		"LABEL": "0x938",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's true. She's the Savior of this intensely cruel and unreasonable world."
+	},
+	{
+		"LABEL": "0x994",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The one I love... is Clara Moemori."
+	},
+	{
+		"LABEL": "0xA97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After watching her hero-esque scene earlier, we were walking around the city."
+	},
+	{
+		"LABEL": "0xB4B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xB5B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so tired... It's so hard to be Clara..."
+	},
+	{
+		"LABEL": "0xBBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Next to me was a woman."
+	},
+	{
+		"LABEL": "0xC01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I call out to her and hand her a drink."
+	},
+	{
+		"LABEL": "0xCAC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCBC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh! Thank you, Itarou...!"
+	},
+	{
+		"LABEL": "0xD20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What was her true identity? The shy Moeko, standing by me right now?"
+	},
+	{
+		"LABEL": "0xD88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or the savior figure, the confident Clara Moemori?"
+	},
+	{
+		"LABEL": "0xDF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The passers-by didn't seem to notice what was going on."
+	},
+	{
+		"LABEL": "0xE8E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A cosplay event is happening in Akiba."
+	},
+	{
+		"LABEL": "0xEF6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We were surrounded by many people in cosplay costumes."
+	},
+	{
+		"LABEL": "0xF52",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Perhaps because Clara was in cosplay, they thought she was putting on a performance."
+	},
+	{
+		"LABEL": "0xFCE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How foolish they are, to not notice an angel among them."
+	},
+	{
+		"LABEL": "0x1044",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is the difference..."
+	},
+	{
+		"LABEL": "0x107D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0x108D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That girl with the lolita dress is so cute! I wonder what her name is!"
+	},
+	{
+		"LABEL": "0x10FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, it looks like people are beginning to notice her."
+	},
+	{
+		"LABEL": "0x115B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0x116B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, her? Anyway, I liked the girl I passed earlier better."
+	},
+	{
+		"LABEL": "0x11DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah?!?!?!?!?"
+	},
+	{
+		"LABEL": "0x1214",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's with that guy... Doesn't he realize how good Clara is?"
+	},
+	{
+		"LABEL": "0x1272",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Dude, she's an angel! If his eyes were burned by Clara's brilliance, I'd understand."
+	},
+	{
+		"LABEL": "0x12EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, it can't be helped. I'll have to teach him a lesson."
+	},
+	{
+		"LABEL": "0x1392",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x13A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, Itarou...? What's with that scary look?"
+	},
+	{
+		"LABEL": "0x1400",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't worry, Moeko. I'm going to work extra hard now, too."
+	},
+	{
+		"LABEL": "0x14A1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x14B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even when you claim to be a hero who understands his faults?"
+	},
+	{
+		"LABEL": "0x1502",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1512",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't cause a scene! If you didn't know, Clara's a secret!"
+	},
+	{
+		"LABEL": "0x1590",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko pulls my hand in a panic, and I have no choice but to relent."
+	},
+	{
+		"LABEL": "0x15EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko and I begin walking again, looking for our next foe."
+	},
+	{
+		"LABEL": "0x16A9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x16B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, I'd like to ask you one question. May I?"
+	},
+	{
+		"LABEL": "0x171F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko asks this with such an anxious look."
+	},
+	{
+		"LABEL": "0x1767",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't believe she and Clara are the same person."
+	},
+	{
+		"LABEL": "0x17FC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x180C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, uh, you know... uh..."
+	},
+	{
+		"LABEL": "0x189D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x18AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Which one you really like, Itarou?"
+	},
+	{
+		"LABEL": "0x1911",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The clamour from the crowd grew louder."
+	},
+	{
+		"LABEL": "0x19B2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x19C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I told you my secret, you accepted me. I was so happy."
+	},
+	{
+		"LABEL": "0x1A45",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1A55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But Itarou seems to be looking at just Clara, not me..."
+	},
+	{
+		"LABEL": "0x1ABA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1ACA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, I... I'm a bit nervous. I'm afraid that I'll be thrown away."
+	},
+	{
+		"LABEL": "0x1B4F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't see Moeko's expression very well as she looks down."
+	},
+	{
+		"LABEL": "0x1BA3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But somehow, it seemed she was holding back tears."
+	},
+	{
+		"LABEL": "0x1BFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure it's because I, of all people, was making her uneasy."
+	},
+	{
+		"LABEL": "0x1CA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko looked up."
+	},
+	{
+		"LABEL": "0x1CE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko's eyes, staring at me, were shaking with anxiety and anticipation."
+	},
+	{
+		"LABEL": "0x1D39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I-I like both of you."
+	},
+	{
+		"LABEL": "0x1D77",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But the most important one is you... Moeko."
+	},
+	{
+		"LABEL": "0x1DC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Otherwise, I wouldn't be with such a shy person like you."
+	},
+	{
+		"LABEL": "0x1E2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I admit I hated you at first, but not anymore."
+	},
+	{
+		"LABEL": "0x1EBC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1ECC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou..."
+	},
+	{
+		"LABEL": "0x1F06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara is a sweetheart. Moeko is the one I love. Is that not enough?"
+	},
+	{
+		"LABEL": "0x1FAD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1FBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nope, I'm satisfied!"
+	},
+	{
+		"LABEL": "0x1FFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko takes my hand."
+	},
+	{
+		"LABEL": "0x203C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x204C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, please stay with me from now on. We will save the world, and after that..."
+	},
+	{
+		"LABEL": "0x20CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x20DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Stay with me, forever and ever!"
+	},
+	{
+		"LABEL": "0x212C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so Clara the Savior will save the world."
+	},
+	{
+		"LABEL": "0x2184",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is left after that will be..."
+	},
+	{
+		"LABEL": "0x21CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It must be Moeko's smile as she holds my hand."
+	},
+	{
+		"LABEL": "0x2216",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her hands will never leave mine."
+	}
+]

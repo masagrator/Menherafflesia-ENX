@@ -1,0 +1,4371 @@
+[
+	{
+		"LABEL": "0x152",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My name is Itarou."
+	},
+	{
+		"LABEL": "0x18C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm a lonely, single guy living by myself in the city."
+	},
+	{
+		"LABEL": "0x1D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't get out much. I make my living working at a factory to support my otaku lifestyle."
+	},
+	{
+		"LABEL": "0x238",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After finishing up my work, I changed into my casual clothes and relaxed in the break room."
+	},
+	{
+		"LABEL": "0x2A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ahh, I can't wait to have a smoke after a long day of work."
+	},
+	{
+		"LABEL": "0x34C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x35C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh...oh... What am I going to do...umm, well..."
+	},
+	{
+		"LABEL": "0x3C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hm?"
+	},
+	{
+		"LABEL": "0x3FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I was playing with my phone, I heard a mouse-like voice near me."
+	},
+	{
+		"LABEL": "0x4A5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah! He... looked at me... uh, oh, uh..."
+	},
+	{
+		"LABEL": "0x519",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Apparently, the source of the voice is a person who was bumbling around in my peripheral vision earlier."
+	},
+	{
+		"LABEL": "0x581",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm... who is this woman?"
+	},
+	{
+		"LABEL": "0x606",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x616",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou? Um, can you hear me...?"
+	},
+	{
+		"LABEL": "0x670",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Yes, I remember now. She's a coworker of mine."
+	},
+	{
+		"LABEL": "0x6BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think her name is Moeko."
+	},
+	{
+		"LABEL": "0x702",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She doesn't talk at all during work, so no one remembers her."
+	},
+	{
+		"LABEL": "0x760",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Honestly, it'd be more accurate to say she's being intentionally left out... rather than forgotten."
+	},
+	{
+		"LABEL": "0x80F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x81F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Oh, so maybe you can't hear me after all...? My voice is too soft..."
+	},
+	{
+		"LABEL": "0x897",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's still behaving strangely..."
+	},
+	{
+		"LABEL": "0x8D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Judging from her behavior, she must have a speaking disorder or something."
+	},
+	{
+		"LABEL": "0x941",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No wonder my coworkers avoid her."
+	},
+	{
+		"LABEL": "0x995",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though her name is Moeko, the fact she isn't Moe in the slightest is a huge joke."
+	},
+	{
+		"LABEL": "0xA46",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xA56",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah! Um! I'm sorry to interrupt... Itarou!"
+	},
+	{
+		"LABEL": "0xB01",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xB11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, um... Thank you for your work...!"
+	},
+	{
+		"LABEL": "0xB72",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xB82",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm very happy to be working in the same position as you for the first time in a long time."
+	},
+	{
+		"LABEL": "0xC47",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So what do you... say, do you have any... time soon?"
+	},
+	{
+		"LABEL": "0xCBC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCCC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I mean, I was wondering if you'd like to go together... for dinner or something..."
+	},
+	{
+		"LABEL": "0xD32",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xD6F",
+				"STRING": "I'm busy."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xD6F",
+				"STRING": "Don't talk to me, bitch."
+			}
+		]
+	},
+	{
+		"LABEL": "0xDC5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xDD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah... yes, right. Right......"
+	},
+	{
+		"LABEL": "0xE37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hearing my answer, Moeko looks depressed as her shoulders slump dejectedly."
+	},
+	{
+		"LABEL": "0xEA3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seriously, I'm busy enjoying my otaku lifestyle over here."
+	},
+	{
+		"LABEL": "0xEEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't afford to spend my precious time at the end of the day on a 3D woman like this!"
+	},
+	{
+		"LABEL": "0xF94",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xFA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I-I'm sorry, I didn't mean to make you... so angry..."
+	},
+	{
+		"LABEL": "0x1021",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sensing my hostility, she cowers like a frightened animal."
+	},
+	{
+		"LABEL": "0x10AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ha! What a waste of time."
+	},
+	{
+		"LABEL": "0x10F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wish she wouldn't talk to me in the first place. She's such a hideous person."
+	},
+	{
+		"LABEL": "0x1149",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ignoring the flustered Moeko, I quickly leave the factory."
+	},
+	{
+		"LABEL": "0x11EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Encountering Moeko lowered my spirits, so I go get something tasty to cheer me up on the way home."
+	},
+	{
+		"LABEL": "0x1267",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After much deliberation, I decided on getting some fast food."
+	},
+	{
+		"LABEL": "0x12DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can get two hamburgers for... 200 yen. That's pretty cheap."
+	},
+	{
+		"LABEL": "0x1347",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I guess the reason this junk food tastes so good is because I'm so hungry..."
+	},
+	{
+		"LABEL": "0x13BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since I moved out of my parents' house, I retained the poverty I had as a student. Splurging is a bad habit of mine."
+	},
+	{
+		"LABEL": "0x141B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now that I've satisfied my hunger, it's time to check out the Otaku Shop for new merch."
+	},
+	{
+		"LABEL": "0x1497",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As usual, time after work is spent on otaku activites. It's my routine."
+	},
+	{
+		"LABEL": "0x14FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'd love to hang out with some otaku friends, but I don't have any."
+	},
+	{
+		"LABEL": "0x156F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, now that I've handled my business, it's time to go home."
+	},
+	{
+		"LABEL": "0x15BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I went straight for the train station."
+	},
+	{
+		"LABEL": "0x1662",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x1708",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1718",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Gah!?"
+	},
+	{
+		"LABEL": "0x174E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before me was a woman in a lovely outfit who looked like she wandered in from another world."
+	},
+	{
+		"LABEL": "0x17B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes! If I had to describe her, I'd say... an angel!"
+	},
+	{
+		"LABEL": "0x1802",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A dainty and lovely beauty!"
+	},
+	{
+		"LABEL": "0x184E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is definitely my type. I dare say, I'd even want to marry her on the spot."
+	},
+	{
+		"LABEL": "0x18F5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1905",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What are you doing!? You're staring at me so intently! That's rude!"
+	},
+	{
+		"LABEL": "0x197F",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x19C2",
+				"STRING": "An angel...?!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x19C2",
+				"STRING": "So moe... Hahaha."
+			}
+		]
+	},
+	{
+		"LABEL": "0x1A18",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1A28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hah!? What the...? What did you just... You are talking... about me...?"
+	},
+	{
+		"LABEL": "0x1AE5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1AF5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hope you didn't just say 'Oh, she's so cute!' Right?!"
+	},
+	{
+		"LABEL": "0x1B73",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x1BC4",
+				"STRING": "Marry me!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x1BC4",
+				"STRING": "I love you! Be my wife!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x1C1A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1C2A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha...aaaaaa!? What is this, sudden love confession!?"
+	},
+	{
+		"LABEL": "0x1CCB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1CDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know what you're talking about? Are you serious?! I mean, what is this all of a sudden!?"
+	},
+	{
+		"LABEL": "0x1DAA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1DBA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know how to answer when you just suddenly say something like that...!!"
+	},
+	{
+		"LABEL": "0x1E28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh no. I think I came on too strong."
+	},
+	{
+		"LABEL": "0x1E74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This person looks confused, but my love confession is genuine."
+	},
+	{
+		"LABEL": "0x1EE0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For now, we decided to introduce ourselves."
+	},
+	{
+		"LABEL": "0x1F87",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x1F97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um... It's nice to meet you...?"
+	},
+	{
+		"LABEL": "0x2038",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x2048",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm Hi...gyah!!! No, my name is...uh, um..."
+	},
+	{
+		"LABEL": "0x20AD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x20BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moe... Ah! No, it's... Mo-Mo-Mo..."
+	},
+	{
+		"LABEL": "0x215C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x216C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moe-Moemori... It's Clara!"
+	},
+	{
+		"LABEL": "0x21F5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2205",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Feel free to call me Clara! Or Lady Clara, if you'd prefer!"
+	},
+	{
+		"LABEL": "0x22B0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x22C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, about that... thing you were talking about. I'm glad you... feel that way. But... we can't be friends for starters?"
+	},
+	{
+		"LABEL": "0x2393",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x23A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What, ah, no...!? You're such a selfish person! Well, that can't be helped..."
+	},
+	{
+		"LABEL": "0x2460",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2470",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's exchange contact information! Then maybe we'll see each other again?"
+	},
+	{
+		"LABEL": "0x252D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x253D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um, can I have some time to think about marriage? I just need some time to think about it."
+	},
+	{
+		"LABEL": "0x25B0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x25C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know anything about you... and that's something you only do when you get to know each other better, right?"
+	},
+	{
+		"LABEL": "0x263E",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x267B",
+				"STRING": "Sure, okay."
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x267B",
+				"STRING": "Thank you!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x26D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x26E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, thanks a lot, Itarou!"
+	},
+	{
+		"LABEL": "0x2778",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2788",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh...... No, that's not...! Now... uh..."
+	},
+	{
+		"LABEL": "0x27E3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x27F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know you! I literally just met you first time in my life!"
+	},
+	{
+		"LABEL": "0x28A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x28B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I already learned your name from your address! So there's nothing weird about it!"
+	},
+	{
+		"LABEL": "0x2933",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2943",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Look! I could find it easily by going through the list alphabetically! It's so obvious!"
+	},
+	{
+		"LABEL": "0x29BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x29CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm...! You are so careless to put your personal information with your address!"
+	},
+	{
+		"LABEL": "0x2A87",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2A97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, your name is... Itarou. Huh..."
+	},
+	{
+		"LABEL": "0x2B06",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2B16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's such a weird name! If I were your mother, I would have named you something cooler!"
+	},
+	{
+		"LABEL": "0x2B89",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2B99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For example, 'Lady Clara's servant'! I have good taste, don't I?"
+	},
+	{
+		"LABEL": "0x2C4C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2C5C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wh-What's with those leering eyes!? Don't look at me like that!"
+	},
+	{
+		"LABEL": "0x2CC5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2CD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, God! Can you please get out of the way? You're such a horrible eyesore!"
+	},
+	{
+		"LABEL": "0x2D9C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2DAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh!! We... are done? I have stuff to do!!"
+	},
+	{
+		"LABEL": "0x2E5B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2E6B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm very busy! I don't have time... for you!"
+	},
+	{
+		"LABEL": "0x2F1C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x2F2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... No, I can't stay anymore, sorry! Well... Goodbye!"
+	},
+	{
+		"LABEL": "0x2FD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The dainty, beautiful Clara ran away in a hurry."
+	},
+	{
+		"LABEL": "0x3037",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was left all alone..."
+	},
+	{
+		"LABEL": "0x30DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x30EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah, hah, hah, hah... Phew... I guess it went okay."
+	},
+	{
+		"LABEL": "0x3168",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x3178",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thump, thump, thump, thump, thump, thump, thump, thump, thump, thump...!!"
+	},
+	{
+		"LABEL": "0x321D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x322D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell... was that!? Why is he here...!?"
+	},
+	{
+		"LABEL": "0x32DC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x32EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Itarou didn't even notice... He seriously thought I was Clara."
+	},
+	{
+		"LABEL": "0x33BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x3437",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x3447",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... I-Itarou..."
+	},
+	{
+		"LABEL": "0x362B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I met someone wonderful today."
+	},
+	{
+		"LABEL": "0x3671",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, Clara Moemori...!!!"
+	},
+	{
+		"LABEL": "0x36B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just thinking about her makes my heart skip a beat."
+	},
+	{
+		"LABEL": "0x3713",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think this is the ideal woman I've been looking for."
+	},
+	{
+		"LABEL": "0x3777",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The last hope for us otaku... No, the last hope for the 3D realm...!!!"
+	},
+	{
+		"LABEL": "0x37CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is... It must be fate!"
+	},
+	{
+		"LABEL": "0x382D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I made only one mistake today: I got nervous during the conversation."
+	},
+	{
+		"LABEL": "0x38A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Damn... I couldn't speak at all."
+	},
+	{
+		"LABEL": "0x38EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's times like these I wish I could communicate better."
+	},
+	{
+		"LABEL": "0x3955",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, we were able to exchange contact information, for what it's worth."
+	},
+	{
+		"LABEL": "0x39BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara Moemori... I can't wait to see you again!!"
+	},
+	{
+		"LABEL": "0x3A0D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With such a happy mood, I crawl under the bed's covers."
+	},
+	{
+		"LABEL": "0x3A5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah. I'm so excited to meet her again, I can barely sleep."
+	},
+	{
+		"LABEL": "0x3C79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "........."
+	},
+	{
+		"LABEL": "0x3CAD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I can't sleep."
+	},
+	{
+		"LABEL": "0x3CE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder why. I've taken my medication."
+	},
+	{
+		"LABEL": "0x3D2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My body feels sluggish. It's a sign my medicine is working."
+	},
+	{
+		"LABEL": "0x3D7F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I drank a bit more than usual, but I can't seem to fall asleep."
+	},
+	{
+		"LABEL": "0x3DE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My eyes aren't that heavy. Maybe I'm just too anxious to sleep right now."
+	},
+	{
+		"LABEL": "0x3E4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Forget about getting up and doing something... bad."
+	},
+	{
+		"LABEL": "0x3EAF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Forget about sending a message... to someone."
+	},
+	{
+		"LABEL": "0x3F01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because I'm not going to remember a thing in the morning."
+	},
+	{
+		"LABEL": "0x3F5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My heart is still pounding in my chest... my body is on fire."
+	},
+	{
+		"LABEL": "0x3FAF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, who I have a crush on, has confessed to me."
+	},
+	{
+		"LABEL": "0x3FFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I should be happy about this, but..."
+	},
+	{
+		"LABEL": "0x4043",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My heart is racing with anticipation and anxiety. I cannot calm down."
+	},
+	{
+		"LABEL": "0x40F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm very... I'm very happy about how this turned out...!!"
+	},
+	{
+		"LABEL": "0x4141",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Happy. Happy, happy, happy...!!"
+	},
+	{
+		"LABEL": "0x418D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because it's the very first time... you've actually looked at me."
+	},
+	{
+		"LABEL": "0x4376",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh... I'm not feeling well."
+	},
+	{
+		"LABEL": "0x43B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was really excited last night and had a hard time sleeping."
+	},
+	{
+		"LABEL": "0x4406",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just couldn't forget about Clara Moemori..."
+	},
+	{
+		"LABEL": "0x445A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Being cute is a sin... no, it's justice."
+	},
+	{
+		"LABEL": "0x44AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara's good morning email has me all excited this morning."
+	},
+	{
+		"LABEL": "0x4514",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My head was so full of her I couldn't get any work done..."
+	},
+	{
+		"LABEL": "0x4576",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But hey! If it's for Clara, I'm willing to do even the worst tasks!"
+	},
+	{
+		"LABEL": "0x45DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ohhhh!!!!"
+	},
+	{
+		"LABEL": "0x4628",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I finish my work with incredible speed."
+	},
+	{
+		"LABEL": "0x4672",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I need to take my break soon and check for any emails from Clara!"
+	},
+	{
+		"LABEL": "0x46CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Aha! So this is must be what love feels like..."
+	},
+	{
+		"LABEL": "0x4726",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Finally, haha...! I really need to haul ass!"
+	},
+	{
+		"LABEL": "0x478E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hahahaha...! I couldn't help but smile with joy."
+	},
+	{
+		"LABEL": "0x47EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My coworkers noticed me, and giggled at my behavior, but I don't care."
+	},
+	{
+		"LABEL": "0x4860",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After getting my work done as quickly as possible, I took my break."
+	},
+	{
+		"LABEL": "0x4902",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4912",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um... Itarou! Good morning!"
+	},
+	{
+		"LABEL": "0x4965",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4975",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see... you're taking a break. Hehe. I just got done too..."
+	},
+	{
+		"LABEL": "0x4A34",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4A44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, uh, yesterday... thank you... very much..."
+	},
+	{
+		"LABEL": "0x4AA2",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 8,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x4AE3",
+				"STRING": "Can you not talk to me like we're friends?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 9,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x4AE3",
+				"STRING": "Shut up, you ugly bitch."
+			}
+		]
+	},
+	{
+		"LABEL": "0x4B39",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4B49",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh...!? Oh, uh, uh... Sorry, I'm sorry..."
+	},
+	{
+		"LABEL": "0x4BF8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x4C08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, right. Itarou is not interested... in me. Hah..."
+	},
+	{
+		"LABEL": "0x4CB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hate that screeching noise."
+	},
+	{
+		"LABEL": "0x4CEF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm not interested in anyone but the beautiful, angelic girl I met yesterday."
+	},
+	{
+		"LABEL": "0x4D49",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even now, I can clearly hear Clara's voice."
+	},
+	{
+		"LABEL": "0x4DAF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There is no point spending time with anyone but Clara. That would be a waste."
+	},
+	{
+		"LABEL": "0x4E1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I would never talk to such a plain and ugly woman."
+	},
+	{
+		"LABEL": "0x4E75",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By the way, I need to check for new emails from Clara as soon as possible!"
+	},
+	{
+		"LABEL": "0x4ED7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have to reply quickly, and reaffirm my interest in Clara."
+	},
+	{
+		"LABEL": "0x4F36",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x4F46",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Good morning, Itarou! Thank you for yesterday! I want to go out with you again♪"
+	},
+	{
+		"LABEL": "0x4FB1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x4FC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're going to work right now, right? Keep up the good work! I'll do my best while thinking about Itarou, too!"
+	},
+	{
+		"LABEL": "0x504E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That is the email I got from Clara this morning."
+	},
+	{
+		"LABEL": "0x5098",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Since I always wake up at the last minute to go to work, this is the earliest time I can check."
+	},
+	{
+		"LABEL": "0x50FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If this is going to continue, I'll have to wake up earlier from now on."
+	},
+	{
+		"LABEL": "0x515D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm... What should I send...?"
+	},
+	{
+		"LABEL": "0x5188",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 10,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x51C7",
+				"STRING": "Send \"I love you so much\""
+			},
+			{
+				"UNK0": 1,
+				"ID": 11,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x51C7",
+				"STRING": "Send \"I love you\""
+			}
+		]
+	},
+	{
+		"LABEL": "0x51D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And the reply is sent."
+	},
+	{
+		"LABEL": "0x5220",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Within an instant, I got a reply."
+	},
+	{
+		"LABEL": "0x5264",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, that was fast!"
+	},
+	{
+		"LABEL": "0x529C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Could it be that Clara is taking a break now, too?"
+	},
+	{
+		"LABEL": "0x52F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What a delightful surprise... Maybe we're all tied together by the red thread of fate after all!"
+	},
+	{
+		"LABEL": "0x5361",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5371",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you so much! I'm so happy... I think I like you too, Itarou!"
+	},
+	{
+		"LABEL": "0x53E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...It seems we are both smitten with each other."
+	},
+	{
+		"LABEL": "0x542C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I knew that without needing confirmation, but it's still nice to see it."
+	},
+	{
+		"LABEL": "0x5495",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, Clara... Why are you such an angel...!?"
+	},
+	{
+		"LABEL": "0x54E8",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 12,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x5523",
+				"STRING": "Would you like to have dinner with me?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 13,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x5523",
+				"STRING": "I'll buy you a drink tonight."
+			}
+		]
+	},
+	{
+		"LABEL": "0x5534",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The reply is sent."
+	},
+	{
+		"LABEL": "0x557D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x558D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes! Let's go ^^ I'll be waiting at the place we met yesterday!"
+	},
+	{
+		"LABEL": "0x55E6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x55F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've been looking forward to going out with you, Itarou! I have to think about where to go..."
+	},
+	{
+		"LABEL": "0x56C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked up and saw Moeko sitting across from me, fiddling with her phone."
+	},
+	{
+		"LABEL": "0x572A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is she upset over what I said to her?"
+	},
+	{
+		"LABEL": "0x577E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm not interested in her at all, though I do feel a slight bit guilty."
+	},
+	{
+		"LABEL": "0x5826",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Huh?"
+	},
+	{
+		"LABEL": "0x5856",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Looking closely, I saw her smile a little bit."
+	},
+	{
+		"LABEL": "0x589A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow. That woman is such a weirdo... I guess I shouldn't feel guilty after all."
+	},
+	{
+		"LABEL": "0x5924",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Bah. I don't care about her anyway."
+	},
+	{
+		"LABEL": "0x5972",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why should I, when I only care about Clara Moemori!?"
+	},
+	{
+		"LABEL": "0x59BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, Clara...! Oh, that's right, I can see her again after work...!!!"
+	},
+	{
+		"LABEL": "0x5ADC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5AEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmph... Mmm, mmm, mmm...mmm...mmmm! Yummy!"
+	},
+	{
+		"LABEL": "0x5B59",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5B69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I knew having the rice was a good idea - it's koshihikari rice! Each little bit tastes so sweet!"
+	},
+	{
+		"LABEL": "0x5BEF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara eating rice... She looks very healthy."
+	},
+	{
+		"LABEL": "0x5C45",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But how could a woman who eats so voraciously be so cute..."
+	},
+	{
+		"LABEL": "0x5CBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No! She's cute because she's Clara! There can be no doubt!"
+	},
+	{
+		"LABEL": "0x5D58",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5D68",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whoa, what's wrong, Itarou...? You've been staring at my face for some time now."
+	},
+	{
+		"LABEL": "0x5E1F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5E2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh my... Could it be... I have some rice grains on my face? Oh, that's so embarrassing..."
+	},
+	{
+		"LABEL": "0x5EA5",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 14,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x5EE4",
+				"STRING": "So cute〜〜!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 15,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x5EE4",
+				"STRING": "Clara, you're such an angel!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x5F3A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5F4A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey! Hey, hey! Shush, you! Come on, Itarou, you must be making fun of me, aren't you?"
+	},
+	{
+		"LABEL": "0x5FCB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x5FDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm pure, so don't say things you don't mean! No flattery, no fawning!"
+	},
+	{
+		"LABEL": "0x609A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x60AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If, if! You're telling the truth... Oh, I might be so happy I'll die!"
+	},
+	{
+		"LABEL": "0x6167",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x6177",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can believe... in Itarou's feelings... about us...?"
+	},
+	{
+		"LABEL": "0x61EE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x61FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "About wanting to get married... That isn't a lie, right? If so, then..."
+	},
+	{
+		"LABEL": "0x62B1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x62C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If we will live together, Itarou, then you and I will do... this sort of thing, and that sort of thing..."
+	},
+	{
+		"LABEL": "0x633B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What are you saying, Clara!? I'm not lying to you!"
+	},
+	{
+		"LABEL": "0x6393",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course my feelings for you are real!"
+	},
+	{
+		"LABEL": "0x6424",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x6434",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha!!!?"
+	},
+	{
+		"LABEL": "0x6470",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I grabbed Clara's hand in desperation, she made a strange noise and startled me."
+	},
+	{
+		"LABEL": "0x6517",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x6527",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is this... What...!? You surprised me... You're making me so nervous, don't do anythinng out of blue!"
+	},
+	{
+		"LABEL": "0x65FC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x660C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A-anyway! I know how you feel, Itarou..."
+	},
+	{
+		"LABEL": "0x66AF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x66BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, that's right! Itarou, would you like to come over to my house sometime? We can get to know each other a little better!"
+	},
+	{
+		"LABEL": "0x678C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x679C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you do, I'll treat you to a homemade meal! How about we watch some anime while we eat together?"
+	},
+	{
+		"LABEL": "0x681A",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 16,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x686B",
+				"STRING": "Homemade food event!!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 17,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x686B",
+				"STRING": "Clara's house... Haha."
+			}
+		]
+	},
+	{
+		"LABEL": "0x68C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x68D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah! You look so excited, Itarou! You look so adorable, I love it!"
+	},
+	{
+		"LABEL": "0x699A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x69AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Leave it to me, Itarou! I'm going to put everything into making this delicious meal!"
+	},
+	{
+		"LABEL": "0x6A29",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x6A39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You can request any meal you like. I'll make you anything you want!"
+	},
+	{
+		"LABEL": "0x6ABC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm getting the VIP treatment too!!!"
+	},
+	{
+		"LABEL": "0x6AF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara's home cooking...! At her house! And I'm allowed to make a request?"
+	},
+	{
+		"LABEL": "0x6B73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What, wha, wow! Could I become even happier than this...!?"
+	},
+	{
+		"LABEL": "0x6BFF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The dinner date with Clara was decided on the spot."
+	},
+	{
+		"LABEL": "0x6C53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am so looking forward to the next time we meet..."
+	},
+	{
+		"LABEL": "0x6DF4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha... Clara was such an angel today."
+	},
+	{
+		"LABEL": "0x6E42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just looking at that lovely figure makes me giddy."
+	},
+	{
+		"LABEL": "0x6E96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, what's so cute about her?"
+	},
+	{
+		"LABEL": "0x6ED8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What a silly question!"
+	},
+	{
+		"LABEL": "0x6F1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everything about her is pretty! There's no reason to not like her!"
+	},
+	{
+		"LABEL": "0x6F7C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara is an angel who has come down to Earth!"
+	},
+	{
+		"LABEL": "0x6FD0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her looks, her movements, her voice, her personality, how she speaks... Everything is perfect!"
+	},
+	{
+		"LABEL": "0x703A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is the most moe woman I have ever encountered."
+	},
+	{
+		"LABEL": "0x7086",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is the ultimate 2.5D woman I've been looking for! She's a 2D person who comes the closest to the 3D realm..."
+	},
+	{
+		"LABEL": "0x70FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am completely convinced that Clara will be named the Goddess of Otakus someday soon."
+	},
+	{
+		"LABEL": "0x716E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I have no intention of handing her over to those filthy other otaku."
+	},
+	{
+		"LABEL": "0x71C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, and I alone, shall be the one to take Clara's virginity!"
+	},
+	{
+		"LABEL": "0x721E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, no. Clara's virginity is too precious to be taken by me."
+	},
+	{
+		"LABEL": "0x7282",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is a divine Goddess after all... A pure virgin!"
+	},
+	{
+		"LABEL": "0x72F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... Clara!"
+	},
+	{
+		"LABEL": "0x7330",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, I reaffirm once again that you are an angel."
+	},
+	{
+		"LABEL": "0x738C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I sniff my hand, hoping some of her scent remains, still remembering what happened."
+	},
+	{
+		"LABEL": "0x7400",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sniff, sniff, sniff."
+	},
+	{
+		"LABEL": "0x7468",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara, I cannot wait to eat some of your homemade food..."
+	},
+	{
+		"LABEL": "0x74BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I cannot wait to visit your house..."
+	},
+	{
+		"LABEL": "0x76C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Ah."
+	},
+	{
+		"LABEL": "0x76EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a new email from Itarou."
+	},
+	{
+		"LABEL": "0x7736",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm happy... So happy. He says he loves me - he loves me!"
+	},
+	{
+		"LABEL": "0x77A0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want you to say more. I want you to love me more and more..."
+	},
+	{
+		"LABEL": "0x7800",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou..."
+	},
+	{
+		"LABEL": "0x782D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x783D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Heheh...! I'll see you tomorrow, Itarou..."
+	},
+	{
+		"LABEL": "0x7899",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "........."
+	},
+	{
+		"LABEL": "0x78D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What he will see is the other me."
+	},
+	{
+		"LABEL": "0x7915",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's me, and yet she is not."
+	},
+	{
+		"LABEL": "0x794C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x795C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... who am I, then? Which one is the real me?"
+	},
+	{
+		"LABEL": "0x7B58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, I visit Clara's house."
+	},
+	{
+		"LABEL": "0x7B9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She invited me over because she's going to cook for me."
+	},
+	{
+		"LABEL": "0x7C02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sanctuary where Clara lives...! I wonder what kind of place it is?"
+	},
+	{
+		"LABEL": "0x7C62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I went straight to her house with the cleanest clothes I had."
+	},
+	{
+		"LABEL": "0x7D0A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It looks like a perfectly normal apartment building."
+	},
+	{
+		"LABEL": "0x7D4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thought she lived in a grand mansion due to her gothic lolita dress, but maybe she lives more frugally than I thought."
+	},
+	{
+		"LABEL": "0x7DDA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This fact is different from what I expected, though a very welcome one!"
+	},
+	{
+		"LABEL": "0x7E20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her email yesterday said she lived alone."
+	},
+	{
+		"LABEL": "0x7E7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, Clara is the only one in this apartment..."
+	},
+	{
+		"LABEL": "0x7EC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's just the two of us - she and I. I guess this could be called a home date."
+	},
+	{
+		"LABEL": "0x7F1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But if she's living alone, I can come over and visit whenever I want!"
+	},
+	{
+		"LABEL": "0x7F7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I ever get evicted, I can move in with Clara!"
+	},
+	{
+		"LABEL": "0x8026",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x8036",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou! Good morning, I've been waiting for you!"
+	},
+	{
+		"LABEL": "0x80D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x80E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Come on, come on up! I had to clean in a hurry. Forgive me if it's a bit messy, okay?"
+	},
+	{
+		"LABEL": "0x816E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara greeted me with a smile, wearing her usual black gothic lolita clothes."
+	},
+	{
+		"LABEL": "0x81DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara looks like an angel today, as well. Of course she does..."
+	},
+	{
+		"LABEL": "0x821C",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 18,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x8263",
+				"STRING": "You look so beautiful today, Clara..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 19,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x8263",
+				"STRING": "You're so cute!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x82B9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x82C9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, God, you're talking like that again! No, it's so embarrassing! What if someone is watching?"
+	},
+	{
+		"LABEL": "0x8394",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x83A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well... I'll ask you about that later. For now, why don't we head home?"
+	},
+	{
+		"LABEL": "0x841D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I walk up to the apartment building without another word, accompanied by the shy Clara."
+	},
+	{
+		"LABEL": "0x84F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I enter, and I am completely speechless..."
+	},
+	{
+		"LABEL": "0x853B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Posters of anime, all over the walls."
+	},
+	{
+		"LABEL": "0x8583",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Figurines and other otaku goods on the shelves."
+	},
+	{
+		"LABEL": "0x85D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara is an otaku just like me."
+	},
+	{
+		"LABEL": "0x8631",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We played some games together, and talked about our favorite manga and anime..."
+	},
+	{
+		"LABEL": "0x8695",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We had such a great time enjoying our otaku hobbies together."
+	},
+	{
+		"LABEL": "0x86E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With her, I never ran out of things to talk about, and most importantly, we had fun!"
+	},
+	{
+		"LABEL": "0x873F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This was my first time talking with an otaku girl for real."
+	},
+	{
+		"LABEL": "0x879D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Other 3D otaku girls never give me the time of day."
+	},
+	{
+		"LABEL": "0x880B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara is such an angel... or Goddess."
+	},
+	{
+		"LABEL": "0x8859",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After spending some quality time together, we had dinner."
+	},
+	{
+		"LABEL": "0x88B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Finally, the time has come... Her cooking!"
+	},
+	{
+		"LABEL": "0x88F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara worked in the kitchen for a while, and then..."
+	},
+	{
+		"LABEL": "0x894C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x895C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah, nooooooooooo!!!!"
+	},
+	{
+		"LABEL": "0x89BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could hear screams coming from the kitchen."
+	},
+	{
+		"LABEL": "0x89E1",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 20,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x8A20",
+				"STRING": "Everything alright in there!?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 21,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x8A20",
+				"STRING": "Are you okay, Clara!?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x8A7B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x8A8B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whoa, whoa whoa!!! What do I do!? Fire, go away, go away!!"
+	},
+	{
+		"LABEL": "0x8B01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I rush over to Clara, who is struggling with the flames on the frying pan."
+	},
+	{
+		"LABEL": "0x8B6D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "BWAAAAA!!!"
+	},
+	{
+		"LABEL": "0x8BAF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I poured water on the fire and closed the lid."
+	},
+	{
+		"LABEL": "0x8C03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "BUSH-BUSH-BUSH... Black smoke rises."
+	},
+	{
+		"LABEL": "0x8C69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It looks like the fire has been successfully put out."
+	},
+	{
+		"LABEL": "0x8D00",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x8D10",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah ah ah ah... It finally disappeared..."
+	},
+	{
+		"LABEL": "0x8DCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x8DDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah! Itarou, don't worry! It's nothing! Yup! It's totally fine in here!"
+	},
+	{
+		"LABEL": "0x8EAE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x8EBE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes! I was flameéing, and it's needed for what I'm cooking! It's so cool, isn't it? Ha ha ha ha..."
+	},
+	{
+		"LABEL": "0x8F5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, she was flambeing. I suppose that's alright, then."
+	},
+	{
+		"LABEL": "0x8FB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think I heard of that before - it's some special cooking method from France."
+	},
+	{
+		"LABEL": "0x901F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara opened the lid with some uncertainty, and..."
+	},
+	{
+		"LABEL": "0x9079",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The smoke cleared to reveal a horrifying black mess."
+	},
+	{
+		"LABEL": "0x9108",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x9118",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whoa! It's all black... What am I going to do... Did I mess up?"
+	},
+	{
+		"LABEL": "0x91CE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x91DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sorry, Itarou. I think I burned it a little bit. I tried my best..."
+	},
+	{
+		"LABEL": "0x929F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x92AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh, it doesn't look very tasty... I don't think this will taste good...!"
+	},
+	{
+		"LABEL": "0x931B",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 22,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x937E",
+				"STRING": "I can eat anything Clara makes"
+			},
+			{
+				"UNK0": 1,
+				"ID": 23,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x937E",
+				"STRING": "It's fine, I'll take a bite"
+			}
+		]
+	},
+	{
+		"LABEL": "0x93D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x93E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, you're going to eat it...!? Thank you, I'm really sorry. I'll make it better next time...!"
+	},
+	{
+		"LABEL": "0x9466",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I tossed the horrific mess into my mouth."
+	},
+	{
+		"LABEL": "0x9545",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x9555",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... what do you think? Is it delicious!?"
+	},
+	{
+		"LABEL": "0x9592",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 24,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x95D8",
+				"STRING": "Yummy"
+			},
+			{
+				"UNK0": 1,
+				"ID": 25,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x95D8",
+				"STRING": "Yummy"
+			},
+			{
+				"UNK0": 1,
+				"ID": 26,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0x95D8",
+				"STRING": "Yummy"
+			}
+		]
+	},
+	{
+		"LABEL": "0x962E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x963E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is!? I'm so glad!! I was worried it would taste bad because it's burnt, but..."
+	},
+	{
+		"LABEL": "0x96AD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x96BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But if Itarou says it's good, then it must be!"
+	},
+	{
+		"LABEL": "0x976E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x977E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haah, I'm so happy that Itarou eats the food I make!!"
+	},
+	{
+		"LABEL": "0x983F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x984F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll cook for you every day when we live together! Don't worry, it will be great! I'll work so hard to get better!"
+	},
+	{
+		"LABEL": "0x9936",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0x9946",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thanks for your help, Itarou! I love you! I'm looking forward to being with you from now on."
+	},
+	{
+		"LABEL": "0x99BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even Clara's horrible food tastes good to me."
+	},
+	{
+		"LABEL": "0x9A1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't even need to force myself!"
+	},
+	{
+		"LABEL": "0x9A5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes! This is what true love is all about!"
+	},
+	{
+		"LABEL": "0x9C2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today was such a memorable day; I visited Clara's home for the first time."
+	},
+	{
+		"LABEL": "0x9C92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her apartment was small, but certainly enough for one person."
+	},
+	{
+		"LABEL": "0x9CF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And the most delightful part was the anime posters all around her apartment."
+	},
+	{
+		"LABEL": "0x9D58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Figurines spread throughout the shelves."
+	},
+	{
+		"LABEL": "0x9D9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A closet of eroge, doujinshi, and manga."
+	},
+	{
+		"LABEL": "0x9DEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The shelf by the TV had disks of anime movies."
+	},
+	{
+		"LABEL": "0x9E2E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone would agree that she has a great otaku apartment."
+	},
+	{
+		"LABEL": "0x9E74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm...aha...!"
+	},
+	{
+		"LABEL": "0x9EAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Isn't she truly a goddess descended to the otaku realm...?"
+	},
+	{
+		"LABEL": "0x9F02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am truly impressed by Clara's divinity."
+	},
+	{
+		"LABEL": "0x9F4E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was moved to tears on my way home."
+	},
+	{
+		"LABEL": "0x9FA0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her homemade food was not what I'd call delicious."
+	},
+	{
+		"LABEL": "0x9FF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I didn't want to insult her effort, so I ate it all."
+	},
+	{
+		"LABEL": "0xA05C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To be honest, I almost fainted, but I managed to hold on. Truly, this is love."
+	},
+	{
+		"LABEL": "0xA0C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara worked so hard to make it for me."
+	},
+	{
+		"LABEL": "0xA11C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just the thought of that... is enough to fill my stomach."
+	},
+	{
+		"LABEL": "0xA182",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wish I could go back to visit Clara's apartment again."
+	},
+	{
+		"LABEL": "0xA38A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the darkness, where no sound can be heard, is a woman."
+	},
+	{
+		"LABEL": "0xA3DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She stayed up, as she could not sleep."
+	},
+	{
+		"LABEL": "0xA42E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She held a razor blade in her right hand and stared at it with empty eyes..."
+	},
+	{
+		"LABEL": "0xA486",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then she sits down, and meditates quietly."
+	},
+	{
+		"LABEL": "0xA4C7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xA4D7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... who am I...? I... am nowhere... This... is weird."
+	},
+	{
+		"LABEL": "0xA54D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She makes a cut on her own wrist."
+	},
+	{
+		"LABEL": "0xA59B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Blood flows from the wound, flowing down her arm."
+	},
+	{
+		"LABEL": "0xA5E6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xA5F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... I feel so light... I... do not care anymore... I don't like it... Haha."
+	},
+	{
+		"LABEL": "0xA6A7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xA6B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha...hahahaha...! Itarou...! Itarou..."
+	},
+	{
+		"LABEL": "0xA8BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On my days off, I'm always at Clara's apartment."
+	},
+	{
+		"LABEL": "0xA919",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You could say I'm the prime example of a hopeless man."
+	},
+	{
+		"LABEL": "0xA96D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know it's wrong, but I just want to see her so much I can't stop myself from going."
+	},
+	{
+		"LABEL": "0xA9D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There are days I'm not invited. I suppose I could be seen as a bit of a stalker."
+	},
+	{
+		"LABEL": "0xAA3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But it's fine. Clara is happy to see me whenever I visit."
+	},
+	{
+		"LABEL": "0xAAA3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If she says it's okay, then it's okay. Who cares what other people think?"
+	},
+	{
+		"LABEL": "0xAB1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I feel myself getting closer and closer to her over time because of it."
+	},
+	{
+		"LABEL": "0xAB83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyway, it's almost time."
+	},
+	{
+		"LABEL": "0xABC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's been a month... or maybe two since we first met."
+	},
+	{
+		"LABEL": "0xAC1B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think it's time to progress our relationship."
+	},
+	{
+		"LABEL": "0xAC75",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm thinking of making my move sometime today when we're both in the right mood."
+	},
+	{
+		"LABEL": "0xACDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eventually, the right opportunity presented itself."
+	},
+	{
+		"LABEL": "0xAD2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We sat side by side on the bed, discussing an anime we watched yesterday."
+	},
+	{
+		"LABEL": "0xADDB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xADEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know, right? I totally thought your favorite character would die during that scene!"
+	},
+	{
+		"LABEL": "0xAEBA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xAECA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Good for you! I'm sure there will be plenty more goods released in the future! Let's continue to work hard together in our support of our idols!"
+	},
+	{
+		"LABEL": "0xAF9B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xAFAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh...!!!? But if you think about it, the death flag isn't gone yet! Uh oh, that's not good at all!"
+	},
+	{
+		"LABEL": "0xB084",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB094",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If this happens, we need to head over and protest! We have to convince the people who made this show to not kill her!"
+	},
+	{
+		"LABEL": "0xB163",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB173",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then it's decided! Tomorrow, I'll go to Akihabara to get my gear ready! A Happi coat, a blade... and a scaly badge will look cool!"
+	},
+	{
+		"LABEL": "0xB264",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB274",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm going to be ready for battle, so be prepared, Itarou! As an otaku, you'd die for your best girl... right!?"
+	},
+	{
+		"LABEL": "0xB316",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Clara seems to be obsessed with whether the character I guessed will die actually dies."
+	},
+	{
+		"LABEL": "0xB370",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Okay, if I'm going to do this - now!!"
+	},
+	{
+		"LABEL": "0xB3F9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB409",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha! What...? Itarou...?"
+	},
+	{
+		"LABEL": "0xB46B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She looked like she was struck with a huge blow."
+	},
+	{
+		"LABEL": "0xB4CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know, Clara, but I need to do this..."
+	},
+	{
+		"LABEL": "0xB525",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To be honest, I can't wait to lose my virginity."
+	},
+	{
+		"LABEL": "0xB5AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB5BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, you're such a pervert... No no... Itarou, you're such...!"
+	},
+	{
+		"LABEL": "0xB66D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB67D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hyah! Hey!! Hey, wait! Wait up!! STOP!!"
+	},
+	{
+		"LABEL": "0xB700",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I bring my face close to kiss her, she does her best to stop me."
+	},
+	{
+		"LABEL": "0xB756",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She holds my face with both hands... I didn't expect this much force!"
+	},
+	{
+		"LABEL": "0xB7A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She doesn't want me to!? Oh, you don't need to reject me like that, Clara... Aw, now I feel depressed."
+	},
+	{
+		"LABEL": "0xB873",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB883",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sorry, I didn't mean to interrupt you. But there's something I really need to tell you..."
+	},
+	{
+		"LABEL": "0xB948",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xB958",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I need to talk to you properly, because if I don't, I'll regret it... so..."
+	},
+	{
+		"LABEL": "0xBA11",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Clara"
+	},
+	{
+		"LABEL": "0xBA21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please. Can you hold on for one minute?"
+	},
+	{
+		"LABEL": "0xBA9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After saying this, she went into the back room."
+	},
+	{
+		"LABEL": "0xBAF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "........."
+	},
+	{
+		"LABEL": "0xBB28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Damn. I thought I did everything right..."
+	},
+	{
+		"LABEL": "0xBB6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, I have no choice but to comply with her request."
+	},
+	{
+		"LABEL": "0xBBC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A bit uneasy, I decide to wait a bit."
+	},
+	{
+		"LABEL": "0xBC14",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "………………"
+	},
+	{
+		"LABEL": "0xBC44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "…………"
+	},
+	{
+		"LABEL": "0xBC70",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0xBD09",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "!!"
+	},
+	{
+		"LABEL": "0xBD31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What!"
+	},
+	{
+		"LABEL": "0xBDA4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xBDB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, Itarou. Sorry to keep you waiting... You recognize me, right?"
+	},
+	{
+		"LABEL": "0xBE16",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 27,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xBE5B",
+				"STRING": "Why are you here...?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 28,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xBE5B",
+				"STRING": "Mo-Moeko...!?"
+			}
+		]
+	},
+	{
+		"LABEL": "0xBE6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko...!? What is she doing here?"
+	},
+	{
+		"LABEL": "0xBEC0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No way..."
+	},
+	{
+		"LABEL": "0xBF37",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xBF47",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, that's right - I'm Moeko. Clara Moemori is Moeko."
+	},
+	{
+		"LABEL": "0xBFF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC006",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I'm sorry for not telling you... I didn't want to lie to you... but I couldn't tell you..."
+	},
+	{
+		"LABEL": "0xC07D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC08D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You made me really happy... but Itarou likes Clara Moemori, not Moeko, so..."
+	},
+	{
+		"LABEL": "0xC16A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC17A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou... do you still like me, now that you know who I am?"
+	},
+	{
+		"LABEL": "0xC239",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC249",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Will you look at me the same way? Even if I'm not Clara, but Moeko, the one you hate?"
+	},
+	{
+		"LABEL": "0xC2C9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I..."
+	},
+	{
+		"LABEL": "0xC2E4",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 29,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xC32B",
+				"STRING": "I will never accept you as Moeko"
+			},
+			{
+				"UNK0": 1,
+				"ID": 30,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xE447",
+				"STRING": "I still love you"
+			}
+		]
+	},
+	{
+		"LABEL": "0xC3A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xC421",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC431",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's... a lie. A lie, lie, lie, lie!!!"
+	},
+	{
+		"LABEL": "0xC4D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC4E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're lying! Itarou would never say such a thing... Why would you lie?"
+	},
+	{
+		"LABEL": "0xC5A3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC5B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Am I right, Itarou? Hahahaha...ahaha. I know I just misheard you right now!"
+	},
+	{
+		"LABEL": "0xC674",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC684",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because, because... We've been so happy thus far, haven't we? You've been happy!"
+	},
+	{
+		"LABEL": "0xC70D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC71D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How could that be? Are you saying all those days were a lie...!?"
+	},
+	{
+		"LABEL": "0xC77F",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 31,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xC7BA",
+				"STRING": "I told you: I won't accept Moeko"
+			},
+			{
+				"UNK0": 1,
+				"ID": 32,
+				"UNK1": 4,
+				"JUMP_TO_LABEL": "0xC7BA",
+				"STRING": "Shut up, you ugly slut."
+			}
+		]
+	},
+	{
+		"LABEL": "0xC810",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC820",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell!? We've been together this whole time!"
+	},
+	{
+		"LABEL": "0xC8D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC8E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And for me... You told me you really liked me, didn't you?"
+	},
+	{
+		"LABEL": "0xC9AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xC9BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You said you liked me and that you would marry me!!!"
+	},
+	{
+		"LABEL": "0xCAFE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCB0E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You see! I have proof of our love!"
+	},
+	{
+		"LABEL": "0xCBC7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCBD7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh, haha!! What, don't be silly! This is a diary of our love, just the two of us!"
+	},
+	{
+		"LABEL": "0xCCA8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCCB8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We've been in love since the day we met! We've done so many things..."
+	},
+	{
+		"LABEL": "0xCD99",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCDA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I recorded it all. It was inevitable that we would meet! It's fate!"
+	},
+	{
+		"LABEL": "0xCE2E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCE3E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey! Itarou, Itarou!!! Ahiyahahahahahaha!!!!"
+	},
+	{
+		"LABEL": "0xCEAB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xCEBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What, did you forget? I'll remind you then... Listen carefully."
+	},
+	{
+		"LABEL": "0xCF37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "MM/DD/YYYY:"
+	},
+	{
+		"LABEL": "0xCF60",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xCF76",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou said I'm beautiful. He called me ugly before, but that's okay because he's just a tsundere towards me."
+	},
+	{
+		"LABEL": "0xD01D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD033",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Only I can understand how Itarou feels. I love you too, Itarou."
+	},
+	{
+		"LABEL": "0xD0AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "MM/DD/YYYY:"
+	},
+	{
+		"LABEL": "0xD0D8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD0EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I tried my hand at cooking and Itarou told me how delicious it was. I burned it, but he ate it with no leftovers."
+	},
+	{
+		"LABEL": "0xD17D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD193",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then we went into the bath together and washed each other. Itaro seemed a bit embarrassed, but I was not at all."
+	},
+	{
+		"LABEL": "0xD230",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD246",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love Itarou so much it outweighs my embarrassment..."
+	},
+	{
+		"LABEL": "0xD2D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "MM/DD/YYYY:"
+	},
+	{
+		"LABEL": "0xD2FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD313",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today is the first day I held hands with him. I was so happy! Itarou's hand was so warm and nice..."
+	},
+	{
+		"LABEL": "0xD39E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD3B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was so happy I burst into tears, making it very hard to see..."
+	},
+	{
+		"LABEL": "0xD428",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "MM/DD/YYYY:"
+	},
+	{
+		"LABEL": "0xD451",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD467",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My days with Itarou are so happy I think I'm going to cry. We're going to marry soon, aren't we? I can't believe it. It's like a dream."
+	},
+	{
+		"LABEL": "0xD504",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko's Diary"
+	},
+	{
+		"LABEL": "0xD51A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everything I thought was fantasy is now reality! Now, we can sleep together every day!"
+	},
+	{
+		"LABEL": "0xD5A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh God..."
+	},
+	{
+		"LABEL": "0xD5D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think I'm going to be sick!!!"
+	},
+	{
+		"LABEL": "0xD751",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Unable to endure it any longer, I pushed Moeko as hard as I could."
+	},
+	{
+		"LABEL": "0xD7A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell was that!? Is this my fault!?"
+	},
+	{
+		"LABEL": "0xD7EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no way in hell I'm going to accept some creepy diary written by a lunatic like that!"
+	},
+	{
+		"LABEL": "0xD84F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'Moeko and Itarou's Lovey-Dovey 365 Days' - she's completely delusional!"
+	},
+	{
+		"LABEL": "0xD8BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xD8F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Shit! She fell down wrong. She's not moving anymore."
+	},
+	{
+		"LABEL": "0xD957",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whoa, no way."
+	},
+	{
+		"LABEL": "0xD98D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Dead? Did I kill her...?"
+	},
+	{
+		"LABEL": "0xD9D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I got scared and sprinted out of the apartment."
+	},
+	{
+		"LABEL": "0xDA6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ha, huff, ha, huff."
+	},
+	{
+		"LABEL": "0xDAB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Out of breath, I managed to get back into my room."
+	},
+	{
+		"LABEL": "0xDAF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No one saw me go out of Moeko's house... right?"
+	},
+	{
+		"LABEL": "0xDB57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... she's dead, right? Stone cold dead."
+	},
+	{
+		"LABEL": "0xDBA5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wait a minute. It was an accident."
+	},
+	{
+		"LABEL": "0xDBF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't mean to... I didn't mean to go that far!"
+	},
+	{
+		"LABEL": "0xDC57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was an accident! It's not my fault!"
+	},
+	{
+		"LABEL": "0xDC9D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's all Moeko's fault! Damn bitch lied on me."
+	},
+	{
+		"LABEL": "0xDD03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... I'm so pissed off!"
+	},
+	{
+		"LABEL": "0xDD4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll just go to bed and forget about her."
+	},
+	{
+		"LABEL": "0xDD9F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's right! Clara Moemori? Who's that?"
+	},
+	{
+		"LABEL": "0xDE03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I never met any Moemori person. I wasn't interested."
+	},
+	{
+		"LABEL": "0xDE71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know. I don't know. I don't! She's a total stranger! She's got nothing to do with me!"
+	},
+	{
+		"LABEL": "0xDEE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll just sleep and try to forget this ever happened!"
+	},
+	{
+		"LABEL": "0xE018",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE028",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, did you hear?"
+	},
+	{
+		"LABEL": "0xE05D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE06D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "About Itarou and Moeko?"
+	},
+	{
+		"LABEL": "0xE0AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE0BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh. What? They are dead?"
+	},
+	{
+		"LABEL": "0xE101",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE111",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Looks that way. It's scary to think we worked in the same office..."
+	},
+	{
+		"LABEL": "0xE164",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE174",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I heard those two were dating. What a dark couple! They were a perfect match."
+	},
+	{
+		"LABEL": "0xE1D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE1E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, they committed suicide together apparently..."
+	},
+	{
+		"LABEL": "0xE22C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "■■■"
+	},
+	{
+		"LABEL": "0xE23C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Those two dating each other, and then hanging themselves..."
+	},
+	{
+		"LABEL": "0xE2FA",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999Itarou, I will be with you forever and ever!"
+	},
+	{
+		"LABEL": "Custom1",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999BAD END『Moeko and Itarou's Lovey-Dovey 365 Days』"
+	},
+	{
+		"LABEL": "0xE4BD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE4CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're sure? You're not lying...?"
+	},
+	{
+		"LABEL": "0xE564",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE574",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Really, really? This isn't a dream, is it?"
+	},
+	{
+		"LABEL": "0xE61B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE62B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's really, really, really, really, really true?! I can believe that, right?"
+	},
+	{
+		"LABEL": "0xE69F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "........."
+	},
+	{
+		"LABEL": "0xE71C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE72C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, thank God! I thought I was having delusions!"
+	},
+	{
+		"LABEL": "0xE7E1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE7F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you! You really are as kind as I thought you were!"
+	},
+	{
+		"LABEL": "0xE8C0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE8D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... love you too. I'm glad... that you fell in love with me!"
+	},
+	{
+		"LABEL": "0xE949",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xE959",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A lot has happened, but I look forward to being with you... for a long time to come."
+	},
+	{
+		"LABEL": "0xEA02",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xEA12",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Alright, well, I'll go change back now! It will only be a minute!"
+	},
+	{
+		"LABEL": "0xEA80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After saying this, Moeko left again."
+	},
+	{
+		"LABEL": "0xEAD8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But, she doesn't really need to change anymore."
+	},
+	{
+		"LABEL": "0xEB26",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe Moeko is just more comfortable in those clothes."
+	},
+	{
+		"LABEL": "0xEC1E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xEC2E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I・am・back！Itarou♪ I'm sorry for changing my clothes so much."
+	},
+	{
+		"LABEL": "0xECE1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xECF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a reason for this. There's still something else I need to confess to you."
+	},
+	{
+		"LABEL": "0xEDAE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xEDBE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you don't mind, would you accept whatever I tell you as true?"
+	},
+	{
+		"LABEL": "0xEE28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "From the look on Clara's face, she looked deadly serious."
+	},
+	{
+		"LABEL": "0xEE82",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I nodded, and she smiled, as if determined."
+	},
+	{
+		"LABEL": "0xEF23",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xEF33",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, please! Will you accept... helping with my mission?"
+	},
+	{
+		"LABEL": "0xEFE0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xEFF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To put it simply I'm a 'Magical Girl', and these clothes are like transformation!"
+	},
+	{
+		"LABEL": "0xF0BF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF0CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't use magic as Moeko, so... I had to change."
+	},
+	{
+		"LABEL": "0xF182",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF192",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe. Looks like you're not following! We all know this world is poisoned by something unseen, right?"
+	},
+	{
+		"LABEL": "0xF277",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF287",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Moeko... Clara Moemori fights against evil that tries to poison our world! I am the heroic savior that will save this planet!"
+	},
+	{
+		"LABEL": "0xF314",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF324",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Savior, who comes to this world to save it every century, is destined to oppose evil."
+	},
+	{
+		"LABEL": "0xF3E1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF3F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't escape from this mission. Not even Itarou can change this."
+	},
+	{
+		"LABEL": "0xF4CA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF4DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, at the very least, I want you to follow... and watch me save the world! We're going to save the world!"
+	},
+	{
+		"LABEL": "0xF5A7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF5B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please, Itarou... come with me. Everyone is waiting for you. I can hear their suffering. We must go quickly...!"
+	},
+	{
+		"LABEL": "0xF688",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF698",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We'll just jump out of this window and fly! Easy, right? Don't be afraid!"
+	},
+	{
+		"LABEL": "0xF709",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF719",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We'll be fine now that you're here, Itarou. I'm sure of it!"
+	},
+	{
+		"LABEL": "0xF7D2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF7E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Come, Itarou! Give me your hand! Let's save the world!"
+	},
+	{
+		"LABEL": "0xF8A1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xF8B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To save this intensely cruel, unreasonable world!"
+	},
+	{
+		"LABEL": "0xF90A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She holds out her hand to me."
+	},
+	{
+		"LABEL": "0xF946",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure she is completely serious."
+	},
+	{
+		"LABEL": "0xF994",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm a useless person who can't do anything; I'll just be a liability."
+	},
+	{
+		"LABEL": "0xFA08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I can help see her mission through."
+	},
+	{
+		"LABEL": "0xFA60",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Stay with her and cheer her on as she tries her best."
+	},
+	{
+		"LABEL": "0xFABE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure we'll be fine. We're out to save the world, after all."
+	},
+	{
+		"LABEL": "0xFB1A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I gently take Moeko's hand."
+	},
+	{
+		"LABEL": "0xFBD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I decide to save the world with my beloved girlfriend."
+	},
+	{
+		"LABEL": "0xFC28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Our hands are held tightly together to signify our determination."
+	},
+	{
+		"LABEL": "0xFCD6",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000I will save this world, with Clara and Moeko!"
+	},
+	{
+		"LABEL": "Custom2",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999HAPPY END『The birth of a Savior』"
+	},
+	{
+		"LABEL": "0xFEF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When it was over..."
+	},
+	{
+		"LABEL": "0xFF2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We were in a field of flowers, waiting for our final moments."
+	},
+	{
+		"LABEL": "0xFF86",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0xFF96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's over. We've... done it."
+	},
+	{
+		"LABEL": "0xFFF6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No more regrets. The battle is over."
+	},
+	{
+		"LABEL": "0x10048",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The world is saved because of our work."
+	},
+	{
+		"LABEL": "0x10096",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All that remains is to shut up and await our fate."
+	},
+	{
+		"LABEL": "0x100E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So it's over."
+	},
+	{
+		"LABEL": "0x1011E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the beginning of the end."
+	},
+	{
+		"LABEL": "0x101A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A field of rainbow-colored flowers spreads out before them."
+	},
+	{
+		"LABEL": "0x101EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The blue, fleeting, endless expanse of sky..."
+	},
+	{
+		"LABEL": "0x10236",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I was living a normal life, I didn't even notice."
+	},
+	{
+		"LABEL": "0x1027D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x1028D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've never seen colors like this..."
+	},
+	{
+		"LABEL": "0x102DC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x102EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you... for helping me become aware. Thank you... for needing me..."
+	},
+	{
+		"LABEL": "0x10361",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x10371",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm happy, because until I met you, I was worth nothing."
+	},
+	{
+		"LABEL": "0x103D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So thank you..."
+	},
+	{
+		"LABEL": "0x10413",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For giving me value. For giving me a reason to exist..."
+	},
+	{
+		"LABEL": "0x104A6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Moeko"
+	},
+	{
+		"LABEL": "0x104B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you, Itarou."
+	},
+	{
+		"LABEL": "0x10603",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "ＴＨＡＮＫ　ＹＯＵ　ＦＯＲ　ＰＬＡＹＩＮＧ！！"
+	},
+	{
+		"LABEL": "0x10635",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 10,
+		"STRING": "Clear Password Part 4:『g』"
+	}
+]

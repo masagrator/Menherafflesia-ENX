@@ -1,0 +1,11345 @@
+{
+	"HEADER": [],
+	"COMMANDS": [
+		{
+			"LABEL": "0x4",
+			"CMD": "IFGOTO6",
+			"DATA": "14008a80",
+			"TO_LABEL": "0x24"
+		},
+		{
+			"LABEL": "0xD",
+			"CMD": "MOV",
+			"ID": 32906,
+			"VALUE": 20
+		},
+		{
+			"LABEL": "0x12",
+			"CMD": "36",
+			"DATA": "ffff"
+		},
+		{
+			"LABEL": "0x15",
+			"CMD": "37"
+		},
+		{
+			"LABEL": "0x16",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1B",
+			"CMD": "36",
+			"DATA": "1400"
+		},
+		{
+			"LABEL": "0x1E",
+			"CMD": "37"
+		},
+		{
+			"LABEL": "0x1F",
+			"CMD": "75",
+			"DATA": "64000600"
+		},
+		{
+			"LABEL": "0x24",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x29",
+			"CMD": "43",
+			"ID": 15,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2E",
+			"CMD": "ATTACH_BG",
+			"ID": 15,
+			"BGID": 61
+		},
+		{
+			"LABEL": "0x33",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x34",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x35",
+			"CMD": "1E",
+			"ID": 15,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x40",
+			"CMD": "1D",
+			"ID": 15,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x47",
+			"CMD": "1F",
+			"ID": 15,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x54",
+			"CMD": "21",
+			"ID": 15,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x5B",
+			"CMD": "22",
+			"ID": 15,
+			"DATA": "0f00"
+		},
+		{
+			"LABEL": "0x60",
+			"CMD": "72",
+			"ID": 15,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x65",
+			"CMD": "25",
+			"ID": 15,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x6A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x6F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x70",
+			"CMD": "7B",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x75",
+			"CMD": "3B",
+			"DATA": "0c00"
+		},
+		{
+			"LABEL": "0x78",
+			"CMD": "7B",
+			"DATA": "00002c01"
+		},
+		{
+			"LABEL": "0x7D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x82",
+			"CMD": "4F",
+			"DATA": "0a000100"
+		},
+		{
+			"LABEL": "0x87",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x8C",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x8D",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x99"
+		},
+		{
+			"LABEL": "0x94",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x99",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "――風の音が聴こえる。"
+		},
+		{
+			"LABEL": "0xB5",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xB8",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xBD",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xC2",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xC7",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0xD3"
+		},
+		{
+			"LABEL": "0xCE",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0xD3",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "そよそよと吹く風に揺れる草と、花の匂い。"
+		},
+		{
+			"LABEL": "0x101",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x104",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x109",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x10E",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x113",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x118",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "星が輝く空の下。"
+		},
+		{
+			"LABEL": "0x12E",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x131",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x136",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x13B",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x147"
+		},
+		{
+			"LABEL": "0x142",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x147",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "綺麗な花園の中心でボクは……ボクたちは、同じ机を囲んで、座っていた。"
+		},
+		{
+			"LABEL": "0x191",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x194",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x199",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x19E",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1A3",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x1AF"
+		},
+		{
+			"LABEL": "0x1AA",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x1AF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "本当なら出会うはずのなかった、彼女たちと。"
+		},
+		{
+			"LABEL": "0x1DF",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1E2",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1E7",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1EC",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1F1",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1F6",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1FB",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x200",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 204
+		},
+		{
+			"LABEL": "0x205",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x206",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x207",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x212",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x219",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x226",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x22D",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x232",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x237",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x23C",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x241",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x242",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x247",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x251",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 399
+		},
+		{
+			"LABEL": "0x256",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x257",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――さてっ。それじゃ、はじめよっか！」"
+		},
+		{
+			"LABEL": "0x285",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x288",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x28D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x292",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x297",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2A3"
+		},
+		{
+			"LABEL": "0x29E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2A3",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2A8",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2AD",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2BA"
+		},
+		{
+			"LABEL": "0x2B4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2B9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2BA",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2BF",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x2C4",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2C9",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2CE",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 214
+		},
+		{
+			"LABEL": "0x2D3",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2D4",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2D5",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2E0",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2E7",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2F4",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2FB",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x300",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x305",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x30A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x30F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x310",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x315",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x31F",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 601
+		},
+		{
+			"LABEL": "0x324",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x325",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「きゃはっ。みほみん楽しみにしてたんだぁ、おねえちゃん達と話すの！」"
+		},
+		{
+			"LABEL": "0x36F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x372",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x377",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x37C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x381",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x38D"
+		},
+		{
+			"LABEL": "0x388",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x38D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x392",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x397",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3A4"
+		},
+		{
+			"LABEL": "0x39E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3A3",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3A4",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3A9",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x3AE",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3B3",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3B8",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 4
+		},
+		{
+			"LABEL": "0x3BD",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3BE",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3BF",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3CA",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3D1",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3DE",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3E5",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3EA",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3EF",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x3F4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3F9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3FA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3FF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x409",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 171
+		},
+		{
+			"LABEL": "0x40E",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x40F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「……そうね。アナタ達の話、お姉さんに聞かせてくれるかしら」"
+		},
+		{
+			"LABEL": "0x451",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x454",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x459",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x45E",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x463",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x46F"
+		},
+		{
+			"LABEL": "0x46A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x46F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x474",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x479",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x486"
+		},
+		{
+			"LABEL": "0x480",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x485",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x486",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x48B",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0x490",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x495",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x49A",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 260
+		},
+		{
+			"LABEL": "0x49F",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x4A0",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x4A1",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x4AC",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x4B3",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x4C0",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x4C7",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x4CC",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4D1",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x4D6",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x4DB",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4DC",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x4E1",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x4EB",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 831
+		},
+		{
+			"LABEL": "0x4F0",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x4F1",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「あ、あの……わ、わたし、面白い話なんてできないですよ……？」"
+		},
+		{
+			"LABEL": "0x535",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x538",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x53D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x542",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x547",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x553"
+		},
+		{
+			"LABEL": "0x54E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x553",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x558",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x55D",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x56A"
+		},
+		{
+			"LABEL": "0x564",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x569",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x56A",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x56F",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x574",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x579",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x57E",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 295
+		},
+		{
+			"LABEL": "0x583",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x584",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x585",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x590",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x597",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x5A4",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x5AB",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x5B0",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x5B5",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x5BA",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x5BF",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x5C0",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x5C5",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x5CF",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1030
+		},
+		{
+			"LABEL": "0x5D4",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x5D5",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ふふっ、みなさんお元気ですわね。そんなに急がなくても、時間はたくさんありますわ。心ゆくまで、語らいましょう？」"
+		},
+		{
+			"LABEL": "0x64B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x64E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x653",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x658",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x65D",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x669"
+		},
+		{
+			"LABEL": "0x664",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x669",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x66E",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x673",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x680"
+		},
+		{
+			"LABEL": "0x67A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x67F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x680",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x685",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x68A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x68F",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x694",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 216
+		},
+		{
+			"LABEL": "0x699",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x69A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x69B",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x6A6",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x6AD",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x6BA",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x6C1",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x6C6",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x6CB",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x6D0",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x6D5",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x6D6",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x6DB",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x6E5",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 602
+		},
+		{
+			"LABEL": "0x6EA",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x6EB",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ねねねおねえちゃん、やっぱりお上品だねぇ。大人って感じ！　みほみんもそんな風になりたいなぁ」"
+		},
+		{
+			"LABEL": "0x74F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x752",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x757",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x75C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x761",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x76D"
+		},
+		{
+			"LABEL": "0x768",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x76D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x772",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x777",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x784"
+		},
+		{
+			"LABEL": "0x77E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x783",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x784",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x789",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x78E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x793",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x798",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 297
+		},
+		{
+			"LABEL": "0x79D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x79E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x79F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x7AA",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x7B1",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x7BE",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x7C5",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x7CA",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x7CF",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x7D4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x7D9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x7DA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x7DF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x7E9",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1031
+		},
+		{
+			"LABEL": "0x7EE",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x7EF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「大丈夫ですわよ、みほみ様。落ち着きというのは、いつか自然と身につくものですから」"
+		},
+		{
+			"LABEL": "0x847",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x84A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x84F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x854",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x859",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x865"
+		},
+		{
+			"LABEL": "0x860",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x865",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x86A",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x86F",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x87C"
+		},
+		{
+			"LABEL": "0x876",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x87B",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x87C",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x881",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x886",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x88B",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x890",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 217
+		},
+		{
+			"LABEL": "0x895",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x896",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x897",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x8A2",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x8A9",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x8B6",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x8BD",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x8C2",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x8C7",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x8CC",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x8D1",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x8D2",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x8D7",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x8E1",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 603
+		},
+		{
+			"LABEL": "0x8E6",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x8E7",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「そうかなぁ〜……みほみん、自分が大人になるイメージなんて全然できないや。いつまで経っても子供っぽいって言われるもん」"
+		},
+		{
+			"LABEL": "0x963",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x966",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x96B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x970",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x975",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x981"
+		},
+		{
+			"LABEL": "0x97C",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x981",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x986",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x98B",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x998"
+		},
+		{
+			"LABEL": "0x992",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x997",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x998",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x99D",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x9A2",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x9A7",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x9AC",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 23
+		},
+		{
+			"LABEL": "0x9B1",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x9B2",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x9B3",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x9BE",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x9C5",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x9D2",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x9D9",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x9DE",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x9E3",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x9E8",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x9ED",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x9EE",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x9F3",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x9FD",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 172
+		},
+		{
+			"LABEL": "0xA02",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xA03",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「それはアナタが意識してないからでしょ。意識すれば、そういう風に振る舞うことなんて簡単よ」"
+		},
+		{
+			"LABEL": "0xA63",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xA66",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xA6B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xA70",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xA75",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xA7A",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xA7F",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 20
+		},
+		{
+			"LABEL": "0xA84",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xA85",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xA86",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xA91",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xA98",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xAA5",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xAAC",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xAB1",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xAB6",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xABB",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xAC0",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xAC1",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xAC6",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0xAD0",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 173
+		},
+		{
+			"LABEL": "0xAD5",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xAD6",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「みほみ、アナタも小さいコに子供っぽいって言われたくないでしょ。今からでも身につければ、そのうち役に立つわよ」"
+		},
+		{
+			"LABEL": "0xB4A",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xB4D",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xB52",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xB57",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xB5C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xB68"
+		},
+		{
+			"LABEL": "0xB63",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xB68",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xB6D",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xB72",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xB7F"
+		},
+		{
+			"LABEL": "0xB79",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xB7E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xB7F",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0xB84",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0xB89",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xB8E",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xB93",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 235
+		},
+		{
+			"LABEL": "0xB98",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xB99",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xB9A",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xBA5",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xBAC",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xBB9",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xBC0",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xBC5",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xBCA",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xBCF",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xBD4",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xBD5",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xBDA",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0xBE4",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 604
+		},
+		{
+			"LABEL": "0xBE9",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xBEA",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「う〜〜わかった……じゃあ、あゆめおねえちゃんの真似する……んんっ！　――どうかしら？　みほみん、大人っぽい？」"
+		},
+		{
+			"LABEL": "0xC60",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xC63",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xC68",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xC6D",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xC72",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xC7E"
+		},
+		{
+			"LABEL": "0xC79",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xC7E",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xC83",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xC88",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xC95"
+		},
+		{
+			"LABEL": "0xC8F",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xC94",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xC95",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0xC9A",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xC9F",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xCA4",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xCA9",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 204
+		},
+		{
+			"LABEL": "0xCAE",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xCAF",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xCB0",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xCBB",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xCC2",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xCCF",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xCD6",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xCDB",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xCE0",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xCE5",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xCEA",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xCEB",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xCF0",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0xCFA",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 400
+		},
+		{
+			"LABEL": "0xCFF",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xD00",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ぷっ、あははっ！　背伸びしてる感がハンパないよ、みほみちゃん。ねぇ、もえこさん？」"
+		},
+		{
+			"LABEL": "0xD5A",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xD5D",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xD62",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xD67",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xD6C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xD78"
+		},
+		{
+			"LABEL": "0xD73",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xD78",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xD7D",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xD82",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xD8F"
+		},
+		{
+			"LABEL": "0xD89",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xD8E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xD8F",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0xD94",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0xD99",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xD9E",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xDA3",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 262
+		},
+		{
+			"LABEL": "0xDA8",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xDA9",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xDAA",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xDB5",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xDBC",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xDC9",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xDD0",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xDD5",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xDDA",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xDDF",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xDE4",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xDE5",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xDEA",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0xDF4",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 832
+		},
+		{
+			"LABEL": "0xDF9",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xDFA",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「そ、そうだね……あはは……」"
+		},
+		{
+			"LABEL": "0xE1E",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xE21",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xE26",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xE2B",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xE30",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xE3C"
+		},
+		{
+			"LABEL": "0xE37",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xE3C",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xE41",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xE46",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xE53"
+		},
+		{
+			"LABEL": "0xE4D",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xE52",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xE53",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0xE58",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0xE5D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xE62",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xE67",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 4
+		},
+		{
+			"LABEL": "0xE6C",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xE6D",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xE6E",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xE79",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xE80",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xE8D",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xE94",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xE99",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xE9E",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xEA3",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xEA8",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xEA9",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xEAE",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0xEB8",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 174
+		},
+		{
+			"LABEL": "0xEBD",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xEBE",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「そういえば――もえこ、アナタに聞きたいことがあったのだけど、アナタって本当に『救世主』なの？」"
+		},
+		{
+			"LABEL": "0xF24",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0xF27",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0xF2C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0xF31",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0xF36",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xF42"
+		},
+		{
+			"LABEL": "0xF3D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xF42",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xF47",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xF4C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0xF59"
+		},
+		{
+			"LABEL": "0xF53",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xF58",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xF59",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0xF5E",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0xF63",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xF68",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xF6D",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 255
+		},
+		{
+			"LABEL": "0xF72",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xF73",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xF74",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0xF7F",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xF86",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0xF93",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0xF9A",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0xF9F",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0xFA4",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0xFA9",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0xFAE",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xFAF",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0xFB4",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0xFBE",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 834
+		},
+		{
+			"LABEL": "0xFC3",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0xFC4",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「えっと……いちおう、ホントのことですけど……でも、皆にはあまり関係ないかも。少なくとも、わたしが生きた世界ではそうだったってだけだから」"
+		},
+		{
+			"LABEL": "0x1054",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1057",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x105C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1061",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1066",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1072"
+		},
+		{
+			"LABEL": "0x106D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1072",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1077",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x107C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1089"
+		},
+		{
+			"LABEL": "0x1083",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1088",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1089",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x108E",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x1093",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1098",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x109D",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 236
+		},
+		{
+			"LABEL": "0x10A2",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x10A3",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x10A4",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x10AF",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x10B6",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x10C3",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x10CA",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x10CF",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x10D4",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x10D9",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x10DE",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x10DF",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x10E4",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x10EE",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 605
+		},
+		{
+			"LABEL": "0x10F3",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x10F4",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「『救世主』ってなにするの？　そーいうお仕事があるの？」"
+		},
+		{
+			"LABEL": "0x1132",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1135",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x113A",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x113F",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1144",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1150"
+		},
+		{
+			"LABEL": "0x114B",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1150",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1155",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x115A",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1167"
+		},
+		{
+			"LABEL": "0x1161",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1166",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1167",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x116C",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0x1171",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1176",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x117B",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 255
+		},
+		{
+			"LABEL": "0x1180",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1181",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1182",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x118D",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1194",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x11A1",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x11A8",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x11AD",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x11B2",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x11B7",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x11BC",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x11BD",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x11C2",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x11CC",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 835
+		},
+		{
+			"LABEL": "0x11D1",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x11D2",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――世界を救うんです。目に見えない「ナニカ」に毒された世界を」"
+		},
+		{
+			"LABEL": "0x1218",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x121B",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1220",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1225",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x122A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x122F",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1234",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 256
+		},
+		{
+			"LABEL": "0x1239",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x123A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x123B",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1246",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x124D",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x125A",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1261",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1266",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x126B",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1270",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1275",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1276",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x127B",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x1285",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 836
+		},
+		{
+			"LABEL": "0x128A",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x128B",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「簡単に言うと、魔法少女みたいな感じ、なのかな？　救世主としてのわたしが、『萌森クララ』なんです」"
+		},
+		{
+			"LABEL": "0x12F3",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x12F6",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x12FB",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1300",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1305",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x130A",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x130F",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 264
+		},
+		{
+			"LABEL": "0x1314",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1315",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1316",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1321",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1328",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1335",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x133C",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1341",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1346",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x134B",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1350",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1351",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1356",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x1360",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 837
+		},
+		{
+			"LABEL": "0x1365",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1366",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「あるいは……その逆、なのかもしれないけど」"
+		},
+		{
+			"LABEL": "0x1398",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x139B",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x13A0",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x13A5",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x13AA",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x13B6"
+		},
+		{
+			"LABEL": "0x13B1",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x13B6",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x13BB",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x13C0",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x13CD"
+		},
+		{
+			"LABEL": "0x13C7",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x13CC",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x13CD",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x13D2",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x13D7",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x13DC",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x13E1",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 9
+		},
+		{
+			"LABEL": "0x13E6",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x13E7",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x13E8",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x13F3",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x13FA",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1407",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x140E",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1413",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1418",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x141D",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1422",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1423",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1428",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1432",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 175
+		},
+		{
+			"LABEL": "0x1437",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1438",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「……いまいちピンと来ないわね。それで？　もえこは世界を救えたワケ？」"
+		},
+		{
+			"LABEL": "0x1484",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1487",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x148C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1491",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1496",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x14A2"
+		},
+		{
+			"LABEL": "0x149D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x14A2",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x14A7",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x14AC",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x14B9"
+		},
+		{
+			"LABEL": "0x14B3",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x14B8",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x14B9",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x14BE",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0x14C3",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x14C8",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x14CD",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 257
+		},
+		{
+			"LABEL": "0x14D2",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x14D3",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x14D4",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x14DF",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x14E6",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x14F3",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x14FA",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x14FF",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1504",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1509",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x150E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x150F",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1514",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x151E",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 838
+		},
+		{
+			"LABEL": "0x1523",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1524",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「救えました。救えたからこそ、わたしはここに居るんです。もう使命は無くなったから。今のわたしは、皆と同じですよ」"
+		},
+		{
+			"LABEL": "0x159A",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x159D",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x15A2",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x15A7",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x15AC",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x15B1",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x15B6",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 256
+		},
+		{
+			"LABEL": "0x15BB",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x15BC",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x15BD",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x15C8",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x15CF",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x15DC",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x15E3",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x15E8",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x15ED",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x15F2",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x15F7",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x15F8",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x15FD",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x1607",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 839
+		},
+		{
+			"LABEL": "0x160C",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x160D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ようやく……少しだけ、自分自身を肯定できそうな気がします」"
+		},
+		{
+			"LABEL": "0x164F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1652",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1657",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x165C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1661",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x166D"
+		},
+		{
+			"LABEL": "0x1668",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x166D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1672",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1677",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1684"
+		},
+		{
+			"LABEL": "0x167E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1683",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1684",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1689",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x168E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1693",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1698",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 300
+		},
+		{
+			"LABEL": "0x169D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x169E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x169F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x16AA",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x16B1",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x16BE",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x16C5",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x16CA",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x16CF",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x16D4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x16D9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x16DA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x16DF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x16E9",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1032
+		},
+		{
+			"LABEL": "0x16EE",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x16EF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「なんと。もえこ様は偉業を達成された方なのですね。すごいですわ……！」"
+		},
+		{
+			"LABEL": "0x173B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x173E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1743",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1748",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x174D",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1759"
+		},
+		{
+			"LABEL": "0x1754",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1759",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x175E",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1763",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1770"
+		},
+		{
+			"LABEL": "0x176A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x176F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1770",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1775",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0x177A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x177F",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1784",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 262
+		},
+		{
+			"LABEL": "0x1789",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x178A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x178B",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1796",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x179D",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x17AA",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x17B1",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x17B6",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x17BB",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x17C0",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x17C5",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x17C6",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x17CB",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x17D5",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 840
+		},
+		{
+			"LABEL": "0x17DA",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x17DB",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「や、やめてくださいよぅ。クララじゃなくてわたしは、ただの社会人だったんですから……！」"
+		},
+		{
+			"LABEL": "0x1839",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x183C",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1841",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1846",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x184B",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1850",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1855",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 261
+		},
+		{
+			"LABEL": "0x185A",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x185B",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x185C",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1867",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x186E",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x187B",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1882",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1887",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x188C",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1891",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1896",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1897",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x189C",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x18A6",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 841
+		},
+		{
+			"LABEL": "0x18AB",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x18AC",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「も、もうっ！　わたしの話ばっかりじゃなくて、皆さんの話も聞かせてくださいよ！　あゆめさんとか！」"
+		},
+		{
+			"LABEL": "0x1914",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1917",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x191C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1921",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1926",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1932"
+		},
+		{
+			"LABEL": "0x192D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1932",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1937",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x193C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1949"
+		},
+		{
+			"LABEL": "0x1943",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1948",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1949",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x194E",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x1953",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1958",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x195D",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 214
+		},
+		{
+			"LABEL": "0x1962",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1963",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1964",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x196F",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1976",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1983",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x198A",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x198F",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1994",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1999",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x199E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x199F",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x19A4",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x19AE",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 606
+		},
+		{
+			"LABEL": "0x19B3",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x19B4",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「みほみんも聞きたーい！　あゆめおねえちゃんって、女優やってたんでしょ？　なんで女優になろうって思ったの？」"
+		},
+		{
+			"LABEL": "0x1A26",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1A29",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1A2E",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1A33",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1A38",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1A44"
+		},
+		{
+			"LABEL": "0x1A3F",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1A44",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1A49",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1A4E",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1A5B"
+		},
+		{
+			"LABEL": "0x1A55",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1A5A",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1A5B",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1A60",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x1A65",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1A6A",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1A6F",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 18
+		},
+		{
+			"LABEL": "0x1A74",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1A75",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1A76",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1A81",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1A88",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1A95",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1A9C",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1AA1",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1AA6",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1AAB",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1AB0",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1AB1",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1AB6",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1AC0",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 176
+		},
+		{
+			"LABEL": "0x1AC5",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1AC6",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「私？　そうねぇ……大した理由なんてなかったわ。別に、女優じゃなくても良かったもの」"
+		},
+		{
+			"LABEL": "0x1B20",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1B23",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1B28",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1B2D",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1B32",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1B37",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1B3C",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 25
+		},
+		{
+			"LABEL": "0x1B41",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1B42",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1B43",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1B4E",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1B55",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1B62",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1B69",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1B6E",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1B73",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1B78",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1B7D",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1B7E",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1B83",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1B8D",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 177
+		},
+		{
+			"LABEL": "0x1B92",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1B93",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「私は才能なんて無い凡人だった。けど、自分の人生を諦める気なんてなかったから、努力したの。その手段がたまたま『女優』だっただけ」"
+		},
+		{
+			"LABEL": "0x1C19",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1C1C",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1C21",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1C26",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1C2B",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1C30",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1C35",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 20
+		},
+		{
+			"LABEL": "0x1C3A",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1C3B",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1C3C",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1C47",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1C4E",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1C5B",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1C62",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1C67",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1C6C",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1C71",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1C76",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1C77",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1C7C",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1C86",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 178
+		},
+		{
+			"LABEL": "0x1C8B",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1C8C",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「普通の人生なんてつまらないでしょ？　だから私は、努力して『自分の人生』を掴み取ったの」"
+		},
+		{
+			"LABEL": "0x1CEA",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1CED",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1CF2",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1CF7",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1CFC",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1D01",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1D06",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 22
+		},
+		{
+			"LABEL": "0x1D0B",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1D0C",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1D0D",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1D18",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1D1F",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1D2C",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1D33",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1D38",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1D3D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1D42",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1D47",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1D48",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1D4D",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1D57",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 179
+		},
+		{
+			"LABEL": "0x1D5C",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1D5D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「誰かの『特別』になれるような、そんな人生を――ね」"
+		},
+		{
+			"LABEL": "0x1D97",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1D9A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1D9F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1DA4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1DA9",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1DB5"
+		},
+		{
+			"LABEL": "0x1DB0",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1DB5",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1DBA",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1DBF",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1DCC"
+		},
+		{
+			"LABEL": "0x1DC6",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1DCB",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1DCC",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1DD1",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1DD6",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1DDB",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1DE0",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 197
+		},
+		{
+			"LABEL": "0x1DE5",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1DE6",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1DE7",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1DF2",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1DF9",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1E06",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1E0D",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1E12",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1E17",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1E1C",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1E21",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1E22",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1E27",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x1E31",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 401
+		},
+		{
+			"LABEL": "0x1E36",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1E37",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「お、おぉ……予想以上にカッコいい回答……これが“出来る大人”ってやつか、くぅっ……！」"
+		},
+		{
+			"LABEL": "0x1E95",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1E98",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1E9D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1EA2",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1EA7",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1EB3"
+		},
+		{
+			"LABEL": "0x1EAE",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1EB3",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1EB8",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1EBD",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1ECA"
+		},
+		{
+			"LABEL": "0x1EC4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1EC9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1ECA",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1ECF",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x1ED4",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1ED9",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1EDE",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 5
+		},
+		{
+			"LABEL": "0x1EE3",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1EE4",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1EE5",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1EF0",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1EF7",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1F04",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1F0B",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1F10",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1F15",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x1F1A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1F1F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1F20",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x1F25",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x1F2F",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 180
+		},
+		{
+			"LABEL": "0x1F34",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x1F35",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ま、この中だったら私が一番年上だしね。生きた時間が違うのよ、まつり」"
+		},
+		{
+			"LABEL": "0x1F81",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x1F84",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x1F89",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x1F8E",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x1F93",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1F9F"
+		},
+		{
+			"LABEL": "0x1F9A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1F9F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1FA4",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1FA9",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x1FB6"
+		},
+		{
+			"LABEL": "0x1FB0",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x1FB5",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x1FB6",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x1FBB",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x1FC0",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1FC5",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x1FCA",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 216
+		},
+		{
+			"LABEL": "0x1FCF",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1FD0",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x1FD1",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x1FDC",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x1FE3",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x1FF0",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x1FF7",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x1FFC",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2001",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2006",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x200B",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x200C",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2011",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x201B",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 607
+		},
+		{
+			"LABEL": "0x2020",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2021",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「あゆめおねえちゃんカッコいいー！」"
+		},
+		{
+			"LABEL": "0x204B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x204E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2053",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2058",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x205D",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2069"
+		},
+		{
+			"LABEL": "0x2064",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2069",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x206E",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2073",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2080"
+		},
+		{
+			"LABEL": "0x207A",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x207F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2080",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2085",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x208A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x208F",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2094",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 22
+		},
+		{
+			"LABEL": "0x2099",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x209A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x209B",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x20A6",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x20AD",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x20BA",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x20C1",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x20C6",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x20CB",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x20D0",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x20D5",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x20D6",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x20DB",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x20E5",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 181
+		},
+		{
+			"LABEL": "0x20EA",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x20EB",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ありがと、みほみ。……さて、私の話はこんなので良いかしら？　そしたら――次、ねねね。アナタの話を聞かせなさいな」"
+		},
+		{
+			"LABEL": "0x2163",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2166",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x216B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2170",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2175",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2181"
+		},
+		{
+			"LABEL": "0x217C",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2181",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2186",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x218B",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2198"
+		},
+		{
+			"LABEL": "0x2192",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2197",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2198",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x219D",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x21A2",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x21A7",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x21AC",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 303
+		},
+		{
+			"LABEL": "0x21B1",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x21B2",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x21B3",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x21BE",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x21C5",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x21D2",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x21D9",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x21DE",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x21E3",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x21E8",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x21ED",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x21EE",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x21F3",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x21FD",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1033
+		},
+		{
+			"LABEL": "0x2202",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2203",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「わたくしの番ですか。わたくしは……家に縛られた生き方を、してきました」"
+		},
+		{
+			"LABEL": "0x2251",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2254",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2259",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x225E",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2263",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2268",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x226D",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 309
+		},
+		{
+			"LABEL": "0x2272",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2273",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2274",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x227F",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2286",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2293",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x229A",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x229F",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x22A4",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x22A9",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x22AE",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x22AF",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x22B4",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x22BE",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1034
+		},
+		{
+			"LABEL": "0x22C3",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x22C4",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「わたくし、本当は結婚する予定だったんですの。政略結婚、というやつですわ。愛する殿方を、自分で選べなかった」"
+		},
+		{
+			"LABEL": "0x2336",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2339",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x233E",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2343",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2348",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x234D",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2352",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 308
+		},
+		{
+			"LABEL": "0x2357",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2358",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2359",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2364",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x236B",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2378",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x237F",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2384",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2389",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x238E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2393",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2394",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2399",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x23A3",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1035
+		},
+		{
+			"LABEL": "0x23A8",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x23A9",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「それでも、想いを表に出さなければいいと……そう、自分に言い聞かせておりました」"
+		},
+		{
+			"LABEL": "0x23FF",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2402",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2407",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x240C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2411",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2416",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x241B",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 302
+		},
+		{
+			"LABEL": "0x2420",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2421",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2422",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x242D",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2434",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2441",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2448",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x244D",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2452",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2457",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x245C",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x245D",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2462",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x246C",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1036
+		},
+		{
+			"LABEL": "0x2471",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2472",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――結局のところ、わたくしは誰かに連れ出して欲しかったんでしょうね」"
+		},
+		{
+			"LABEL": "0x24BE",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x24C1",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x24C6",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x24CB",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x24D0",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x24D5",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x24DA",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 294
+		},
+		{
+			"LABEL": "0x24DF",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x24E0",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x24E1",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x24EC",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x24F3",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2500",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2507",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x250C",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2511",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2516",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x251B",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x251C",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2521",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x252B",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1037
+		},
+		{
+			"LABEL": "0x2530",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2531",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「求めていたものはすぐ傍にあって、後はわたくし自身が、それを受けいれれば良かっただけなのに……」"
+		},
+		{
+			"LABEL": "0x2597",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x259A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x259F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x25A4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x25A9",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x25AE",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x25B3",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 296
+		},
+		{
+			"LABEL": "0x25B8",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x25B9",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x25BA",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x25C5",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x25CC",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x25D9",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x25E0",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x25E5",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x25EA",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x25EF",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x25F4",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x25F5",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x25FA",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x2604",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1038
+		},
+		{
+			"LABEL": "0x2609",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x260A",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「どうやらわたくしは、思ってた以上に面倒くさい女のようです、ふふっ」"
+		},
+		{
+			"LABEL": "0x2654",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2657",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x265C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2661",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2666",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2672"
+		},
+		{
+			"LABEL": "0x266D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2672",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2677",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x267C",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2689"
+		},
+		{
+			"LABEL": "0x2683",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2688",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2689",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x268E",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x2693",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2698",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x269D",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 212
+		},
+		{
+			"LABEL": "0x26A2",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x26A3",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x26A4",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x26AF",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x26B6",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x26C3",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x26CA",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x26CF",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x26D4",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x26D9",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x26DE",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x26DF",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x26E4",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x26EE",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 608
+		},
+		{
+			"LABEL": "0x26F3",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x26F4",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ねねねおねえちゃん……」"
+		},
+		{
+			"LABEL": "0x2714",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2717",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x271C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2721",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2726",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x272B",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2730",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 213
+		},
+		{
+			"LABEL": "0x2735",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2736",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2737",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2742",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2749",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2756",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x275D",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2762",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2767",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x276C",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2771",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2772",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2777",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2781",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 609
+		},
+		{
+			"LABEL": "0x2786",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2787",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――……あのね。みほみんもね、おんなじだよ。みほみんも、誰かに必要とされたかったの」"
+		},
+		{
+			"LABEL": "0x27E3",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x27E6",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x27EB",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x27F0",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x27F5",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x27FA",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x27FF",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 217
+		},
+		{
+			"LABEL": "0x2804",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2805",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2806",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2811",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2818",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2825",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x282C",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2831",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2836",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x283B",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2840",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2841",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2846",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2850",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 610
+		},
+		{
+			"LABEL": "0x2855",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2856",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ずっとずっと、毎日消えることばかり願って。誰にも必要とされないから。こんな人生に、価値も、意味もないって、そう思ってて……」"
+		},
+		{
+			"LABEL": "0x28DA",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x28DD",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x28E2",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x28E7",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x28EC",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x28F1",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x28F6",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 228
+		},
+		{
+			"LABEL": "0x28FB",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x28FC",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x28FD",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2908",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x290F",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x291C",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2923",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2928",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x292D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2932",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2937",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2938",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x293D",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2947",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 611
+		},
+		{
+			"LABEL": "0x294C",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x294D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――それでも、それでもね！　みほみんは最後の最後に、だいすきな人の心を、手に入れられたの」"
+		},
+		{
+			"LABEL": "0x29AF",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x29B2",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x29B7",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x29BC",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x29C1",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x29C6",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x29CB",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 231
+		},
+		{
+			"LABEL": "0x29D0",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x29D1",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x29D2",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x29DD",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x29E4",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x29F1",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x29F8",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x29FD",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2A02",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2A07",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2A0C",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2A0D",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2A12",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2A1C",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 612
+		},
+		{
+			"LABEL": "0x2A21",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2A22",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「それだけで、みほみんは報われたんだ。自分が必要とされてるんだって」"
+		},
+		{
+			"LABEL": "0x2A6C",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2A6F",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2A74",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2A79",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2A7E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2A83",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2A88",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 229
+		},
+		{
+			"LABEL": "0x2A8D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2A8E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2A8F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2A9A",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2AA1",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2AAE",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2AB5",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2ABA",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2ABF",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2AC4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2AC9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2ACA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2ACF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2AD9",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 613
+		},
+		{
+			"LABEL": "0x2ADE",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2ADF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ねねねおねえちゃんも、それは、同じじゃないのかな……？」"
+		},
+		{
+			"LABEL": "0x2B1F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2B22",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2B27",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2B2C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2B31",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2B3D"
+		},
+		{
+			"LABEL": "0x2B38",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2B3D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2B42",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2B47",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2B54"
+		},
+		{
+			"LABEL": "0x2B4E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2B53",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2B54",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2B59",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x2B5E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2B63",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2B68",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 297
+		},
+		{
+			"LABEL": "0x2B6D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2B6E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2B6F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2B7A",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2B81",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2B8E",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2B95",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2B9A",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2B9F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2BA4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2BA9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2BAA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2BAF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x2BB9",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1039
+		},
+		{
+			"LABEL": "0x2BBE",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2BBF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「みほみ様……ええ、そうですわね。確かに、それだけは嘘じゃありませんでしたわ」"
+		},
+		{
+			"LABEL": "0x2C13",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2C16",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2C1B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2C20",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2C25",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2C2A",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2C2F",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 294
+		},
+		{
+			"LABEL": "0x2C34",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2C35",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2C36",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2C41",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2C48",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2C55",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2C5C",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2C61",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2C66",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2C6B",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2C70",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2C71",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2C76",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x2C80",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1040
+		},
+		{
+			"LABEL": "0x2C85",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2C86",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ありがとうございます、みほみ様。気づかせて下さって」"
+		},
+		{
+			"LABEL": "0x2CC2",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2CC5",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2CCA",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2CCF",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2CD4",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2CE0"
+		},
+		{
+			"LABEL": "0x2CDB",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2CE0",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2CE5",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2CEA",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2CF7"
+		},
+		{
+			"LABEL": "0x2CF1",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2CF6",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2CF7",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2CFC",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x2D01",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2D06",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2D0B",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 215
+		},
+		{
+			"LABEL": "0x2D10",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2D11",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2D12",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2D1D",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2D24",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2D31",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2D38",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2D3D",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2D42",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2D47",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2D4C",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2D4D",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2D52",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x2D5C",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 614
+		},
+		{
+			"LABEL": "0x2D61",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2D62",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「んーん！　――それじゃ、最後はまつりおねえちゃん！　おねえちゃんの話、聞かせてよ！」"
+		},
+		{
+			"LABEL": "0x2DBE",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2DC1",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2DC6",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2DCB",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2DD0",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2DDC"
+		},
+		{
+			"LABEL": "0x2DD7",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2DDC",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2DE1",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2DE6",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2DF3"
+		},
+		{
+			"LABEL": "0x2DED",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2DF2",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2DF3",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2DF8",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2DFD",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2E02",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2E07",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 198
+		},
+		{
+			"LABEL": "0x2E0C",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2E0D",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2E0E",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x2E19",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x2E20",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x2E2D",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x2E34",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x2E39",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2E3E",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x2E43",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2E48",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2E49",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x2E4E",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x2E58",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 402
+		},
+		{
+			"LABEL": "0x2E5D",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x2E5E",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「みんな話したんだから、そりゃあ回ってくるよなぁ……うーん、ボクの話かぁ……」"
+		},
+		{
+			"LABEL": "0x2EB2",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2EB5",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2EBA",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2EBF",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2EC4",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2ED0"
+		},
+		{
+			"LABEL": "0x2ECB",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2ED0",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2ED5",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2EDA",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x2EE7"
+		},
+		{
+			"LABEL": "0x2EE1",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x2EE6",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2EE7",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x2EEC",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x2EF8"
+		},
+		{
+			"LABEL": "0x2EF3",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x2EF8",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "……みんなの視線が、ボクに集中する。"
+		},
+		{
+			"LABEL": "0x2F22",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2F25",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2F2A",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2F2F",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2F34",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x2F40"
+		},
+		{
+			"LABEL": "0x2F3B",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x2F40",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "青。黄。緑。紫――四色の花たちが、赤色のボクを、見つめている。"
+		},
+		{
+			"LABEL": "0x2F84",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2F87",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2F8C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2F91",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2F96",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x2FA2"
+		},
+		{
+			"LABEL": "0x2F9D",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x2FA2",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "その視線達を、ボクは静かに見つめ返した。"
+		},
+		{
+			"LABEL": "0x2FD0",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x2FD3",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x2FD8",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x2FDD",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2FE2",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x2FE7",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2FEC",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x2FF1",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 190
+		},
+		{
+			"LABEL": "0x2FF6",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2FF7",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2FF8",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3003",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x300A",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3017",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x301E",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3023",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3028",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x302D",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3032",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3033",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3038",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x3042",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 403
+		},
+		{
+			"LABEL": "0x3047",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3048",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――みんなはさ、『だれかのイメージ』を、押し付けられたことはある？」"
+		},
+		{
+			"LABEL": "0x3094",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3097",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x309C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x30A1",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x30A6",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x30AB",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x30B0",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 199
+		},
+		{
+			"LABEL": "0x30B5",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x30B6",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x30B7",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x30C2",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x30C9",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x30D6",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x30DD",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x30E2",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x30E7",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x30EC",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x30F1",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x30F2",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x30F7",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x3101",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 404
+		},
+		{
+			"LABEL": "0x3106",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3107",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ボクはね、ずっと『他人の中の自分』を押し付けられてきた」"
+		},
+		{
+			"LABEL": "0x3147",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x314A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x314F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3154",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3159",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x315E",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3163",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 195
+		},
+		{
+			"LABEL": "0x3168",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3169",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x316A",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3175",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x317C",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3189",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3190",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3195",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x319A",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x319F",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x31A4",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x31A5",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x31AA",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x31B4",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 405
+		},
+		{
+			"LABEL": "0x31B9",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x31BA",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「『君は明るいね』、『君は優しいね』って……本当の自分なんて、結局は自分以外わかるはずないのに」"
+		},
+		{
+			"LABEL": "0x3220",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3223",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3228",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x322D",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3232",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3237",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x3241",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 406
+		},
+		{
+			"LABEL": "0x3246",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3247",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――だからボクは、ボクを壊してほしかったんだ。あの世界で生きていくのが、苦しかったから」"
+		},
+		{
+			"LABEL": "0x32A7",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x32AA",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x32AF",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x32B4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x32B9",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x32BE",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x32C3",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 201
+		},
+		{
+			"LABEL": "0x32C8",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x32C9",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x32CA",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x32D5",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x32DC",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x32E9",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x32F0",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x32F5",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x32FA",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x32FF",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3304",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3305",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x330A",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x3314",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 407
+		},
+		{
+			"LABEL": "0x3319",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x331A",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「最後くらいはせめて、愛したひとの手で終わりたかった。それだけが、ボクの願い」"
+		},
+		{
+			"LABEL": "0x336E",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3371",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3376",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x337B",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3380",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3385",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x338A",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 202
+		},
+		{
+			"LABEL": "0x338F",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3390",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3391",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x339C",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x33A3",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x33B0",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x33B7",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x33BC",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x33C1",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x33C6",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x33CB",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x33CC",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x33D1",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x33DB",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 408
+		},
+		{
+			"LABEL": "0x33E0",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x33E1",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「そしてボクは――出逢ったんだ。ボクを壊してくれる、大切なひとに」"
+		},
+		{
+			"LABEL": "0x3429",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x342C",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3431",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3436",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x343B",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3447"
+		},
+		{
+			"LABEL": "0x3442",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3447",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x344C",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3451",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x345E"
+		},
+		{
+			"LABEL": "0x3458",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x345D",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x345E",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3463",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x346F"
+		},
+		{
+			"LABEL": "0x346A",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x346F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "――ボク達は、それぞれ自らの花を咲かせた。"
+		},
+		{
+			"LABEL": "0x349F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x34A2",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x34A7",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x34AC",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x34B1",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x34BD"
+		},
+		{
+			"LABEL": "0x34B8",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x34BD",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "在り方は異なるけれど、同じ「彼」の手によって。"
+		},
+		{
+			"LABEL": "0x34F1",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x34F4",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x34F9",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x34FE",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3503",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x350F"
+		},
+		{
+			"LABEL": "0x350A",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x350F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "みんな、「彼」のことは覚えている。"
+		},
+		{
+			"LABEL": "0x3537",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x353A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x353F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3544",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3549",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x354E",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "けど、示し合わせたかのように、それが誰なのかを口にしない。"
+		},
+		{
+			"LABEL": "0x358E",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3591",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3596",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x359B",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x35A7"
+		},
+		{
+			"LABEL": "0x35A2",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x35A7",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "その名前を、出さないようにしている。"
+		},
+		{
+			"LABEL": "0x35D1",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x35D4",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x35D9",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x35DE",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x35E3",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x35EF"
+		},
+		{
+			"LABEL": "0x35EA",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x35EF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "他の人が知っている「彼」は、自分が知っている「彼」とは違うと、理解しているから。"
+		},
+		{
+			"LABEL": "0x3645",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3648",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x364D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3652",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3657",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x365C",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3661",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3666",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 191
+		},
+		{
+			"LABEL": "0x366B",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x366C",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x366D",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3678",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x367F",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x368C",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3693",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3698",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x369D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x36A2",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x36A7",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x36A8",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x36AD",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x36B7",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 409
+		},
+		{
+			"LABEL": "0x36BC",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x36BD",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ボク達は、みんな同じだ。他人から与えられた『イメージ』を壊して、『本当の自分』を誰かに理解してほしかった」"
+		},
+		{
+			"LABEL": "0x372F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3732",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3737",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x373C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3741",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x374D"
+		},
+		{
+			"LABEL": "0x3748",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x374D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3752",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3757",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3764"
+		},
+		{
+			"LABEL": "0x375E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3763",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3764",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3769",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x376E",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "だからこそ、ボク達は「彼」に託したんだ。"
+		},
+		{
+			"LABEL": "0x379C",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x379F",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x37A4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x37A9",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x37B5"
+		},
+		{
+			"LABEL": "0x37B0",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x37B5",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "己という花の種を。"
+		},
+		{
+			"LABEL": "0x37CD",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x37D0",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x37D5",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x37DA",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x37DF",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x37EB"
+		},
+		{
+			"LABEL": "0x37E6",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x37EB",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "そうして咲いたラフレシアは、こうして同じ場所に集っている。"
+		},
+		{
+			"LABEL": "0x382B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x382E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3833",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3838",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x383D",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3849"
+		},
+		{
+			"LABEL": "0x3844",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3849",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "それはきっと、奇跡のようなもので――"
+		},
+		{
+			"LABEL": "0x3873",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3876",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x387B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3880",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3885",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x388A",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x388F",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3894",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 201
+		},
+		{
+			"LABEL": "0x3899",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x389A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x389B",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x38A6",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x38AD",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x38BA",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x38C1",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x38C6",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x38CB",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x38D0",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x38D5",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x38D6",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x38DB",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x38E5",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 410
+		},
+		{
+			"LABEL": "0x38EA",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x38EB",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――近い未来、きっとボク達のような子が現れる。そんな気がするんだ」"
+		},
+		{
+			"LABEL": "0x3935",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3938",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x393D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3942",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3947",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3953"
+		},
+		{
+			"LABEL": "0x394E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3953",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3958",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x395D",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x396A"
+		},
+		{
+			"LABEL": "0x3964",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3969",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x396A",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x396F",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x397B"
+		},
+		{
+			"LABEL": "0x3976",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x397B",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "この世界は強烈に残酷で、理不尽で、いつだって不条理だ。"
+		},
+		{
+			"LABEL": "0x39B7",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x39BA",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x39BF",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x39C4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x39C9",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x39CE",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "暴力を振るえば、暴言を吐けば、誰かが傷つくことくらいわかるのに。"
+		},
+		{
+			"LABEL": "0x3A14",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3A17",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3A1C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x3A21",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3A2D"
+		},
+		{
+			"LABEL": "0x3A28",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3A2D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "その事実から目を背け、誰もが生きている。"
+		},
+		{
+			"LABEL": "0x3A5B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3A5E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3A63",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3A68",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3A6D",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3A72",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "それでもボク達は、ここでしか生きれない。"
+		},
+		{
+			"LABEL": "0x3AA0",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3AA3",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3AA8",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x3AAD",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3AB9"
+		},
+		{
+			"LABEL": "0x3AB4",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3AB9",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "ここでしか生きることを、許されない。"
+		},
+		{
+			"LABEL": "0x3AE3",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3AE6",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3AEB",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3AF0",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3AF5",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3B01"
+		},
+		{
+			"LABEL": "0x3AFC",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3B01",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "そんな世界だからこそ、ボク達のような子が再び現れると思うんだ。"
+		},
+		{
+			"LABEL": "0x3B45",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3B48",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3B4D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3B52",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3B57",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3B5C",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3B61",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3B66",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 202
+		},
+		{
+			"LABEL": "0x3B6B",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3B6C",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3B6D",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3B78",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3B7F",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3B8C",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3B93",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3B98",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3B9D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x3BA2",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3BA7",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3BA8",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3BAD",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x3BB7",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 411
+		},
+		{
+			"LABEL": "0x3BBC",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3BBD",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――だから、ボク達が導いてあげなくちゃいけない。背中を押してあげなくちゃいけない」"
+		},
+		{
+			"LABEL": "0x3C17",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3C1A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3C1F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3C24",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3C29",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3C35"
+		},
+		{
+			"LABEL": "0x3C30",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3C35",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3C3A",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3C3F",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3C4C"
+		},
+		{
+			"LABEL": "0x3C46",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3C4B",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3C4C",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3C51",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3C5D"
+		},
+		{
+			"LABEL": "0x3C58",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3C5D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "愛と、狂気と、猟奇の花々は、再び夢現の世界に咲く。"
+		},
+		{
+			"LABEL": "0x3C95",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3C98",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3C9D",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3CA2",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3CA7",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x3CB3"
+		},
+		{
+			"LABEL": "0x3CAE",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x3CB3",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "その花が何色で、どんな風に咲くのかわからないけど――ボク達にできることは……きっと、コレだと思うから。"
+		},
+		{
+			"LABEL": "0x3D1F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3D22",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3D27",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3D2C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3D31",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 1
+		},
+		{
+			"LABEL": "0x3D36",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3D3B",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3D40",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 227
+		},
+		{
+			"LABEL": "0x3D45",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3D46",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3D47",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3D52",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3D59",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3D66",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3D6D",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3D72",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3D77",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x3D7C",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3D81",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3D82",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3D87",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "みほみ"
+		},
+		{
+			"LABEL": "0x3D91",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 1,
+			"VOICE_ID": 615
+		},
+		{
+			"LABEL": "0x3D96",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3D97",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「……みほみん、お姉さんみたいになれるかな？　背中を押してあげられるかな？　……なれるといいなぁ」"
+		},
+		{
+			"LABEL": "0x3DFF",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3E02",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3E07",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3E0C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3E11",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3E1D"
+		},
+		{
+			"LABEL": "0x3E18",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3E1D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3E22",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3E27",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3E34"
+		},
+		{
+			"LABEL": "0x3E2E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3E33",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3E34",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3E39",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 2
+		},
+		{
+			"LABEL": "0x3E3E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3E43",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3E48",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 19
+		},
+		{
+			"LABEL": "0x3E4D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3E4E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3E4F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3E5A",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3E61",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3E6E",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3E75",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3E7A",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3E7F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x3E84",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3E89",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3E8A",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3E8F",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "あゆめ"
+		},
+		{
+			"LABEL": "0x3E99",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 2,
+			"VOICE_ID": 182
+		},
+		{
+			"LABEL": "0x3E9E",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3E9F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「――きっと、私みたいな馬鹿な子が、また現れるんでしょうね。凡人なりに苦悩して生きる子が」"
+		},
+		{
+			"LABEL": "0x3EFF",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x3F02",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x3F07",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x3F0C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x3F11",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3F1D"
+		},
+		{
+			"LABEL": "0x3F18",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3F1D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3F22",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3F27",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x3F34"
+		},
+		{
+			"LABEL": "0x3F2E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3F33",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3F34",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x3F39",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 3
+		},
+		{
+			"LABEL": "0x3F3E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3F43",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3F48",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 258
+		},
+		{
+			"LABEL": "0x3F4D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3F4E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3F4F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x3F5A",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3F61",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x3F6E",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x3F75",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x3F7A",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x3F7F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x3F84",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x3F89",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3F8A",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x3F8F",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "もえこ"
+		},
+		{
+			"LABEL": "0x3F99",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 3,
+			"VOICE_ID": 842
+		},
+		{
+			"LABEL": "0x3F9E",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x3F9F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「わたしは……今になってようやく、自分を肯定できそうなんです。だから、わたしみたいに自信の無い子の力になってあげたいです」"
+		},
+		{
+			"LABEL": "0x401F",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x4022",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x4027",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x402C",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x4031",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x403D"
+		},
+		{
+			"LABEL": "0x4038",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x403D",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4042",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4047",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x4054"
+		},
+		{
+			"LABEL": "0x404E",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x4053",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4054",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x4059",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 4
+		},
+		{
+			"LABEL": "0x405E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4063",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4068",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 295
+		},
+		{
+			"LABEL": "0x406D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x406E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x406F",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x407A",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x4081",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x408E",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x4095",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x409A",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x409F",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x40A4",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x40A9",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x40AA",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x40AF",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "ねねね"
+		},
+		{
+			"LABEL": "0x40B9",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 4,
+			"VOICE_ID": 1041
+		},
+		{
+			"LABEL": "0x40BE",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x40BF",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「自身の幸せが何なのか――わたくしのように探している子がきっといるはずです。わたくしは、その方のしるべとなりたい」"
+		},
+		{
+			"LABEL": "0x4137",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x413A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x413F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4144",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x4149",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x4155"
+		},
+		{
+			"LABEL": "0x4150",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4155",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x415A",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x415F",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x416C"
+		},
+		{
+			"LABEL": "0x4166",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x416B",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x416C",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x4171",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x417D"
+		},
+		{
+			"LABEL": "0x4178",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x417D",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "みんなが、それぞれの決意を口にする。"
+		},
+		{
+			"LABEL": "0x41A7",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x41AA",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x41AF",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x41B4",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x41B9",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x41BE",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x41C3",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x41C8",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 192
+		},
+		{
+			"LABEL": "0x41CD",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x41CE",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x41CF",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x41DA",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x41E1",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x41EE",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x41F5",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x41FA",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x41FF",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x4204",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x4209",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x420A",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x420F",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x4219",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 412
+		},
+		{
+			"LABEL": "0x421E",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x421F",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「ボクだって同じさ。ボクも、自分に似た子を導いてあげたい。その想いは、否定されるべきモノじゃないって」"
+		},
+		{
+			"LABEL": "0x428B",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x428E",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x4293",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4298",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x429D",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x42A9"
+		},
+		{
+			"LABEL": "0x42A4",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x42A9",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "ボク達が持つ想いは、きっとマイノリティだ。"
+		},
+		{
+			"LABEL": "0x42D9",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x42DC",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x42E1",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x42E6",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x42EB",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x42F7"
+		},
+		{
+			"LABEL": "0x42F2",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x42F7",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "だから、同じ側に立つボク達が、それを肯定してあげたい。"
+		},
+		{
+			"LABEL": "0x4333",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x4336",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x433B",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4340",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x4345",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x4351"
+		},
+		{
+			"LABEL": "0x434C",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x4351",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "――だけどそれは、まだ未来の話。"
+		},
+		{
+			"LABEL": "0x4377",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x437A",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x437F",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4384",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x4389",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x4395"
+		},
+		{
+			"LABEL": "0x4390",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x4395",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "運命は不確定だ。賽が投げられる瞬間は、まだ遠い。"
+		},
+		{
+			"LABEL": "0x43CB",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x43CE",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x43D3",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x43D8",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x43DD",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x43E9"
+		},
+		{
+			"LABEL": "0x43E4",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x43E9",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "だから――"
+		},
+		{
+			"LABEL": "0x43F9",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x43FC",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x4401",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4406",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x440B",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4410",
+			"CMD": "43",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4415",
+			"CMD": "ATTACH_BG",
+			"ID": 11,
+			"BGID": 194
+		},
+		{
+			"LABEL": "0x441A",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x441B",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x441C",
+			"CMD": "1E",
+			"ID": 11,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x4427",
+			"CMD": "1D",
+			"ID": 11,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x442E",
+			"CMD": "1F",
+			"ID": 11,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x443B",
+			"CMD": "21",
+			"ID": 11,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x4442",
+			"CMD": "22",
+			"ID": 11,
+			"DATA": "0700"
+		},
+		{
+			"LABEL": "0x4447",
+			"CMD": "72",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x444C",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x4451",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x4456",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4457",
+			"CMD": "4F",
+			"DATA": "0d000100"
+		},
+		{
+			"LABEL": "0x445C",
+			"CMD": "TEXT",
+			"MESSAGE_TYPE_ID": 13,
+			"STRING": "まつり"
+		},
+		{
+			"LABEL": "0x4466",
+			"CMD": "VOICE",
+			"MESSAGE_TYPE_ID": 0,
+			"VOICE_ID": 413
+		},
+		{
+			"LABEL": "0x446B",
+			"CMD": "59"
+		},
+		{
+			"LABEL": "0x446C",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "「今は……このお茶会を楽しもう？　ボクはまだ、全然物足りないよ！　みんなの話、もっと聴かせて？　ボクも話すからさ！」"
+		},
+		{
+			"LABEL": "0x44E6",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x44E9",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x44EE",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x44F3",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x44F8",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x4504"
+		},
+		{
+			"LABEL": "0x44FF",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4504",
+			"CMD": "25",
+			"ID": 11,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4509",
+			"CMD": "25",
+			"ID": 10,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x450E",
+			"CMD": "GOTO",
+			"ID": 32806,
+			"TO_LABEL": "0x451B"
+		},
+		{
+			"LABEL": "0x4515",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x451A",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x451B",
+			"CMD": "MOV",
+			"ID": 32981,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x4520",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x452C"
+		},
+		{
+			"LABEL": "0x4527",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x452C",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "――これはきっと、夢のような奇跡。"
+		},
+		{
+			"LABEL": "0x4554",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x4557",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x455C",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x4561",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x4566",
+			"CMD": "GOTO",
+			"ID": 32805,
+			"TO_LABEL": "0x4572"
+		},
+		{
+			"LABEL": "0x456D",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x4572",
+			"CMD": "TEXT2",
+			"MESSAGE_TYPE_ID": -1,
+			"STRING": "夢現のラフレシア達は、この美しい花畑で、束の間を共に過ごす。"
+		},
+		{
+			"LABEL": "0x45B4",
+			"CMD": "KEY_WAIT",
+			"MESSAGE_TYPE_ID": -1
+		},
+		{
+			"LABEL": "0x45B7",
+			"CMD": "6A"
+		},
+		{
+			"LABEL": "0x45BC",
+			"CMD": "NEW_PAGE"
+		},
+		{
+			"LABEL": "0x45C1",
+			"CMD": "MOV",
+			"ID": 32805,
+			"VALUE": 0
+		},
+		{
+			"LABEL": "0x45C6",
+			"CMD": "39",
+			"DATA": "0300",
+			"ID": 0
+		},
+		{
+			"LABEL": "0x45CB",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x45D0",
+			"CMD": "4F",
+			"DATA": "0a000000"
+		},
+		{
+			"LABEL": "0x45D5",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x45DA",
+			"CMD": "2D",
+			"DATA": "08000400"
+		},
+		{
+			"LABEL": "0x45DF",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x45E0",
+			"CMD": "4E",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x45E5",
+			"CMD": "4E",
+			"DATA": "ffff0000"
+		},
+		{
+			"LABEL": "0x45EA",
+			"CMD": "74",
+			"DATA": "0000ffff3c00"
+		},
+		{
+			"LABEL": "0x45F1",
+			"CMD": "MOV",
+			"ID": 32906,
+			"VALUE": 65535
+		},
+		{
+			"LABEL": "0x45F6",
+			"CMD": "75",
+			"DATA": "ffffb400"
+		},
+		{
+			"LABEL": "0x45FB",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4600",
+			"CMD": "43",
+			"ID": 15,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x4605",
+			"CMD": "ATTACH_BG",
+			"ID": 15,
+			"BGID": 176
+		},
+		{
+			"LABEL": "0x460A",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x460B",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x460C",
+			"CMD": "1E",
+			"ID": 15,
+			"DATA": "8000800080008000"
+		},
+		{
+			"LABEL": "0x4617",
+			"CMD": "1D",
+			"ID": 15,
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x461E",
+			"CMD": "1F",
+			"ID": 15,
+			"DATA": "00000000000000010001"
+		},
+		{
+			"LABEL": "0x462B",
+			"CMD": "21",
+			"ID": 15,
+			"DATA": "00010001"
+		},
+		{
+			"LABEL": "0x4632",
+			"CMD": "22",
+			"ID": 15,
+			"DATA": "0f00"
+		},
+		{
+			"LABEL": "0x4637",
+			"CMD": "72",
+			"ID": 15,
+			"DATA": "0000"
+		},
+		{
+			"LABEL": "0x463C",
+			"CMD": "25",
+			"ID": 15,
+			"DATA": "0100"
+		},
+		{
+			"LABEL": "0x4641",
+			"CMD": "2D",
+			"DATA": "08000000"
+		},
+		{
+			"LABEL": "0x4646",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4647",
+			"CMD": "4F",
+			"DATA": "0d000000"
+		},
+		{
+			"LABEL": "0x464C",
+			"CMD": "WAIT",
+			"VALUE": 180
+		},
+		{
+			"LABEL": "0x464F",
+			"CMD": "39",
+			"DATA": "0100",
+			"ID": 16
+		},
+		{
+			"LABEL": "0x4654",
+			"CMD": "0"
+		},
+		{
+			"LABEL": "0x4655",
+			"CMD": "RETURN"
+		}
+	],
+	"FOOTER": {
+		"STRING_COUNT": 99,
+		"CHOICES_COUNT": 0,
+		"JUMP_POINTS": 0,
+		"ID": 12
+	}
+}

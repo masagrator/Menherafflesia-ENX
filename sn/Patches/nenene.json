@@ -1,0 +1,3956 @@
+[
+	{
+		"LABEL": "0x152",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hah."
+	},
+	{
+		"LABEL": "0x182",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On the way home, the scenery was the same as always."
+	},
+	{
+		"LABEL": "0x1C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Remembering how bad life at school is, I can't help but sigh."
+	},
+	{
+		"LABEL": "0x221",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Bullying from my upperclassman is an everyday occurrence. "
+	},
+	{
+		"LABEL": "0x260",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He tries to hurt me when the teachers aren't looking."
+	},
+	{
+		"LABEL": "0x2A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "School makes me completely miserable, even though I'm a man."
+	},
+	{
+		"LABEL": "0x2EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Honestly, the more I have to endure this, the more I hate my life."
+	},
+	{
+		"LABEL": "0x340",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I continue to think such things as I stare at the ground and walk."
+	},
+	{
+		"LABEL": "0x396",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Huh?"
+	},
+	{
+		"LABEL": "0x3C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's something sparkling on the road."
+	},
+	{
+		"LABEL": "0x408",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I stop to check it out, I realize it's shaped like a ring."
+	},
+	{
+		"LABEL": "0x46A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pick it up; it's a ring with a simple design and a gem in front."
+	},
+	{
+		"LABEL": "0x4E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe it's a diamond? "
+	},
+	{
+		"LABEL": "0x530",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I might be able to sell this off at a pawn shop!"
+	},
+	{
+		"LABEL": "0x580",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, something this valuable would not be abandoned so easily."
+	},
+	{
+		"LABEL": "0x5DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It could be a fake. "
+	},
+	{
+		"LABEL": "0x60E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or maybe it's a trap...!?"
+	},
+	{
+		"LABEL": "0x654",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Either way... I don't know if it's authentic, but I like its look. I decide to keep it with me."
+	},
+	{
+		"LABEL": "0x6C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The ring could start some real trouble if someone sees me with this."
+	},
+	{
+		"LABEL": "0x710",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I put the ring in my pocket in a hurry."
+	},
+	{
+		"LABEL": "0x75E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After walking for a while, I see a woman crouching on the side of the road."
+	},
+	{
+		"LABEL": "0x80D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her purple hair possesses an unusual style, bound in a ribbon..."
+	},
+	{
+		"LABEL": "0x86F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She wears a flashy white lace dress."
+	},
+	{
+		"LABEL": "0x8D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is truly a beautiful girl, almost like a foreign princess."
+	},
+	{
+		"LABEL": "0x91E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x92E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No... I can't find it..."
+	},
+	{
+		"LABEL": "0x965",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x975",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What am I going to do...? I must have surely dropped it when I bumped into that person a while ago."
+	},
+	{
+		"LABEL": "0x9DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The woman looks like she's panicking, frantically searching for something in the grass."
+	},
+	{
+		"LABEL": "0xA5B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Is she looking for something? I cannot allow myself to leave her be."
+	},
+	{
+		"LABEL": "0xABC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it, I had already called out to her."
+	},
+	{
+		"LABEL": "0xB04",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xB3F",
+				"STRING": "What happened?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xB3F",
+				"STRING": "Are you looking for something?"
+			}
+		]
+	},
+	{
+		"LABEL": "0xBC2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, you are so kind...!! Actually... I have dropped my ring."
+	},
+	{
+		"LABEL": "0xC87",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It possesses a rather ordinary design... combined with a diamond weighing no more than a carat."
+	},
+	{
+		"LABEL": "0xD1C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please sir, have you encountered anything of the sort in the area?"
+	},
+	{
+		"LABEL": "0xDCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xDDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Oh my! What you hold in your hand is..."
+	},
+	{
+		"LABEL": "0xE3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She saw the ring I'm holding."
+	},
+	{
+		"LABEL": "0xE6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was sure I had put it in my pocket, but it seems I had just started rolling it around in my hand. "
+	},
+	{
+		"LABEL": "0xECD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow, involuntary movement is scary..."
+	},
+	{
+		"LABEL": "0xEFE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Still, what a situation..."
+	},
+	{
+		"LABEL": "0xF38",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x115C",
+				"STRING": "Here's your ring back."
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xF7F",
+				"STRING": "Uh, you must be mistaken...!"
+			}
+		]
+	},
+	{
+		"LABEL": "0xFD5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xFE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No sir, there is no mistake. It is... It is quite important. Please sir, can you return it to me?"
+	},
+	{
+		"LABEL": "0x1060",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x115C",
+				"STRING": "Fine, here it is."
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x1097",
+				"STRING": "Do I get a finder's fee?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x10ED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x10FD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, yes, of course. I will be sure to thank you, even if it should cost me my life...!"
+	},
+	{
+		"LABEL": "0x11B2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x11C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you, kind sir!"
+	},
+	{
+		"LABEL": "0x1211",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1221",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This ring is my most treasured possession... When I realized I lost it, I was at a loss as to what to do."
+	},
+	{
+		"LABEL": "0x12A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x12B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Truly, I am glad you found it."
+	},
+	{
+		"LABEL": "0x1349",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1359",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, please forgive me. I forgot to introduce myself."
+	},
+	{
+		"LABEL": "0x13AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x13BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My name is Nenene. Please, call me Nenene."
+	},
+	{
+		"LABEL": "0x1467",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1477",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is your name...? If you have no objection, could you tell me?"
+	},
+	{
+		"LABEL": "0x1520",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x1530",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see... Itarou. It is a quite beautiful and wonderful name..."
+	},
+	{
+		"LABEL": "0x15E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x15F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This may be sudden, but may I return my thanks later?"
+	},
+	{
+		"LABEL": "0x16B6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x16C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I apologize; there is another matter I must attend... This cannot wait."
+	},
+	{
+		"LABEL": "0x173C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene and I exchange our contact information."
+	},
+	{
+		"LABEL": "0x1796",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the very first time I got a woman's contact information."
+	},
+	{
+		"LABEL": "0x182F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x183F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you again. I am sure I will have more time at a later date."
+	},
+	{
+		"LABEL": "0x189C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x18AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please wait until then. I, Nenene, will never forget your kindness today!"
+	},
+	{
+		"LABEL": "0x195B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x196B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well then, I must be off. Please, excuse me."
+	},
+	{
+		"LABEL": "0x19C8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x19D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Goodbye, Itarou."
+	},
+	{
+		"LABEL": "0x1A51",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The woman, who introduced herself as Nenene, finished her greeting and quickly left."
+	},
+	{
+		"LABEL": "0x1AAA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now, "
+	},
+	{
+		"LABEL": "0x1ACF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have to go home too..."
+	},
+	{
+		"LABEL": "0x1C5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today went better than expected."
+	},
+	{
+		"LABEL": "0x1CA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To think I would want to throw my life away so carelessly..."
+	},
+	{
+		"LABEL": "0x1CEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was pretty pleased when I picked up an expensive-looking ring, and then a cute woman thanked me, and we even exchanged our contact information!"
+	},
+	{
+		"LABEL": "0x1D6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I never thought I would meet such a wealthy looking young lady...! "
+	},
+	{
+		"LABEL": "0x1DC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is a huge opportunity in so many ways."
+	},
+	{
+		"LABEL": "0x1E06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could not believe my incredible luck today."
+	},
+	{
+		"LABEL": "0x1E4A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The thought of this being a fated encounter crosses my mind."
+	},
+	{
+		"LABEL": "0x1EA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'Itarou, do you have free time soon? Would you like to have a meal together?'"
+	},
+	{
+		"LABEL": "0x1F22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could see the message from Nenene on my smartphone."
+	},
+	{
+		"LABEL": "0x1F80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My heart fluttered at the thought of seeing her again so soon."
+	},
+	{
+		"LABEL": "0x1FE6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now, it's time to sleep."
+	},
+	{
+		"LABEL": "0x2022",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Good night..."
+	},
+	{
+		"LABEL": "0x220E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Love is freedom."
+	},
+	{
+		"LABEL": "0x2248",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to believe that I am free."
+	},
+	{
+		"LABEL": "0x2284",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Unfortunately for me, such an ideal is not assured."
+	},
+	{
+		"LABEL": "0x22EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is not natural to fall in love with the one you are chosen to marry."
+	},
+	{
+		"LABEL": "0x234E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Much like a bird in a cage, there are some who cannot flap their wings at will."
+	},
+	{
+		"LABEL": "0x23A0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, you remain free to choose who you love."
+	},
+	{
+		"LABEL": "0x23EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if your partner is chosen for you, your heart remains yours."
+	},
+	{
+		"LABEL": "0x244E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No amount of power can force a person's heart."
+	},
+	{
+		"LABEL": "0x24AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if your body is sold to another, your mind will always be yours."
+	},
+	{
+		"LABEL": "0x2512",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know what I'm doing is wrong."
+	},
+	{
+		"LABEL": "0x255C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I should not think of you; I'm a bad girl."
+	},
+	{
+		"LABEL": "0x25BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But if I hide my feelings towards you, I will be forgiven."
+	},
+	{
+		"LABEL": "0x260A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will not be punished if I do not put it into words."
+	},
+	{
+		"LABEL": "0x2664",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As for what I can do..."
+	},
+	{
+		"LABEL": "0x26A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I shall resolve all the misfortunes that befall you."
+	},
+	{
+		"LABEL": "0x2708",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You saved me from certain death."
+	},
+	{
+		"LABEL": "0x274E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why, even if this body is no longer my own, I will repay your kindness."
+	},
+	{
+		"LABEL": "0x27A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if I lose everything, I will protect you."
+	},
+	{
+		"LABEL": "0x280A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you."
+	},
+	{
+		"LABEL": "0x29BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, I have a date with Nenene."
+	},
+	{
+		"LABEL": "0x2A07",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't want to keep her waiting."
+	},
+	{
+		"LABEL": "0x2A4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I need to hurry - I have to reach the agreed-upon meeting spot quickly."
+	},
+	{
+		"LABEL": "0x2AA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But."
+	},
+	{
+		"LABEL": "0x2AD9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The upperclassman decided to bully me again."
+	},
+	{
+		"LABEL": "0x2B2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was taken aback because I never expected to be approached at a time like this."
+	},
+	{
+		"LABEL": "0x2B9D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was the usual extortion. Now my face and body are covered in bruises."
+	},
+	{
+		"LABEL": "0x2BF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's even worse is that I got bruised in a very obvious place..."
+	},
+	{
+		"LABEL": "0x2C4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh no, will I have to meet with Nenene like this from now on?"
+	},
+	{
+		"LABEL": "0x2CA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't want to show a woman that I got beaten up... It makes me feel terrible."
+	},
+	{
+		"LABEL": "0x2D15",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Dragging my injured body, I head to the designated location."
+	},
+	{
+		"LABEL": "0x2D6B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I look at my watch, I see the meeting time has already passed."
+	},
+	{
+		"LABEL": "0x2DC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No... She must have gone home by now, upset over my absence."
+	},
+	{
+		"LABEL": "0x2E21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no way she's still there..."
+	},
+	{
+		"LABEL": "0x2EE4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...!!!"
+	},
+	{
+		"LABEL": "0x2F18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's still here."
+	},
+	{
+		"LABEL": "0x2F5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene is waiting."
+	},
+	{
+		"LABEL": "0x2F9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Waiting for me like this... So much time has passed, and you're still here."
+	},
+	{
+		"LABEL": "0x3073",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x30EC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x30FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... Itarou...?"
+	},
+	{
+		"LABEL": "0x313F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x314F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, what happened!? You're hurt!!"
+	},
+	{
+		"LABEL": "0x31A5",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x31F4",
+				"STRING": "I fell a bit badly..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x31F4",
+				"STRING": "It's nothing major."
+			}
+		]
+	},
+	{
+		"LABEL": "0x324A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x325A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, it looks like someone punched you! Who in the world did this!?"
+	},
+	{
+		"LABEL": "0x32CD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x32DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, please, do not hide it. I know when people lie."
+	},
+	{
+		"LABEL": "0x3340",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3350",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I beg you... Could you please tell Nenene the truth?"
+	},
+	{
+		"LABEL": "0x33D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not like I have to protect my pride as a man anymore."
+	},
+	{
+		"LABEL": "0x342A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After some hesitation, I gave Nenene the details."
+	},
+	{
+		"LABEL": "0x3478",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Blatant lies would only insult her."
+	},
+	{
+		"LABEL": "0x34D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And if Nenene can be satisfied if I speak honestly..."
+	},
+	{
+		"LABEL": "0x3575",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3585",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Oh, I see. So, he is an upperclassman in your club..."
+	},
+	{
+		"LABEL": "0x35D6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x35E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And you always have to go through such terrible things? It is so terrible...! I cannot forgive him."
+	},
+	{
+		"LABEL": "0x3653",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3663",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There is nothing wrong with you, Itarou! Why would he treat you this way?"
+	},
+	{
+		"LABEL": "0x3710",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3720",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, they are such a terrible wounds... Poor Itarou... I feel sorry for you..."
+	},
+	{
+		"LABEL": "0x3799",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x37A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I could, I would like to take your place... I am sorry I cannot help you in your day to day."
+	},
+	{
+		"LABEL": "0x386A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x387A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please wait here a moment, I will call a car. The hospital will help."
+	},
+	{
+		"LABEL": "0x38F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No! She doesn't need to go that far...!!"
+	},
+	{
+		"LABEL": "0x3934",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene tried to make a phone call, but I hurried over to stop her."
+	},
+	{
+		"LABEL": "0x3985",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Going to the hospital is blowing this way out of proportion! "
+	},
+	{
+		"LABEL": "0x39C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It would be embarrassing to see the doctor just because you got beaten."
+	},
+	{
+		"LABEL": "0x3A5F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3A6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Are you sure you are okay? You must not leave yourself injured like this..."
+	},
+	{
+		"LABEL": "0x3ADA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3AEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It would be terrible if scars were left on Itarou's handsome face!"
+	},
+	{
+		"LABEL": "0x3B91",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3BA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please, allow me to disinfect it; we cannot allow bacteria in."
+	},
+	{
+		"LABEL": "0x3C36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We decided to sit down on a bench in a nearby park."
+	},
+	{
+		"LABEL": "0x3C92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene took out a small first aid kit from her bag and got to work."
+	},
+	{
+		"LABEL": "0x3D5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then..."
+	},
+	{
+		"LABEL": "0x3DD4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As planned, Nenene and I went to a restaurant to eat."
+	},
+	{
+		"LABEL": "0x3E2E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She brought me to a very fancy French restaurant."
+	},
+	{
+		"LABEL": "0x3E86",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow! I've never been to a place like this before..."
+	},
+	{
+		"LABEL": "0x3F22",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3F32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is a unique French dish prepared by our resident first-rate chef. Do you like it, Itarou?"
+	},
+	{
+		"LABEL": "0x3FA3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x3FB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is Father's hobby - he likes to incorporate Japanese taste. We also only use ingredients procured domestically."
+	},
+	{
+		"LABEL": "0x4080",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4090",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe, you do not need to worry about manners. This establishment is run by a family member, so only friends come here."
+	},
+	{
+		"LABEL": "0x4167",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4177",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, I wish to tell you again... Thank you for picking up my ring the other day."
+	},
+	{
+		"LABEL": "0x4238",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4248",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You helped me more than you know. The ring is a gift from my late mother."
+	},
+	{
+		"LABEL": "0x42C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I spot the one carat diamond ring on her finger."
+	},
+	{
+		"LABEL": "0x4320",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see... So it's a memento from your mother..."
+	},
+	{
+		"LABEL": "0x4370",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It has great personal significance, so buying another one would be unacceptable."
+	},
+	{
+		"LABEL": "0x43DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So if I didn't think to pick it up back then... I shudder to think what would have happened."
+	},
+	{
+		"LABEL": "0x4450",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was just a coincidence, but I'm very glad I picked it up..."
+	},
+	{
+		"LABEL": "0x44E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x44F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know how I could possibly express my gratitude, Itarou... How can I repay you?"
+	},
+	{
+		"LABEL": "0x4578",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4588",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What would you like, Itarou? Cash? Delicious treats? Status... or... power?"
+	},
+	{
+		"LABEL": "0x4647",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4657",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will grant you anything you wish. Do not hesitate to ask something of Nenene."
+	},
+	{
+		"LABEL": "0x46DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If she's willing to do all of that, I'm sure I can think of something..."
+	},
+	{
+		"LABEL": "0x472F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I tell her to let me think for a moment."
+	},
+	{
+		"LABEL": "0x47C4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x47D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, of course, as long as you wish. It doesn't matter when you make decision."
+	},
+	{
+		"LABEL": "0x488F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x489F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If it is for you, I will do anything! I am fully prepared to hear what you have to say."
+	},
+	{
+		"LABEL": "0x4956",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4966",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Though if you wish... you can accept me as your wife..."
+	},
+	{
+		"LABEL": "0x49EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Really!?"
+	},
+	{
+		"LABEL": "0x4A1C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She would even be willing to do something like that!?"
+	},
+	{
+		"LABEL": "0x4A64",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I mean, first of all, we're in completely different worlds!"
+	},
+	{
+		"LABEL": "0x4AC2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seeing my flustered state, she smiles happily."
+	},
+	{
+		"LABEL": "0x4B63",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4B73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe. Your shyness is so wonderful. Your humbleness is but one of your many charms."
+	},
+	{
+		"LABEL": "0x4BEA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4BFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That may be the reason I am so attracted to you..."
+	},
+	{
+		"LABEL": "0x4CAF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4CBF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are so much better than you think you are... Please, believe in yourself."
+	},
+	{
+		"LABEL": "0x4D82",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4D92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you don't mind me asking, what club are you in?"
+	},
+	{
+		"LABEL": "0x4DEE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What club am I in?"
+	},
+	{
+		"LABEL": "0x4E1F",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 8,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x4E58",
+				"STRING": "Soccer Club."
+			},
+			{
+				"UNK0": 1,
+				"ID": 9,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x50BB",
+				"STRING": "Basketball Club."
+			}
+		]
+	},
+	{
+		"LABEL": "0x4EAE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4EBE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, that's a classic one! I admire being able to play ball games."
+	},
+	{
+		"LABEL": "0x4F5D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x4F6D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am not very skilled at ball-based games. I don't consider myself devoted to exercise, but..."
+	},
+	{
+		"LABEL": "0x5028",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x5038",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I may be able to improve if you teach me! If you don't mind, please, teach me soccer next time!"
+	},
+	{
+		"LABEL": "0x5111",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x5121",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, Itarou... You play basketball?"
+	},
+	{
+		"LABEL": "0x51C8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x51D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Father has a collection from when he was young. I'm not sure, but..."
+	},
+	{
+		"LABEL": "0x52A5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x52B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You should come and visit us. I would love to show you!"
+	},
+	{
+		"LABEL": "0x5370",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had a really good time talking with Nenene."
+	},
+	{
+		"LABEL": "0x53B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eating out with her is fun... Being in this restaurant was a bit daunting, but it was a very good time."
+	},
+	{
+		"LABEL": "0x5426",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe there's a future that we can't even imagine waiting ahead."
+	},
+	{
+		"LABEL": "0x5496",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't help but imagine what sort of future she and I will spend together."
+	},
+	{
+		"LABEL": "0x54F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it, I didn't even care that I got beaten earlier that day."
+	},
+	{
+		"LABEL": "0x5562",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so, the time just flew by..."
+	},
+	{
+		"LABEL": "0x573D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was a great day despite what happened early on..."
+	},
+	{
+		"LABEL": "0x5793",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was late, but I'm glad I went."
+	},
+	{
+		"LABEL": "0x57DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm glad Nenene was waiting for me."
+	},
+	{
+		"LABEL": "0x582B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was nervous about being alone with a woman, but the food we ate was delicious!"
+	},
+	{
+		"LABEL": "0x58A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I get more involved, I feel myself getting attracted to her."
+	},
+	{
+		"LABEL": "0x58FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... I'm a little bit scared."
+	},
+	{
+		"LABEL": "0x592F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if it's alright for me to fall in love with someone like her."
+	},
+	{
+		"LABEL": "0x5989",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm scared because I don't have much confidence."
+	},
+	{
+		"LABEL": "0x59D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'You are so much better than you think you are... Please, believe in yourself.'"
+	},
+	{
+		"LABEL": "0x5A51",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Easier said than done."
+	},
+	{
+		"LABEL": "0x5AA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No! "
+	},
+	{
+		"LABEL": "0x5AC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, no, no! "
+	},
+	{
+		"LABEL": "0x5AF3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's wrong!"
+	},
+	{
+		"LABEL": "0x5B23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm way more pathetic than she thinks..."
+	},
+	{
+		"LABEL": "0x5B89",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I shook my head, scared of the implications of falling in love with her."
+	},
+	{
+		"LABEL": "0x5BE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know why I feel an urge to back out, but..."
+	},
+	{
+		"LABEL": "0x5C3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Rather than having wonderful fantasies, terrifying thoughts enter my mind."
+	},
+	{
+		"LABEL": "0x5C95",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know who I am... I can't possibly be with someone with Nenene's status."
+	},
+	{
+		"LABEL": "0x5CF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm just an average guy... I can't possibly do it."
+	},
+	{
+		"LABEL": "0x5F01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will not forgive him."
+	},
+	{
+		"LABEL": "0x5F2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why would such a kind-hearted person be treated in such a way?"
+	},
+	{
+		"LABEL": "0x5F7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There is no logical reason as to why you should be hurt."
+	},
+	{
+		"LABEL": "0x5FD7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will remove the threat he poses."
+	},
+	{
+		"LABEL": "0x601D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For you to live. I hope you will be happier."
+	},
+	{
+		"LABEL": "0x606C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will never adjust to such sad eyes. "
+	},
+	{
+		"LABEL": "0x60AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hope to never see you shed a tear again."
+	},
+	{
+		"LABEL": "0x6186",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6196",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I must apologize. I hold no personal grudge against you... but I have no choice."
+	},
+	{
+		"LABEL": "0x6203",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6213",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You, the nuisance giving him such a hard time, will be eliminated."
+	},
+	{
+		"LABEL": "0x626D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will remove anything that makes you scared."
+	},
+	{
+		"LABEL": "0x62B6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x62C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, my Dear... All of this is for you."
+	},
+	{
+		"LABEL": "0x64BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What I learned the next morning came to me as a shock."
+	},
+	{
+		"LABEL": "0x650E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It seems the upperclassman bullying me has passed away..."
+	},
+	{
+		"LABEL": "0x655A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know the details, but that jerk is finally gone..."
+	},
+	{
+		"LABEL": "0x65B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And I know I will never see him again. That much is obvious."
+	},
+	{
+		"LABEL": "0x6628",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm glad... I don't know what to say, though I shouldn't be happy over someone's death."
+	},
+	{
+		"LABEL": "0x669E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But, I'm sure my fear will be gone now..."
+	},
+	{
+		"LABEL": "0x66EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My classmates say the upperclassman's family had a huge amount of debt."
+	},
+	{
+		"LABEL": "0x674C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because of that, one of the debt collectors must have killed him."
+	},
+	{
+		"LABEL": "0x67AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Rumors aside..."
+	},
+	{
+		"LABEL": "0x6834",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After school, I am to meet with Nenene alone."
+	},
+	{
+		"LABEL": "0x68DE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x68EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um... Itarou? I would like to ask you something."
+	},
+	{
+		"LABEL": "0x698F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x699F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am thinking of going to the movie theater. Have you ever been there, Itarou?"
+	},
+	{
+		"LABEL": "0x6A4A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6A5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am ashamed to say I have never been there. I have been hoping to see a movie, even once."
+	},
+	{
+		"LABEL": "0x6AE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see, so it's my turn to bring her somewhere? I haven't seen a movie since I was a kid with my parents."
+	},
+	{
+		"LABEL": "0x6BA5",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 10,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x6BF0",
+				"STRING": "Let's go see one together!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 11,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x6ED9",
+				"STRING": "You're paying, right?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x6C01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I nodded proudly, Nenene's face brightened."
+	},
+	{
+		"LABEL": "0x6CA0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6CB0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you so much! I thought it would be lonely to go by myself... I'm sure I'll be able to rely on you, Itarou!"
+	},
+	{
+		"LABEL": "0x6D85",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6D95",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sorry. I was supposed to be granting your wishes, but I made you invite me..."
+	},
+	{
+		"LABEL": "0x6E52",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6E62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I'm excited to spend time with you! Let's have some fun, Itarou!"
+	},
+	{
+		"LABEL": "0x6F2F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x6F3F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, of course! Don't worry about money!"
+	},
+	{
+		"LABEL": "0x6FF0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7000",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're going on the date due to my selfishness, so it's only natural."
+	},
+	{
+		"LABEL": "0x70E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As for the movie we saw..."
+	},
+	{
+		"LABEL": "0x7119",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'Rampaging kaiju have appeared, causing panic in the city! What will become of humanity?'"
+	},
+	{
+		"LABEL": "0x7199",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was about that."
+	},
+	{
+		"LABEL": "0x71D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't really get the interest in it, but I guess people like that stuff these days."
+	},
+	{
+		"LABEL": "0x724D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the darkness, as we watch the movie..."
+	},
+	{
+		"LABEL": "0x7293",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The hands of Nenene and I touch."
+	},
+	{
+		"LABEL": "0x72D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though it's the sort of scene you see in romance movies, it still melts my heart."
+	},
+	{
+		"LABEL": "0x738F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x739F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah...!! Pardon me, I got a bit excited..."
+	},
+	{
+		"LABEL": "0x742D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene feels the same way."
+	},
+	{
+		"LABEL": "0x7471",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wouldn't express it in words, but still... I have room to imagine lots of things."
+	},
+	{
+		"LABEL": "0x74F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene, I wonder what you think of me."
+	},
+	{
+		"LABEL": "0x7547",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And as for me..."
+	},
+	{
+		"LABEL": "0x758B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is it really okay to fall in love with you?"
+	},
+	{
+		"LABEL": "0x7665",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7675",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, look! This movie is amazing! It looks like the kaiju is actually popping out of the screen!"
+	},
+	{
+		"LABEL": "0x773E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x774E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe, I'm so happy to be watching a movie with Itarou! I'm so happy!"
+	},
+	{
+		"LABEL": "0x7819",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene raises her voice in excitement like a giddy child."
+	},
+	{
+		"LABEL": "0x7871",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At first, it looks like her excitment is continuing to rise, but..."
+	},
+	{
+		"LABEL": "0x78CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She looks so lonely... It looks so painful."
+	},
+	{
+		"LABEL": "0x7913",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Should I say something?"
+	},
+	{
+		"LABEL": "0x7954",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's probably unnecessary, but... I want to say something."
+	},
+	{
+		"LABEL": "0x79AD",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 12,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x79F6",
+				"STRING": "You look lonely..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 13,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x79F6",
+				"STRING": "Is something worrying you?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x7A4C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7A5C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... Um..."
+	},
+	{
+		"LABEL": "0x7AE1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7AF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha. Even if I try to hide it from you, Itarou, you found out right away...?"
+	},
+	{
+		"LABEL": "0x7BA4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7BB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm happy that you look at me with such care..."
+	},
+	{
+		"LABEL": "0x7C61",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7C71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I apologize, Itarou. I'll tell you everything."
+	},
+	{
+		"LABEL": "0x7D14",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7D24",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm... going to be married soon."
+	},
+	{
+		"LABEL": "0x7DB9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7DC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You probably know Father is the president of a major company."
+	},
+	{
+		"LABEL": "0x7E7C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7E8C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Father is going to marry me to someone else, for political reasons."
+	},
+	{
+		"LABEL": "0x7F43",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x7F53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course, this marriage has been decided. I have no power to change it."
+	},
+	{
+		"LABEL": "0x801C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x802C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Actually... do you remember the night I met you, Itarou? I ran away from the meeting place."
+	},
+	{
+		"LABEL": "0x80EB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x80FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I ran, I dropped Mother's ring. I looked so hard, and then you found it."
+	},
+	{
+		"LABEL": "0x81DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "............"
+	},
+	{
+		"LABEL": "0x8214",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x8224",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I apologize, Itarou, that I've been hiding it up until now."
+	},
+	{
+		"LABEL": "0x8284",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 14,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x82CB",
+				"STRING": "And what do you want, Nenene?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 15,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0x82CB",
+				"STRING": "Do you want to get married?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x8321",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x8331",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... cannot marry the person Father chose for me."
+	},
+	{
+		"LABEL": "0x83DA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x83EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Someone to spend the rest of my life with... I wish to find him myself!"
+	},
+	{
+		"LABEL": "0x8495",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x84A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You live just once. To think I would leave my decisions to someone else... I will not do that!"
+	},
+	{
+		"LABEL": "0x8520",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x8530",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want no regrets. I want to be married with someone I truly love."
+	},
+	{
+		"LABEL": "0x85E3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x85F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But there is no hope of escape. There may be nothing I can do about it now..."
+	},
+	{
+		"LABEL": "0x86AE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x86BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I apologize; as I said this to you, I feared it would only trouble you..."
+	},
+	{
+		"LABEL": "0x8775",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x8785",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But thank you for listening, Itarou."
+	},
+	{
+		"LABEL": "0x882E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x883E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Simply having someone to listen to my worries makes me feel better."
+	},
+	{
+		"LABEL": "0x892B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When the date was over, Nenene brought me back home in her limo."
+	},
+	{
+		"LABEL": "0x899B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thank her for today and leave the vehicle."
+	},
+	{
+		"LABEL": "0x89E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I waved my hand, and she waved back."
+	},
+	{
+		"LABEL": "0x8A7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But the woman I saw behind the window was..."
+	},
+	{
+		"LABEL": "0x8ABC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She just had such... a lonely look on her face."
+	},
+	{
+		"LABEL": "0x8C89",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh, it's so hard to sleep..."
+	},
+	{
+		"LABEL": "0x8CBF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The room wasn't stuffy tonight, but I still had a hard time sleeping regardless."
+	},
+	{
+		"LABEL": "0x8D1B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is it because I'm puzzled by Nenene's shocking confession?"
+	},
+	{
+		"LABEL": "0x8D73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What could I do for her?"
+	},
+	{
+		"LABEL": "0x8DB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is there anything at all I can do?"
+	},
+	{
+		"LABEL": "0x8E01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I heard that Nenene is going to be married, I finally understood my feelings."
+	},
+	{
+		"LABEL": "0x8E6D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love Nenene."
+	},
+	{
+		"LABEL": "0x8EB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to be thought of in a good light... I wanted her to like me even though I was so uncool."
+	},
+	{
+		"LABEL": "0x8F18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I just said what she wanted to hear. "
+	},
+	{
+		"LABEL": "0x8F61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am a hypocrite."
+	},
+	{
+		"LABEL": "0x8F93",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thought all I could do was just listen to what she had to say."
+	},
+	{
+		"LABEL": "0x8FF5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She listened to my problems, and now those are resolved."
+	},
+	{
+		"LABEL": "0x905B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But as I listened to her problems, I realized there's very little I can do."
+	},
+	{
+		"LABEL": "0x90A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so helpless! "
+	},
+	{
+		"LABEL": "0x90DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Surely there must be something, but I can't think of anything!"
+	},
+	{
+		"LABEL": "0x9111",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She knows this, which is probably why she kept it to herself."
+	},
+	{
+		"LABEL": "0x917B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Honestly, I'm such a massive idiot."
+	},
+	{
+		"LABEL": "0x91C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know it's impossible, but I still want to think about the future..."
+	},
+	{
+		"LABEL": "0x9223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what I should do."
+	},
+	{
+		"LABEL": "0x9265",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please, someone tell me what to do..."
+	},
+	{
+		"LABEL": "0x945B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am not insane."
+	},
+	{
+		"LABEL": "0x949D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You are always smiling at the center of my world."
+	},
+	{
+		"LABEL": "0x94F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even with your feeble smile, you forgive me for everything."
+	},
+	{
+		"LABEL": "0x954F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You look straight at me, needing me."
+	},
+	{
+		"LABEL": "0x95A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder when I started..."
+	},
+	{
+		"LABEL": "0x95DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...having those delusions..."
+	},
+	{
+		"LABEL": "0x9625",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "............"
+	},
+	{
+		"LABEL": "0x9665",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a dark world, you appear, and lead me out, holding my hand."
+	},
+	{
+		"LABEL": "0x96C9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder when I started..."
+	},
+	{
+		"LABEL": "0x96FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...having those dreams..."
+	},
+	{
+		"LABEL": "0x973E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x974E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You, and only you... can see what I truly am."
+	},
+	{
+		"LABEL": "0x97AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You told me what I want to hear, and you are kind to me."
+	},
+	{
+		"LABEL": "0x9800",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You recognize and understand my true nature."
+	},
+	{
+		"LABEL": "0x984E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder when I started..."
+	},
+	{
+		"LABEL": "0x9884",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...having trouble with distuinguishing between delusion and reality..."
+	},
+	{
+		"LABEL": "0x98C9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0x98D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It is all for you... I dedicate my whole life to you!"
+	},
+	{
+		"LABEL": "0x9AB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since that day, I have had no contact with Nenene."
+	},
+	{
+		"LABEL": "0x9B0B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Every message I send gets no reply."
+	},
+	{
+		"LABEL": "0x9B51",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Usually, I would get an answer in an hour or two."
+	},
+	{
+		"LABEL": "0x9BB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But now, more than a week has passed since the last time we talked."
+	},
+	{
+		"LABEL": "0x9C11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what happened. Did something happen?"
+	},
+	{
+		"LABEL": "0x9C5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe she just hates me..."
+	},
+	{
+		"LABEL": "0x9C97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is it my fault?"
+	},
+	{
+		"LABEL": "0x9CD3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Should I have said something witty?"
+	},
+	{
+		"LABEL": "0x9D23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or maybe I should have tried to express my feelings better?"
+	},
+	{
+		"LABEL": "0x9D7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I really want to meet Nenene again."
+	},
+	{
+		"LABEL": "0x9DB0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what she's doing now? "
+	},
+	{
+		"LABEL": "0x9DF3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did she get married yet?"
+	},
+	{
+		"LABEL": "0x9E39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did she really end up marrying someone she doesn't like?"
+	},
+	{
+		"LABEL": "0x9E93",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm alone in a dark room."
+	},
+	{
+		"LABEL": "0x9ECF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I turned off the lights and waited for her to contact me..."
+	},
+	{
+		"LABEL": "0x9F23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But reality is cruel. I have waited so long, but nothing comes."
+	},
+	{
+		"LABEL": "0x9F7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Originally, I felt lonely."
+	},
+	{
+		"LABEL": "0x9FC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now that she's gone, I feel truly alone."
+	},
+	{
+		"LABEL": "0xA01D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene... Nenene..."
+	},
+	{
+		"LABEL": "0xA063",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to feel the warmth of your hand again."
+	},
+	{
+		"LABEL": "0xA0AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to feel Nenene's warmth again."
+	},
+	{
+		"LABEL": "0xA0FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "While thinking about this, I was dumbfounded."
+	},
+	{
+		"LABEL": "0xA155",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Suddenly, my smartphone jumped to life."
+	},
+	{
+		"LABEL": "0xA1A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked at the screen in a hurry, and I saw..."
+	},
+	{
+		"LABEL": "0xA1EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A familiar name was there."
+	},
+	{
+		"LABEL": "0xA235",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The message I was waiting for... It's from Nenene."
+	},
+	{
+		"LABEL": "0xA28F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "'I'm waiting where we first met.'"
+	},
+	{
+		"LABEL": "0xA2D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I get on my bike and head over immediately."
+	},
+	{
+		"LABEL": "0xA3F1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She is waiting where we first met."
+	},
+	{
+		"LABEL": "0xA447",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With a somewhat blank expression on her face, she looks rather lonely..."
+	},
+	{
+		"LABEL": "0xA507",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA517",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah...! Itarou!"
+	},
+	{
+		"LABEL": "0xA5A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA5B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You came! I missed you so much, Itarou!!"
+	},
+	{
+		"LABEL": "0xA65B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA66B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sorry... We met so late. It must have been a nuisance."
+	},
+	{
+		"LABEL": "0xA718",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA728",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I'm really happy you came to see me..."
+	},
+	{
+		"LABEL": "0xA792",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene continued to talk with tears in her eyes, on the verge of crying."
+	},
+	{
+		"LABEL": "0xA837",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA847",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I apologize for not getting in touch with you sooner."
+	},
+	{
+		"LABEL": "0xA8A3",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 16,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xA8FA",
+				"STRING": "What happened!?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 17,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xA8FA",
+				"STRING": "You idiot! Why didn't you contact me...?"
+			}
+		]
+	},
+	{
+		"LABEL": "0xA950",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xA960",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm really sorry, Itarou... How should I apologize..."
+	},
+	{
+		"LABEL": "0xAA21",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAA31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm going to get married and leave home tomorrow..."
+	},
+	{
+		"LABEL": "0xAA8C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAA9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is my final day in the city. So, I thought I would meet with you, Itarou."
+	},
+	{
+		"LABEL": "0xAB6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAB7B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you for your help up until now. This will be probably the last time I can talk with you."
+	},
+	{
+		"LABEL": "0xAC40",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAC50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...It's so sudden, isn't it? I don't know what else to say..."
+	},
+	{
+		"LABEL": "0xACB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A single tear fell from Nenene's eyes."
+	},
+	{
+		"LABEL": "0xAD0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene... is really going to be married."
+	},
+	{
+		"LABEL": "0xAD5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So today is the last day you can see me, huh..."
+	},
+	{
+		"LABEL": "0xADED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xADFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou. It is the final time... Will you listen to my selfish request?"
+	},
+	{
+		"LABEL": "0xAEBC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAECC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I will be just talking to myself. Don't listen if you don't want to."
+	},
+	{
+		"LABEL": "0xAF38",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 18,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xAF6F",
+				"STRING": "I understand..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 19,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xAF6F",
+				"STRING": "Listen to her"
+			}
+		]
+	},
+	{
+		"LABEL": "0xAFC5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xAFD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you. In that case..."
+	},
+	{
+		"LABEL": "0xB064",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB074",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, please..."
+	},
+	{
+		"LABEL": "0xB10B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB11B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please take me away."
+	},
+	{
+		"LABEL": "0xB1A6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB1B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Take me somewhere far away. Outside of Father's sight. Where no one can follow us."
+	},
+	{
+		"LABEL": "0xB277",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB287",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want you, Itarou! Itarou, I must be with you!"
+	},
+	{
+		"LABEL": "0xB33E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB34E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have been thinking so much about you. Only you."
+	},
+	{
+		"LABEL": "0xB3F5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB405",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When my freedom was taken, I became aware of my true feelings..."
+	},
+	{
+		"LABEL": "0xB470",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB480",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wish to be with you..."
+	},
+	{
+		"LABEL": "0xB523",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB533",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I could have one wish come true, I would want to be with you forever..."
+	},
+	{
+		"LABEL": "0xB5E5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In that case..."
+	},
+	{
+		"LABEL": "0xB600",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 20,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xC8FB",
+				"STRING": "I cannot go with you..."
+			},
+			{
+				"UNK0": 1,
+				"ID": 21,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xB64D",
+				"STRING": "Go with me, Nenene!"
+			}
+		]
+	},
+	{
+		"LABEL": "0xB6C3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB6D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou..."
+	},
+	{
+		"LABEL": "0xB756",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB766",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou...!!"
+	},
+	{
+		"LABEL": "0xB7D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene cried, hugging me tightly."
+	},
+	{
+		"LABEL": "0xB830",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hug her as well, with both arms."
+	},
+	{
+		"LABEL": "0xB8BB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB8CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you so much, Itarou..."
+	},
+	{
+		"LABEL": "0xB90D",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 22,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xB94A",
+				"STRING": "I won't let you go anymore."
+			},
+			{
+				"UNK0": 1,
+				"ID": 23,
+				"UNK1": 5,
+				"JUMP_TO_LABEL": "0xB94A",
+				"STRING": "I love you too."
+			}
+		]
+	},
+	{
+		"LABEL": "0xB9A0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xB9B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... adore you Itarou...!"
+	},
+	{
+		"LABEL": "0xBA0D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBA1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Your calm heart... your kindness as you care for others..."
+	},
+	{
+		"LABEL": "0xBA6E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBA7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even the way your face smiles weakly from time to time is so cute... I love it."
+	},
+	{
+		"LABEL": "0xBAEB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBAFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love everything about you. Everything, everything!"
+	},
+	{
+		"LABEL": "0xBB9C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBBAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... But why?"
+	},
+	{
+		"LABEL": "0xBC3B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBC4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, Itarou. Can you hear me?"
+	},
+	{
+		"LABEL": "0xBC94",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBCA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Um... Well..."
+	},
+	{
+		"LABEL": "0xBD4F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBD5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Isn't that strange?"
+	},
+	{
+		"LABEL": "0xBD8E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBD9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did you realize, right? That I am the one who removed the obstacle who got in your way."
+	},
+	{
+		"LABEL": "0xBE1D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBE2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Originally, I just wanted to do it for you, Itarou. I wanted to help you live without difficulty."
+	},
+	{
+		"LABEL": "0xBEAC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBEBC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... But..."
+	},
+	{
+		"LABEL": "0xBF6D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xBF7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I feel really weird. I don't know what's going on... Something might be wrong with me."
+	},
+	{
+		"LABEL": "0xBFF8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC008",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sight of seeing people tremble, the flow of blood, the smell... The feeling of cutting flesh, the stimulation... I love it all!"
+	},
+	{
+		"LABEL": "0xC0D5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC0E5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I honestly thought it was fun to kill people! I know it's wrong, but... haha, hahahaha..."
+	},
+	{
+		"LABEL": "0xC164",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC174",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The best part is chasing and killing the ones that run away!"
+	},
+	{
+		"LABEL": "0xC1C9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC1D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Aha... The look on his face the moment I finally caught him... I loved it! Just remembering it makes me tremble with anticipation!"
+	},
+	{
+		"LABEL": "0xC2A8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC2B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... I... can't hold it back anymore!!"
+	},
+	{
+		"LABEL": "0xC4B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Where did we go wrong?"
+	},
+	{
+		"LABEL": "0xC4F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We should've run away together, to a place far away, living in secret..."
+	},
+	{
+		"LABEL": "0xC555",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I would work hard for her and care for her, and then we will one day have a child..."
+	},
+	{
+		"LABEL": "0xC5AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene's smile would be right beside me... But..."
+	},
+	{
+		"LABEL": "0xC611",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I dreamed of such a happy life... But how did it end up like this?"
+	},
+	{
+		"LABEL": "0xC68B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, I see. It's so obvious."
+	},
+	{
+		"LABEL": "0xC6CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I should have known. How could I have forgotten?"
+	},
+	{
+		"LABEL": "0xC721",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This world..."
+	},
+	{
+		"LABEL": "0xC7BC",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999This world is intensely cruel and unreasonable place."
+	},
+	{
+		"LABEL": "Custom1",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999BAD END『Awakening』"
+	},
+	{
+		"LABEL": "0xC971",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xC981",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Is that so? I understand."
+	},
+	{
+		"LABEL": "0xCA0E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCA1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If that is what Itarou wants, then I have no right to complain."
+	},
+	{
+		"LABEL": "0xCACF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCADF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I am truly grateful to you, Itarou."
+	},
+	{
+		"LABEL": "0xCB32",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCB42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was alone until you appeared. I was so lonely."
+	},
+	{
+		"LABEL": "0xCBEF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCBFF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since Mother died, Father hasn't been the same. I don't know what he's thinking anymore..."
+	},
+	{
+		"LABEL": "0xCC8A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCC9A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, I had no one else to rely on... I was troubled being by myself without being able to talk to anyone for so long."
+	},
+	{
+		"LABEL": "0xCD0D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCD1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's when I met you. Honestly, I think we were destined to meet."
+	},
+	{
+		"LABEL": "0xCDD2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCDE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You saved me from those dark days. You saved me from the brink of death."
+	},
+	{
+		"LABEL": "0xCE59",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCE69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I found the light that is you, I thought I could work hard and live again!"
+	},
+	{
+		"LABEL": "0xCEDC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCEEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you weren't there... I would have ended everything that day."
+	},
+	{
+		"LABEL": "0xCFA7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xCFB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Haha. It may sound silly when I say this... but it's true."
+	},
+	{
+		"LABEL": "0xD078",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD088",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You looked straight at me. You needed me."
+	},
+	{
+		"LABEL": "0xD0F3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD103",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That may not have been your intention, Itarou, but that alone made me feel saved."
+	},
+	{
+		"LABEL": "0xD1D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD1E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if it's a white lie you told me..."
+	},
+	{
+		"LABEL": "0xD293",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD2A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was saved by that lie."
+	},
+	{
+		"LABEL": "0xD332",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD342",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why... thank you, Itarou."
+	},
+	{
+		"LABEL": "0xD3B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene walks away from me slowly."
+	},
+	{
+		"LABEL": "0xD40C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She then stops some distance away."
+	},
+	{
+		"LABEL": "0xD49E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD4AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Goodbye... my beloved one."
+	},
+	{
+		"LABEL": "0xD54D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xD55D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was... happy."
+	},
+	{
+		"LABEL": "0xD5A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She pulls out a pistol and holds it to her forehead..."
+	},
+	{
+		"LABEL": "0xD7A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her body crumpled to the ground."
+	},
+	{
+		"LABEL": "0xD887",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It happened so quickly all I could do was watch."
+	},
+	{
+		"LABEL": "0xD8E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I stood there in shock, eyes wide open..."
+	},
+	{
+		"LABEL": "0xD94A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though Nenene's life ended right in front of me, "
+	},
+	{
+		"LABEL": "0xD99D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't do anything."
+	},
+	{
+		"LABEL": "0xD9D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her white dress was dyed red..."
+	},
+	{
+		"LABEL": "0xDA29",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I walk up to the 'red flower', no longer moving."
+	},
+	{
+		"LABEL": "0xDA75",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seeing her corpse, I could do nothing but smile."
+	},
+	{
+		"LABEL": "0xDADD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her appearance is beautiful, like a crimson anemone blooming."
+	},
+	{
+		"LABEL": "0xDB49",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Truly, a beautiful flower."
+	},
+	{
+		"LABEL": "0xDB8F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0xDC23",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000\"You're such a bad kid.\""
+	},
+	{
+		"LABEL": "0xDC88",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000When I muttered this..."
+	},
+	{
+		"LABEL": "0xDCE7",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C000I swear she laughed."
+	},
+	{
+		"LABEL": "Custom2",
+		"CMD": "85",
+		"MESSAGE_TYPE_ID": 70,
+		"STRING": "%C999HAPPY END『Anemone』"
+	},
+	{
+		"LABEL": "0xDED9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xDEE9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, Mom! This smells really good!"
+	},
+	{
+		"LABEL": "0xDF44",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xDF54",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What is this flower? What's it called?"
+	},
+	{
+		"LABEL": "0xDFB7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xDFCB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's an Anemone. Hehe, does Nenene like it too?"
+	},
+	{
+		"LABEL": "0xE030",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xE044",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's also your mother's favorite flower. It has a nice color, doesn't it?"
+	},
+	{
+		"LABEL": "0xE0E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE0F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah! It's so cute! Nenene loves this flower!"
+	},
+	{
+		"LABEL": "0xE1A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE1B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mom, look! These anemones look like Nenene!"
+	},
+	{
+		"LABEL": "0xE213",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "See, see! All three are good friends in the same pot!"
+	},
+	{
+		"LABEL": "0xE27A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xE28E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, yeah... It's Father, Mother, and little Nenene. The whole family blooming together."
+	},
+	{
+		"LABEL": "0xE301",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE311",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mom, will Nenene, you, and Dad be as good friends as these anemones?"
+	},
+	{
+		"LABEL": "0xE378",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE388",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We'll never be apart, right? We'll never be sad, right? We'll always be together, right?"
+	},
+	{
+		"LABEL": "0xE3FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xE411",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You don't need to worry about that. As long as we're together, we'll live happily ever after."
+	},
+	{
+		"LABEL": "0xE4D8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE4E8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yay! We'll always be together!"
+	},
+	{
+		"LABEL": "0xE53F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE54F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nenene loves you, Mommy!I love Daddy too!"
+	},
+	{
+		"LABEL": "0xE5BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xE5D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thanks. Mom and Dad love you too."
+	},
+	{
+		"LABEL": "0xE62F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Mother"
+	},
+	{
+		"LABEL": "0xE643",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Remember, we'll always be by your side. No matter what happens, we'll be watching over you."
+	},
+	{
+		"LABEL": "0xE754",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE764",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "M...om... Did you come to meet me...?"
+	},
+	{
+		"LABEL": "0xE7A1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE7B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did you really come to meet me...?"
+	},
+	{
+		"LABEL": "0xE850",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nenene"
+	},
+	{
+		"LABEL": "0xE860",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so... happy..."
+	},
+	{
+		"LABEL": "0xE953",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "ＴＨＡＮＫ　ＹＯＵ　ＦＯＲ　ＰＬＡＹＩＮＧ！！"
+	},
+	{
+		"LABEL": "0xE985",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 10,
+		"STRING": "Clear Password 5:『h』"
+	}
+]

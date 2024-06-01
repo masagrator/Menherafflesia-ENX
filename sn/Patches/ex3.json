@@ -1,0 +1,572 @@
+[
+	{
+		"LABEL": "0xCD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this dream, or reality?"
+	},
+	{
+		"LABEL": "0x16A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x17A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The boundaries between the two are blurred, leading to one possibility."
+	},
+	{
+		"LABEL": "0x213",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Another future for these women may have bloomed somewhere else."
+	},
+	{
+		"LABEL": "0x2BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x2CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's a fragment of Daffodil here. There's a crazy, human side to her."
+	},
+	{
+		"LABEL": "0x371",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x381",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's look into that fragment."
+	},
+	{
+		"LABEL": "0x5A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One day, I was attending a live concert."
+	},
+	{
+		"LABEL": "0x5F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's apparently a festival or some such, a large-scale event with a variety of bands and groups performing."
+	},
+	{
+		"LABEL": "0x66F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Looking around me, I saw lots of people holding flags and special shirts, dressed for the occasion."
+	},
+	{
+		"LABEL": "0x6EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, on the other hand, was dressed in my normal clothes."
+	},
+	{
+		"LABEL": "0x72A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hardly know any of the bands playing here. This is my first time attending one."
+	},
+	{
+		"LABEL": "0x7BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So what am I doing here...?"
+	},
+	{
+		"LABEL": "0x7FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x80D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, hey there. You're early, did I keep you waiting?"
+	},
+	{
+		"LABEL": "0x85F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked up at the voice calling to me."
+	},
+	{
+		"LABEL": "0x8F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There stood my favorite person... Ayume, as beautiful as ever."
+	},
+	{
+		"LABEL": "0xA4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The story begins a few weeks ago. I had been going to a bar to meet Ayume."
+	},
+	{
+		"LABEL": "0xB0E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xB1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh. Boy, you sure have a lot of patience."
+	},
+	{
+		"LABEL": "0xBB7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xBC7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I told you you shouldn't have come to see me... I guess it's true: Love is blind."
+	},
+	{
+		"LABEL": "0xC43",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZAyume, after telling me to not seek her out, suddenly returned to the bar."
+	},
+	{
+		"LABEL": "0xCBA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Apparently, Ayume knew I was still going there."
+	},
+	{
+		"LABEL": "0xD1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was a little hurt that she knew and ignored me, but I was quite happy to see her."
+	},
+	{
+		"LABEL": "0xDF4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xE04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why you look so happy? Like a little puppy."
+	},
+	{
+		"LABEL": "0xEA1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0xEB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Coming here means you still have feelings for me. In that case..."
+	},
+	{
+		"LABEL": "0xF69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ayume then brings her face close to mine."
+	},
+	{
+		"LABEL": "0xFC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Our eyes meet up perfectly. Oh, she's so close! This is making me nervous...!"
+	},
+	{
+		"LABEL": "0x107A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x108A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wow. You're blushing... So cute, boy."
+	},
+	{
+		"LABEL": "0x112B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x113B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll give you a reward for being such a brave boy - I'll give you a date."
+	},
+	{
+		"LABEL": "0x11A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Eh?"
+	},
+	{
+		"LABEL": "0x12BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...And so, we arrive to the present."
+	},
+	{
+		"LABEL": "0x12FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I never thought I'd get to date Ayume! I should make the most of this opportunity!"
+	},
+	{
+		"LABEL": "0x136E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've never been to a concert, but now it's like a theme park! I'm so excited!"
+	},
+	{
+		"LABEL": "0x1440",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1450",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You look like you have fun, boy. Are you that happy to date me?"
+	},
+	{
+		"LABEL": "0x14F1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1501",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... don't forget your promise, okay? After today's date, you're not going to get involved with me anymore."
+	},
+	{
+		"LABEL": "0x157D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Oh, that's right. This date was possible because I accepted her promise."
+	},
+	{
+		"LABEL": "0x15EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After today, I will never see Ayume again."
+	},
+	{
+		"LABEL": "0x1641",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if I refuse, there's no guarantee I'll see Ayume in the future."
+	},
+	{
+		"LABEL": "0x16B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why... I accepted her offer."
+	},
+	{
+		"LABEL": "0x1713",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But why here, at a live concert?"
+	},
+	{
+		"LABEL": "0x175B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure there were other places."
+	},
+	{
+		"LABEL": "0x17EC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x17FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ordinary places are fun too, but I thought I might as well let my boy know about the things I like. ...Or was it no a good idea?"
+	},
+	{
+		"LABEL": "0x1892",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, that mocking superiority again...!"
+	},
+	{
+		"LABEL": "0x18E0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I make sure to tell her I'm happy to know."
+	},
+	{
+		"LABEL": "0x1999",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x19A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm glad to hear that! I'll tell you about the performers, so don't worry about the people around you, and just enjoy yourself, okay?"
+	},
+	{
+		"LABEL": "0x1A2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ayume told me, while smiling."
+	},
+	{
+		"LABEL": "0x1A8B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hm? I'm sure I've seen Ayume smile before, but this one was different than the ones she's had before."
+	},
+	{
+		"LABEL": "0x1B60",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1B70",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, it's about it start. The first band is―"
+	},
+	{
+		"LABEL": "0x1C5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ayume gives me a commentary on the performers."
+	},
+	{
+		"LABEL": "0x1CA8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...And then the live show began."
+	},
+	{
+		"LABEL": "0x1CEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The audience's voices raised at that moment, along with the sounds from the stage."
+	},
+	{
+		"LABEL": "0x1D4E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My breath was caught in my throat as I was confronted with a sight I had never seen before, a sight that made me go numb."
+	},
+	{
+		"LABEL": "0x1DFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked beside me."
+	},
+	{
+		"LABEL": "0x1E32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There was Ayume, and her eyes were glued to the stage."
+	},
+	{
+		"LABEL": "0x1E92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The look was something I had never seen before..."
+	},
+	{
+		"LABEL": "0x1ED8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She looked like an innocent girl whose face lit up when she saw something she liked."
+	},
+	{
+		"LABEL": "0x1F77",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x1F87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How do you like it? It's amazing, isn't it? This feeling - it's very captivating."
+	},
+	{
+		"LABEL": "0x1FF0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x2000",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted you to know this, too. ...To you who fell in love with me."
+	},
+	{
+		"LABEL": "0x206E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Those words would have made my heart soar."
+	},
+	{
+		"LABEL": "0x20C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was proof that she thought of me as someone special."
+	},
+	{
+		"LABEL": "0x2124",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... why?"
+	},
+	{
+		"LABEL": "0x215E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I now felt some sort of distance with Ayume."
+	},
+	{
+		"LABEL": "0x21C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She was physically beside me, but it felt like she and I were in different worlds."
+	},
+	{
+		"LABEL": "0x2223",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x2233",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Exhilaration flows through your whole body. That feeling of conclusion... Once you feel it, you can't go back."
+	},
+	{
+		"LABEL": "0x22C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x22D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Itarou, I'm far too different from you. That's why we can't be together."
+	},
+	{
+		"LABEL": "0x2344",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So that's why."
+	},
+	{
+		"LABEL": "0x2378",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My love must end here."
+	},
+	{
+		"LABEL": "0x240B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x241B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This will be the first and last time. Thank you, Itarou."
+	},
+	{
+		"LABEL": "0x248A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ayume"
+	},
+	{
+		"LABEL": "0x249A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey. I'm not lying about my gratitude."
+	},
+	{
+		"LABEL": "0x24F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The voices from the audience grew louder."
+	},
+	{
+		"LABEL": "0x2533",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It would have been too hard to hear Ayume's voice, but I heard it clearly."
+	},
+	{
+		"LABEL": "0x25AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pushed down the urge rising within me, and I gave a small laugh back."
+	},
+	{
+		"LABEL": "0x260F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I now had a cherished memory of spending time with her."
+	},
+	{
+		"LABEL": "0x2659",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Goodbye, my long sought for girlfriend."
+	},
+	{
+		"LABEL": "0x2695",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I quietly put a lid on my love."
+	}
+]
